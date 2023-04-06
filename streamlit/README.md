@@ -18,4 +18,4 @@ $ streamlit app.py
 
 3. Interact with the application as desired.
 
-![Alt text](./img/example-1.png "Streamlit UI")
+![Alt text](.././img/example-1.png "Streamlit UI")
