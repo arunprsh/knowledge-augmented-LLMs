@@ -8,7 +8,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Usage
-1. Run the Streamlit application by executing the command below in your local system terminal. 
+1. Run the Streamlit application by executing the command below in your local system terminal:
 
 ```bash
 $ streamlit app.py
@@ -18,4 +18,4 @@ $ streamlit app.py
 
 3. Interact with the application as desired.
 
-
+![Alt text](./img/example-1.png "Streamlit UI")
