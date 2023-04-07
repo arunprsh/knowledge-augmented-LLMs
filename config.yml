@@ -1,0 +1,6 @@
+credentials:
+  username: xxxxxxxx
+  password: xxxxxxxx
+domain:
+  endpoint: https://xxxxxxxx.us-east-1.es.amazonaws.com
+  index: legal-passages

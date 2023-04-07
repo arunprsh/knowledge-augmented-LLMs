@@ -8,7 +8,6 @@ __pycache__/
 
 # ipynb and config
 .ipynb_checkpoints/
-config.yml
 
 # Distribution / packaging
 .Python
