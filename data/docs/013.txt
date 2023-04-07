@@ -1,0 +1,196 @@
+The appellant, Ms Samuels, was an assured shorthold tenant of 18 Dagger Lane, West Bromwich, Birmingham, where she lived with four children.
+In July 2011, having fallen into rent arrears, she was given notice to leave.
+She later applied to the respondent council as homeless under Part VII of the Housing Act 1996.
+But it was decided that she was intentionally homeless, on the ground that the accommodation at Dagger Lane was affordable and reasonable for her to continue to occupy, and that its loss was the result of her deliberate act in failing to pay the rent.
+That decision was ultimately confirmed on review by the council in a letter dated 11 December 2013.
+The central issue in this appeal is whether the council adopted the correct approach in determining that the accommodation was affordable for those purposes.
+Ms Samuelss appeal to the County Court against the councils decision was dismissed by H H Judge Worster on 10 June 2014, and her further appeal was dismissed by the Court of Appeal (Richards, Floyd, and Sales LJJ) [2016] PTSR 558 on 27 October 2015.
+She appeals to this court with permission granted by the court on 19 February 2018. (The notice of appeal recorded that the very substantial delay in bringing the case to this court was caused by funding problems, related to the refusal of legal aid, and the need to proceed by way of conditional fee agreement.
+Legal Aid was reinstated after permission to appeal had been granted by this court.
+We were told that in the meantime she and her family have been living in temporary accommodation provided by the council.)
+The statutory framework
+The relevant statutory provisions are in Part VII of the 1996 Act.
+The authority becomes under a full duty to secure accommodation to a person found homeless, if they find certain conditions satisfied, one of which is that they are not satisfied that she became homeless intentionally (section 193(1)).
+That in turn depends on whether she deliberately did or failed to do anything in consequence of which she ceased to occupy accommodation which was available for her occupation and which it would have been reasonable for [her] to continue to occupy (section 191(1)).
+The initial decision is made under section 184 of the 1996 Act; section 202 confers a right to request a review by the authority itself; section 204 confers a right of appeal to the County Court on a point of law.
+Section 177(3) enables the Secretary of State by order to specify matters to be taken into account or disregarded in determining the question under section 191(1).
+The Homelessness (Suitability of Accommodation) Order 1996 (SI 1996/3204) (the 1996 Order), made in the exercise of that power, provided: 2.
+Matters to be taken into account In determining whether it would be, or would have been, reasonable for a person to continue to occupy accommodation there shall be taken into account whether or not the accommodation is affordable for that person and, in particular, the following matters the financial resources available to that person, (a) including, but not limited to, salary, fees and other remuneration; social security benefits; (i) (ii) the costs in respect of the accommodation, (b) including, but not limited to, (i) payments of, or by way of, rent; (d) that persons other reasonable living expenses.
+Section 182(1) requires the authority to have regard to guidance given by the Secretary of State.
+The relevant guidance at the time was the Homelessness Code of Guidance for Local Authorities (the Code).
+It was issued in 2006, replacing earlier versions dated 1999 and 2002.
+Paragraph 17.39 of the Code set out article 2 of the 1996 Order, with additional italicised comments.
+It stated inter alia that account must be taken of: the financial resources available to him or her (ie all (a) forms of income), including, but not limited to: (i) salary, fees and other remuneration (from such sources as investments, grants, pensions, tax credits etc); social security benefits (such as housing benefit, (ii) income support, income based Jobseekers Allowances or Council Tax benefit etc) On the expenses side, the reference to rent was expanded: payments of, or by way of, rent (including rent default/property damage deposits).
+There were no italicised additions to the reference to that persons other reasonable living expenses.
+Paragraph 17.40 read: In considering an applicants residual income after meeting the costs of the accommodation, the Secretary of State recommends that housing authorities regard accommodation as not being affordable if the applicant would be left with a residual income which would be less than the level of income support or income based jobseekers allowance that is applicable in respect of the applicant, or would be applicable if he or she was entitled to claim such benefit.
+This amount will vary from case to case, according to the circumstances and composition of the applicants household.
+A current tariff of applicable amounts in respect of such benefits should be available within the authoritys housing benefit section.
+Housing authorities will need to consider whether the applicant can afford the housing costs without being deprived of basic essentials such as food, clothing, heating, transport and other essentials (Emphasis added)
+As will be seen, an important issue in the appeal is whether the reference to use of income support as a guide is to be treated as extending also to benefits in respect of children, in particular child tax credit.
+It is helpful in this context to refer to Humphreys v Revenue and Customs Comrs [2012] UKSC 18; [2012] 1 WLR 1545, where Lady Hale explained the change.
+Having noted that income support was a means tested benefit at the officially prescribed subsistence level, she described the introduction of child tax credit (CTC): Child tax credit and working tax credit were introduced by the Tax Credits Act 2002.
+Child tax credit replaced the separate systems for taking account of childrens needs in the tax and benefits systems.
+Previously, people in work (or otherwise liable to pay income tax) might claim the childrens tax credit to set off against their income.
+This was administered by the tax authorities.
+People out of work (or otherwise claiming means tested benefits) might claim additions to their income support or income based jobseekers allowance to meet their childrens needs.
+This was administered by the benefits authorities.
+Under the new system, a single tax credit is payable in respect of each child, irrespective of whether the claimant is in or out of work, and is administered by Her Majestys Revenue and Customs.
+Child tax credit is like income support and jobseekers allowance, in that it is a benefit rather than a disregard and it is means tested, so that the higher ones income the less the benefit, until eventually it tapers out altogether. (paras 3 4)
+Ms Samuels income and expenditure
+For the purpose of comparing her income and expenditure at the relevant time, the evidence provided to the authority, and recorded by the county court judge (paras 15ff), presented a somewhat confusing picture, not assisted by the varying estimates presented by or on behalf of Ms Samuels.
+On the income side, at the time that she left 18 Dagger Lane Ms Samuels was dependent entirely on social security benefits, amounting in total to a monthly income of 1,897.84, made up of: i) housing benefit (548.51) ii) income support (290.33); iii) child tax credit (819.00); iv) child benefit (240.00).
+Excluding housing benefit, therefore, the total available for other living expenses was 1,349.33.
+On the expenses side, her rent was 700 per month, leaving a shortfall compared to her housing benefit taken alone of 151.49.
+Her estimates of her non housing expenses had varied in the course of her exchanges with the council.
+Her initial estimate had been only 380 per month (including 150 food/household items).
+By the time of the review decision, a revised schedule had been submitted by her solicitors on 1 November 2013, giving a total estimate of 1,234.99, consisting of: i) 750 food/household items; ii) 80 electricity; iii) 100 gas; iv) 50 clothes; v) 43.33 TV licence; vi) 43.33 school meals; vii) 108.33 travel; viii) 20 telephone; ix) 40 daughters gymnastics.
+No supporting information was provided.
+The accompanying letter said: It is impossible for our client, who as you are aware has learning difficulties to remember precise details, we are confident that these figures are reasonably accurate.
+It will be seen that, on an overall view (including housing benefit and rent), her monthly income amounted to 1,897.84 entirely from benefits, and her expenses amounted to 1,934.99, giving a shortfall of about 37 per month.
+According to the authoritys inquiries of her landlords, she also had arrears of rent of 1,600, although she claimed it was only one months rent (700).
+This difference was left unresolved by the judge (para 23).
+Although these figures were accepted as common ground in the lower courts, Ms Garnham for the Child Poverty Action Group (CPAG) has pointed to some apparent discrepancies in respect of benefits.
+She explains in her witness statement of 11 January 2019, para 68: I note that in para 11 of the judgment of the Court of Appeal the appellant gives her income at the relevant time as child tax credits of 189 a week (ie 819 a month), income support of 67 a week (ie 290.33 a month) and child benefit of 240 a month.
+The correct amount of child tax credits would in fact be 206.15 a week.
+Assuming the figures given by the appellant are correct, it is likely that the tax credit award was in fact being paid at a lower rate to recover a previous overpayment.
+The other figures given for income support are out by 0.50 per week (so monthly should be 292.50) and for child benefit the figure given is a four weekly figure rather than the calendar month figure of 262.16.
+I record this evidence for completeness and in case the differences may become material hereafter.
+However, it is not directly relevant to the appeal, which is in principle limited to points of law arising from the original decision of the council, and taking into account the information then before it.
+The councils decision
+The councils final position on affordability in the present case appears from their review decision letter dated 11 December 2013.
+The letter, written by the case officer, was long and detailed, and dealt with other issues which are no longer in dispute.
+It began by referring in general terms to various sources considered, including the Code of Guidance (see para 6 above), but there was no specific reference to the paragraphs dealing with affordability.
+The officer first addressed, and rejected, a suggestion that her last settled accommodation should be treated as her ex partners address, where she went for a period after leaving 18 Dagger Lane.
+The officer then turned to the treatment of affordability, which was dealt with relatively briefly.
+He referred to the shortfall in respect of monthly rent (151.49), and the monthly income, apart from housing benefit, of 1,349.33 (see above).
+He noted that on the expenditure figures originally submitted there would have been a significant amount of disposable income from which to fund your shortfall.
+Referring to the amended figures, he commented: It is now asserted that contrary to the provided figure of 150 for housekeeping, the actual figure was 750 per month, or 173 per week.
+This figure seems to me to be excessive for a family of your size, given that this is purported to only account for food and household items, with utilities and travel expenses accounted for elsewhere.
+I accept that a figure of 150 per month for food and household bills for a family of your size is equally likely to be inaccurate, but I consider that it is a matter of normal household budgeting that you would manage your household finances in such a way to ensure that you were able to meet your rental obligation.
+I cannot accept that there was not sufficient flexibility in your overall household income of in excess of 311 per week to meet a weekly shortfall in rent of 34. [The figures of household income (311) and shortfall in rent (34) given in the letter appear to be the (rounded) weekly equivalents of the monthly figures given earlier in the letter (1,349.33 and 151.49 respectively).] The officer noted that, in spite of some learning difficulties, she had confirmed her ability to pay her bills on time and manage her finances.
+It was concluded accordingly that the accommodation at 18 Dagger Lane was affordable for her.
+The appeal
+In the County Court counsel for Ms Samuels raised a number of grounds of appeal, including the alleged failure of the reviewing officer to have regard to paragraph 17.40 of the Code of Guidance.
+The Judge rejected this submission (para 54).
+He referred to Balog v Birmingham City Council [2013] EWCA Civ 1582; [2014] HLR 14, in which a similar submission had been rejected by the Court of Appeal.
+He accepted counsels submission for the authority that the Code was a recommendation; the Code had been referred to in the letter, and it was reasonable to assume that the decision was made having considered its provisions.
+He added that if paragraph 17.40 was not fully considered, it was an error which does not invalidate the decision.
+The reasons did not need to set out every aspect of the decision making process.
+The appeal was dismissed by the Court of Appeal.
+Giving the sole judgment, Richards LJ noted the submission by Mr Stark for Ms Samuels that when an applicant is reliant entirely on benefits, regard should be had to the fact that such benefits are set at subsistence level and are not designed to give a level of income that allows flexibility to spend outside maintaining a very basic standard of living, and that income support, child tax credits and child benefit are not intended to cover housing costs; it is the purpose of housing benefit to cover those costs (para 24).
+He did not accept that there was such a necessary starting point: The 1996 Order and the guidance make clear that account should be taken of all forms of income (including social security benefits of all kinds) and of relevant expenses (including rent and other reasonable living expenses).
+This suggests that a judgment has to be made on the basis of income and relevant expenses as a whole.
+It does not suggest that benefits income is to have any special status or treatment in that exercise, let alone that one should adopt the starting point formulated by Mr Stark. (para 25)
+With regard to the alleged failure to have regard to paragraph 17.40, he noted (para 34) the comment of Kitchin LJ in Balog v Birmingham City Council [2014] HLR 14, para 49 that review officers are not obliged to identify each and every paragraph of the guidance which bears upon the decision they have to make.
+Referring to the comparison with income support he said: It is true that the review decision did not address that point in terms.
+It did, however, take into account the payment of income support, and on the face of it the appellants residual income after the cost of her accommodation (ie after deduction of the shortfall in her rent) was well in excess of the level of her income support.
+At the hearing of the appeal Mr Stark did not suggest otherwise He did submit that the child tax credits should also be taken into account in this part of the exercise, but that is not what paragraph 17.40 says (para 36)
+He also referred to a new point which Mr Stark had sought to introduce in post hearing written submissions related to changes in the relative treatment of income support and child tax credit.
+So far as he understood it, this seemed to him to depend on a strained and implausible construction of the guidance itself, but in any event he accepted the authoritys submission that it was too late to raise it (para 37).
+The submissions in this court
+For the appellant, Mr Stark, with the support of Mr Westgate QC for the interveners, asks the court to look at the issues in this case against a background in which shortfalls between contractual rent and maximum levels of housing benefit have become common for a number of reasons, in both the private and social rented sectors, because of developments in social security policy.
+These include the local housing allowance size criteria and the social sector size criteria (the spare room subsidy / bedroom tax rules); contractual rent exceeding local broad rent levels for local housing allowance, originally set at the 50th centile of local reference rents but reduced to the 30th centile in 2011; the freezing of local reference rent rates from 2012 to 2013, and 2016 to 2020; and the benefit cap.
+He refers to evidence of the increasing incidence of homelessness linked to inability to afford rents.
+For example, the National Audit Office report, Homelessness (HC 308, 2017) identified a threefold increase since 2010 2011 in the number of applicants as a result of the ending of an assured shorthold tenancy.
+The report observed: 1.16.
+In all cases front line staff said that the key reason why people were presenting as homeless was the end of tenancies in the private rented sector.
+They said that this was due to increases in rents in the private sector, and a decline in peoples ability to pay these rents.
+This decline in ability to pay was said to be partly due to welfare reforms.
+Against this background, although he makes a number of related points, Mr Starks underlying submission is that it was wrong in principle for the council to treat Ms Samuels non housing benefit as containing a surplus which could be treated as available to make up shortfalls in housing benefits.
+More specifically he submits (in the words of his written case): The respondent failed to correctly apply the 1996 Order.
+Rather than add all income and subtract all reasonable expenditure, it treated the appellants housing benefit as hypothecated for rent, then asked whether the gap between
+housing benefit and rent could be bridged from other income
+Linked to this was a submission (supported by the interveners) that the council had failed to pay regard to paragraph 17.40, as correctly interpreted.
+It was submitted that the reference to a residual income less than the level of income support must be taken as not limited to income support in the strict sense, but as including amounts available in respect of the children, by way of child benefit or child tax credit.
+This, he says, is necessary to give effect to the obvious policy of the guidance, which is apparent also from the reference to the amount varying according to the composition of the applicants household.
+It would make no sense to recommend the use of her income support on its own, as a recommended guide to the reasonable family expenditure which must take account of the needs of the children.
+This interpretation is also necessary, it is said, to avoid arbitrary differences between different claimants.
+In this respect paragraph 17.40 must be understood against the background of changes in the treatment of benefits for claimants with children such as Ms Samuels.
+These changes occurred since the Code was first issued in 1999, and re issued in 2002, with paragraph 17.40 in substantially the same form. (The only change from 2002 was the omission of the word significantly before the words less than the level of income support).
+The changes are described in detail in the evidence of Ms Garnham, Chief Executive of CPAG.
+I can conveniently take the summary from Mr Westgate QCs submission for the interveners: Prior to April 2004, income support recipients with children would have received family premiums and dependent child additions as part of their claim (old style support).
+After April 2004, new income support recipients with children would no longer receive these additional payments in respect of children as part of their income support award but would instead have received Child Tax Credit instead (new style support).
+It was stated Government policy that there should be an equivalence between old style income support rates for children and child tax credit rates.
+The shift was not intended to disadvantage families who receive new style support, ie income support for the parent and child tax credit for each of the children.
+This change did not affect those who had been continuously receiving income support.
+According to the official statistics cited by Mr Stark, in 2006 when the Code was issued, the majority of claimants were still receiving income support including amounts for children.
+For that group, it would have been clear that the full amount of income support, including the amounts for children, would be taken into account.
+Although the proportion of claimants on the old arrangements had reduced to 1 in 20 by 2011, the wording of paragraph 17.40 remained the same.
+But it cannot have been intended that the advice in the paragraph should apply in a different way to the two groups, simply because of a change in the way their benefits were presented.
+Indeed to do so would be both irrational and discriminatory (in terms of articles 8 and 14 of the Human Rights Convention).
+More generally, Mr Stark submits that the benefits are intended as no more than the officially prescribed subsistence level (see Humphreys v Revenue and Customs Comrs [2012] UKSC 18; [2012] 1 WLR 1545, para 3 per Lady Hale).
+They are designed to cover necessary living expenses of the family.
+They cannot properly be treated as notionally available to make up a shortfall between housing benefit and rent.
+Thus in Mathieson v Secretary of State for Work and Pensions [2015] UKSC 47; [2015] 1 WLR 3250, para 15 (which concerned the cost occasioned by the prolonged stay in hospital of a disabled child, in a case where the family were receiving income support with child benefits and child tax credit), Lord Wilson observed that income support brought the familys economy up to, but not beyond, subsistence level; and that the Secretary of State had conceded that there would have been no surplus available to meet such extra expenditure as the family might incur as a result of [their child being admitted to hospital].
+He relies also on what was said by Henderson J in Burnip v Birmingham City Council [2012] EWCA Civ 629; [2013] PTSR 117, para 45: it is necessary to draw a clear distinction between the benefits which Mr Burnip was entitled to claim for his subsistence, and those which he was entitled to claim in respect of his housing needs.
+It would therefore be wrong in principle, in my judgment, to regard Mr Burnips subsistence benefits as being notionally available to him to go towards meeting the shortfall between his housing related benefits and the rent he had to pay.
+Although these statements were made specifically with reference to income support, it cannot have been intended that benefits related to children would be treated less favourably.
+Further, to do so would be inconsistent with the authoritys duty to have regard to the need to safeguard and promote the welfare of children (Children Act 2004 section 11(2); and see Nzolameso v Westminster City Council (Secretary of State for Communities and Local Government intervening) [2015] UKSC 22; [2015] PTSR 549, paras 22 30).
+In support of these submissions Mr Westgate refers to more recent statements in the government White Paper Universal Credit: welfare that works (DWP, November 2010 CM 7957).
+He refers to chapter 2 (Universal Credit: a new approach to welfare) which states: The personal amount is the basic building block of Universal Credit as it is in existing benefits.
+The purpose of the personal amount is to provide for basic living costs.
+It will broadly reflect the current structure of personal allowances in Income Support, Jobseekers Allowance and the assessment phase of Employment and Support Allowance, with single people and couples getting different rates. (para 19) The Government is committed to providing the financial support less well off families need to cover childrens living costs.
+We will therefore include fixed amounts within Universal Credit to provide for these costs.
+The amounts will be based on those currently provided through Child Tax Credit.
+They will be additional to Child Benefit. (para 38, emphasis added) Thus says Mr Westgate the personal allowance provides for no more than basic living costs while the amounts for children provide the support which the families need to cover (their) living costs.
+Although those passages are related directly to Universal Credit, the passages make clear that the policy approach as respects the purpose, and the level of, benefits has not changed from the previous system.
+Finally, Mr Westgate relies on the evidence of Polly Neate, Chief Executive of Shelter, as to the lack of any generally accepted guidance for authorities to assess the reasonableness of living expenses under the Suitability Order.
+Shelters research shows a wide variety of practice among housing authorities, and the absence of any transparent or evidence based guidance for that purpose.
+According to her evidence, 60% of authorities told Shelter that they have no internal guidance to assist them; only 17 of the 246 authorities who responded to Shelters Freedom of Information Act requests provided any training to housing decision makers on affordability assessment; and 43 of the 105 authorities who had some form of guidance or policy relied on one of three published guides on expenditure: (i) the Standard Financial Statement (SFS); (ii) the Common Financial Statement (CFS); or (iii) the Association of Housing Advice Services (AHAS) guideline figures.
+According to Ms Neate, none of these is designed for assessing affordability under the Housing Act, and they are subject to other concerns described in her evidence.
+In response to the appellants submissions, Mr Manning for the council adopts the reasoning of the Court of Appeal.
+The review officer correctly applied the approach of the 1996 Order, which required him to consider all sources of income, including social security benefits of all kinds.
+There was nothing in the Order, or any other policy statement, to support Mr Starks central thesis that non housing welfare benefits cannot be used to meet housing costs, nor taken into account in assessing the affordability of rented accommodation.
+Had it been intended that any category of non housing benefits should be excluded from consideration, it would have been easy so to provide.
+In the absence of such provision, it is not for the authority to investigate the policy from time to time behind particular benefits.
+The arguments based on the history of paragraph 17.40 of the Code, he submits, are not supported by the wording of the paragraph.
+The specific reference to tax credits in paragraph 17.39 shows that the author had the changes well in mind.
+The authoritys duty to have regard to the Code does not require, or entitle, it to search for interpretations which are not clear on a natural reading of the wording, nor to assume a meaning of income support based on a previous version of benefits law.
+Statements in the authorities to the effect that income support was set at subsistence level were made in different statutory contexts.
+In any event, child tax credit and child benefit are not subsistence benefits in that sense (see Humphreys supra para 22; R (PO) v Newham London Borough Council [2014] EWHC 2561 (Admin), paras 45 46).
+Discussion
+It is unfortunate that the submissions for the appellant, and in particular the arguments based on the interpretation of paragraph 17.40, seem to have been fully developed for the first time in this court.
+We do not therefore have the full benefit of the experience in this field of the Court of Appeal.
+Although Mr Westgates submissions and the supporting evidence for the interveners have provided some valuable background to the legal issues, we must bear in mind that this is an appeal relating to a particular decision, made more than five years ago, on the information then available to the council, not a general review of the law and policy in this field.
+There is an attraction in the argument that references to income support in paragraph 17.40 should be understood in the sense in which that expression was apparently used at the time of the earlier versions of the Code.
+It seems surprising, even nonsensical, that the level of income support should be maintained as a guide to affordability, but without regard to the changes which excluded from income support any allowance for the children of the family.
+However, those issues are not in my view critical to the resolution of this appeal.
+I would start from the terms of the 1996 Order itself.
+On the one side it requires the authority to take into account all sources of income, including all social security benefits.
+I agree with Mr Manning that there is nothing in the Order which requires or justifies the exclusion of non housing benefits of any kind.
+On the other side it requires a comparison with the applicants reasonable living expenses.
+Assessment of what is reasonable requires an objective assessment; it cannot depend simply on the subjective view of the case officer.
+Furthermore, as Mr Stark submits, affordability has to be judged on the basis that the accommodation is to be available indefinitely (see R (Aweys) v Birmingham City Council [2009] WLR 1506; [2009] UKHL 36).
+Guidance is provided by paragraph 17.40, where the Secretary of State recommends authorities to regard accommodation as unaffordable if the applicants residual income would be less than the level of income support (para 6 above).
+Even if that recommendation in respect of income support is not interpreted as extending to benefits for children, the lack of a specific reference does not make the level of those benefits irrelevant.
+As the authorities referred to by Mr Stark (para 26 above) show, benefit levels are not generally designed to provide a surplus above subsistence needs for the family.
+If comparison with the relevant benefit levels is material to the assessment of the applicant, it is difficult to see why it should be any less material in assessing what is reasonable by way of living expenses in relation to other members of the household.
+Relevant also is the duty under the Children Act to promote and safeguard the welfare of children.
+The guidance makes clear, as one would expect, that amounts will vary according to the circumstances and composition of the applicants household.
+Further, it is to be noted that, immediately after the reference to the household, there is a reference to a current tariff in respect of such benefits (plural), which suggests that the tariff may be looked at in respect of benefits other than income support, and is at least a good starting point for assessing reasonable living expenses.
+That was not how the review officer dealt with Ms Samuels case.
+He asked whether there was sufficient flexibility to enable her to cope with the shortfall of 151.49 between her rent and her housing benefit.
+However, the question was not whether, faced with that shortfall, she could somehow manage her finances to bridge the gap; but what were her reasonable living expenses (other than rent), that being determined having regard to both her needs and those of the children, including the promotion of their welfare.
+The amount shown in the schedule provided by her solicitors (1,234.99) was well within the amount regarded as appropriate by way of welfare benefits (1,349.33).
+In the absence of any other source of objective guidance on this issue, it is difficult to see by what standard that level of expenses could be regarded as other than reasonable.
+For these reasons in my view the appeal should be allowed and the review decision must be quashed.
+Mr Stark has not in his submissions invited us to give any further relief at this stage.
+I would however add that, in the light of the law as I have endeavoured to explain it, and on the information available to us, I find it hard to see on what basis the finding of intentional homelessness could be properly upheld.
+I therefore express the hope that, five years on, the process can be short circuited, and the council will on reconsideration be able to accept full responsibility under Part VII for Ms Samuels and her family.
+Postscript more recent developments
+For completeness, since this judgment may be relevant in future cases, I note that in the time since the councils decision there have been significant changes to the law and policy in this area.
+The Welfare Reform Act 2012 effected a radical overhaul of the benefits system, with the introduction of Universal Credit.
+When fully in force it will replace the existing system of means tested benefits and tax credits with a single payment.
+Awards under the new scheme comprise a standard allowance, with additional amounts for children, housing and other particular needs.
+Another significant change in 2017 was the Homelessness Reduction Act 2017, which among other things was designed to involve authorities at an earlier stage in preventing homelessness.
+In connection with the new legislation the government undertook a review of the Homelessness Code of Guidance, for which purpose it consulted on a revised draft published in October 2017.
+Under affordability, paragraph 17.40 was replaced by the following much shorter version: 17.45 Housing authorities will need to consider whether the applicant can afford the housing costs without being deprived of basic essentials such as food, clothing, heating, transport and other essentials specific to their circumstances.
+There was no reference to the use of welfare benefits as a guide.
+The governments consultation response dated February 2018 recorded a significant number of requests from all stakeholder groups for further guidance on assessing the affordability of accommodation, and that it had been decided to include additional information on assessing affordability for a person based on Universal Credit standard allowances in chapter 17.
+The revised paragraph of the 2018 Code as issued reads: 17.46 Housing authorities will need to consider whether the applicant can afford the housing costs without being deprived of basic essentials such as food, clothing, heating, transport and other essentials specific to their circumstances.
+Housing costs should not be regarded as affordable if the applicant would be left with a residual income that is insufficient to meet these essential needs.
+Housing authorities may be guided by Universal Credit standard allowances when assessing the income that an applicant will require to meet essential needs aside from housing costs, but should ensure that the wishes, needs and circumstances of the applicant and their household are taken into account. (Emphasis added) It will be noted that this is no longer a recommendation but merely something which may be used as guidance; and that the suggested comparison is with Universal Credit standard allowances.
+The court did not hear argument on whether this is limited to a standard allowance payable to adults or whether it includes amounts payable in respect of children.
+It is not clear from the consultation response whether the new form of wording followed any discussion of the issues raised in this appeal or highlighted in the interveners evidence.
+That evidence shows what appears to be an unfortunate lack of consistency among housing authorities in the treatment of affordability, and a shortage of reliable objective guidance on reasonable levels of living expenditure.
+It is to be hoped that, in the light of this judgment, the problem will be drawn to the attention of the relevant government department, so that steps can be taken to address it and to give clearer guidance to authorities undertaking this very difficult task.

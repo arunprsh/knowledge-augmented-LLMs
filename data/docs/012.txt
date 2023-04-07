@@ -1,0 +1,172 @@
+The central issue in this appeal is whether the Court of Appeal in Northern Ireland was entitled to order that a claim for damages under section 8 of the Human Rights Act 1998, for breach of the requirement under article 2 of the European Convention on Human Rights that an investigation into a death should begin promptly and proceed with reasonable expedition, should not be brought until an inquest has been concluded, or if already brought should be stayed until after that date.
+The facts
+The appellants son, Pearse Jordan, was shot and killed by a member of the Royal Ulster Constabulary on 25 November 1992.
+In 1994 the appellants husband, Hugh Jordan, made an application to the European Court of Human Rights, complaining that the failure to carry out a prompt and effective investigation into his sons death was a violation of article 2.
+An inquest commenced on 4 January 1995 but was adjourned shortly afterwards.
+On 4 May 2001 the European Court of Human Rights upheld Mr Jordans complaint and awarded him 10,000 in respect of non pecuniary damage, together with costs and expenses: Jordan v United Kingdom (2003) 37 EHRR 2.
+A fresh inquest into Pearse Jordans death commenced on 24 September 2012, and a verdict was delivered on 26 October 2012.
+Hugh Jordan then brought proceedings for judicial review of the conduct of the inquest, which resulted in the verdict being quashed: In re Jordans application for Judicial Review [2014] NIQB 11.
+A subsequent appeal against that decision was dismissed: [2014] NICA 76.
+In 2013 Hugh Jordan brought the present proceedings for judicial review, in which he sought declarations that the Coroner and the Police Service of Northern Ireland (PSNI) had been responsible for delay in the commencement of the inquest in violation of his rights under article 2, together with awards of damages under section 8 of the Human Rights Act in respect of the delay from 4 May 2001 until 24 September 2012.
+Stephens J upheld the claim against the PSNI, finding that there had been a series of failures to disclose relevant information until compelled to do so, and also a delay in commencing a process of risk assessment relating to the anonymity of witnesses: [2014] NIQB 11, paras 350 359.
+Following a further hearing in that case and five other similar cases, he made a declaration that the PSNI delayed progress of the Pearse Jordan inquest in breach of article 2 of the European Convention on Human Rights and contrary to section 6 of the Human Rights Act 1998, and awarded damages of 7,500: [2014] NIQB 71.
+The Chief Constable of the PSNI appealed against the declaration and award of damages, contending that although the PSNI might have been responsible for part of the delay, they should not have orders made against them where other state authorities had also been responsible for the delay but were not party to the proceedings.
+Hugh Jordan cross appealed against the dismissal of his claim against the Coroner.
+The Department of Justice was joined as a respondent to the proceedings.
+It is a matter of agreement before this court that, at the hearing of the appeal, the Court of Appeal raised a preliminary issue relating to the timing of the application for judicial review, and heard argument on that issue only.
+The judgment itself states that the issue of timing was raised by counsel for the PSNI, who argued that the application was time barred under section 7(5) of the Human Rights Act, since there was no finding that delay in breach of article 2 had occurred within the period of 12 months immediately prior to the commencement of the proceedings, and there was no reason why the court should exercise its discretion to extend the period for bringing proceedings under section 7(5)(b).
+Judgment was handed down on 22 September 2015: [2015] NICA 66.
+That judgment was subsequently withdrawn and a revised judgment, also dated 22 September 2015, was issued on 12 May 2017.
+The resultant orders, also dated 22 September 2015, were made on 10 June 2017.
+The judgment and orders are discussed below.
+The immediate result of the orders was a stay of proceedings.
+A further inquest into Pearse Jordans death commenced on 22 February 2016 and a verdict was delivered on 9 November 2016.
+That verdict was challenged in judicial review proceedings brought by Pearse Jordans mother, the present appellant, but without success: In re Jordans application for Judicial Review [2018] NICA 34.
+She also took over the conduct of the present proceedings from her husband as his health had deteriorated so as to prevent him from taking part.
+On 23 October 2017, following a hearing which it had convened of its own motion in the exercise of its case management functions, the Court of Appeal lifted the stay on the present proceedings.
+It had been in place for a period of two years and one month.
+Both the Chief Constables appeal and the claimants cross appeal were heard during 2018.
+The cross appeal was dismissed: [2018] NICA 23.
+The appeal has not yet been decided.
+The delays in the investigation into Pearse Jordans death, and the repeated litigation which has characterised that process, are a common feature of what have come to be known as legacy cases: that is to say, cases concerning deaths occurring in Northern Ireland during the Troubles.
+In his recent judgment In re Hughes application for Judicial Review [2018] NIQB 30, Sir Paul Girvan found that there was systemic delay in these cases, arising from a lack of resources to fund inquests of the length, complexity and contentiousness involved.
+There were at that point 54 inquests pending in relation to 94 deaths.
+Only one inquest was heard during 2018.
+In an effort to address this problem, reforms have been proposed by the Lord Chief Justice of Northern Ireland which, it is hoped, will enable all the outstanding cases to be heard within five years.
+The proposed reforms have not however been implemented, as the necessary funding has not been provided.
+The judgment and order of the Court of Appeal
+In its judgment the court considered how section 7(5) of the Human Rights Act applies to complaints of delay in relation to the holding of inquests.
+Section 7(1)(a) provides that a person who claims that a public authority has acted in a way which is made unlawful by section 6(1) (ie has acted in a way which is incompatible with a Convention right) may bring proceedings against the authority under the Act.
+Section 7(5) provides: (5) Proceedings under subsection (l)(a) must be brought before the end of the period of one year beginning with the date on (a) which the act complained of took place; or (b) considers equitable having regard circumstances such longer period as the court or tribunal the
+to all
+The court observed that it was apparent from the history of this case and other legacy cases that delay as a result of failures to disclose evidence had been a recurring problem.
+Where there had been a series of failures of disclosure, was it necessary, the court asked, for the applicant to issue proceedings within one year of the end of a particular failure to disclose, or was the applicant entitled to include periods of delay resulting from earlier failures where proceedings were issued within 12 months of the latest failure? Might the answer to that question depend upon whether there was a finding that all of the failures of disclosure were part of a policy or practice to cause delay?
+The court did not answer these questions, but it observed that in the light of these issues, and the very long delays occurring in legacy cases, those who wished to avoid being captured by the primary limitation period under section 7(5)(a) might well feel obliged to issue proceedings separately in relation to each and every incident of delay.
+That might involve separate proceedings against different public authorities allegedly contributing to periods of delay which might or might not overlap.
+If each case had to be pursued within one year of the end of each particular element of delay, that would introduce a proliferation of litigation in respect of which periods of delay justified an award of damages against which public authorities.
+Practicality and good case management pointed towards ensuring that all of those claims against each public authority should be heard at the same time.
+In the present case a fresh inquest had been ordered (ie the inquest which began on 22 February 2016 and had already been completed when the substituted judgment was delivered).
+If it did not take place within a reasonable time, that would constitute a fresh breach of the Convention for which a remedy, including damages, might be available.
+It was when the inquest was completed that it would be possible to examine all the circumstances surrounding any claim for delay, and the court would then be in a position to determine whether adequate redress required an award of damages and, if so, against which public authority in which amount.
+The court stated at para 21: We consider, therefore, that in legacy cases the issue of damages against any public authority for breach of the adjectival obligation in article 2 ECHR ought to be dealt with once the inquest has finally been determined.
+Each public authority against whom an award is sought should be joined.
+In order to achieve this it may be necessary to rely upon section 7(5)(b) of the 1998 Act.
+The principle that the court should be aware of all the circumstances and the prevention of even further litigation in legacy cases are compelling arguments in favour of it being equitable in the circumstances to extend time if required.
+Where the proceedings have been issued within 12 months of the conclusion of the inquest, time should be extended.
+This appears on its face to constitute general guidance for all legacy cases in which damages are sought.
+The court made it clear at para 22 that it expected there to be very few, if any, exceptions to this approach: We find it difficult to envisage any circumstances in which there should be an exception to the approach set out in the preceding paragraph in such cases.
+The court concluded at para 23: For the reasons given we consider that the claim for damages for delay should be assessed after the completion of the inquest but should be made within one year of the completion.
+Since we have ordered a fresh inquest in this case that period has not yet commenced.
+We will hear the parties on whether the appeal on the award of damages should be adjourned until after the inquest or allowed without adjudication on the merits to enable the issue of a fresh claim.
+The first sentence in this passage again appears to constitute general guidance for legacy cases (since damages had already been assessed in the present case).
+So far as the present case was concerned, the alternatives set out in the third sentence were either to adjourn further consideration of the appeal until after the inquest had been completed, or to allow the appeal without a decision on the merits, so that the proceedings were brought to an end and a further claim could be brought after the inquest.
+In the event, the resultant order stayed the proceedings until the conclusion of the inquest, as explained earlier.
+Separate orders were made on 10 June 2017 in respect of the appeal and the cross appeal.
+In relation to the appeal, the court ordered: 1. that the claim for damages for breach of the article 2 procedural requirement that an inquest be conducted promptly should not be brought until the inquest has finally been determined. that where a claim for damages for breach of the article 2. 2 procedural requirement that an inquest be conducted promptly is brought within 12 months of the conclusion of the inquest, time should be extended under section 7(5)(b) of the 1998 Act [ie the Human Rights Act]. that the appeal be stayed until the conclusion of the 3. inquest proceedings.
+In relation to the cross appeal, the court ordered: 1. that the issue of delay at ground 7 on the cross appeal be stayed until the conclusion of the inquest proceedings.
+Paragraph 1 of the order in the appeal was consistent with the general guidance given in the judgment, and appeared to lay down a general rule that claims of the present kind should not be brought until an inquest has been concluded.
+It has no direct bearing on the present proceedings, where the claim was brought as long ago as 2013.
+Paragraph 2 addressed the implications of paragraph 1 in relation to the limitation period imposed by section 7(5).
+Only paragraph 3, and the order in the cross appeal, directly concerned the present proceedings.
+The decision of the Court of Appeal appears to have been understood as laying down a general rule that claims of the present kind could not be brought before the conclusion of an inquest, and that any claims which had been brought before that stage should be stayed until then.
+The present appeal
+The present appeal was brought in order to challenge the general guidance given by the Court of Appeal, reflected in paragraph 1 of the order made in the appeal.
+The main issue in the appeal was agreed to be whether the Court of Appeal was correct to rule that a victim adversely impacted by delay in the conduct of an inquest could not bring a claim for damages prior to the conclusion of the inquest.
+The appellant sought to set aside the judgment and order made by the Northern Ireland Court of Appeal whereby it decided that her claim for damages for breach of article 2 ECHR by reason of delay could only be brought after the conclusion of the inquest into her sons death.
+In re McCords application for Judicial Review
+After the hearing of the present appeal, the Court of Appeal handed down judgment in another legacy case where the applicant had applied for leave to issue judicial review proceedings in which he sought a declaration that the non disclosure of certain documents by the PSNI had caused delay in the holding of an inquest, in violation of his rights under article 2: In re McCords application for Judicial Review, unreported, 18 January 2019.
+The proceedings had been stayed by the High Court.
+In the course of its judgment, the Court of Appeal considered the judgment under appeal in the present proceedings (in its original version).
+It said at paras 21 22, in relation to para 27 of its original judgment in the present case (identical to para 22 of the revised version, cited at para 15 above): 21.
+We accept that this passage created the impression that in every legacy case any application to pursue a remedy by way of damages for delay could only be dealt with at the end of the inquest.
+Indeed it is clear that that was the common understanding of the parties before the learned trial judge as a result of which the applicant decided to abandon the determination of his claim for damages in the proceedings and rely solely upon the claim for a declaration 22.
+We consider, however, that this passage of the judgment ought to be interpreted in a rather more qualified manner.
+First, it has to be borne in mind that the court, having given the judgment in September 2015, decided of its own motion to relist the case for the determination of the damages claim in June 2017 having regard to the fact that the inquest had not yet concluded.
+Secondly, it needs to be borne in mind that this was a case management decision and was not intended to set forth any rule of law about the entitlement to damages in legacy cases.
+Thirdly, the case was concerned with circumstances in which there were active and ongoing inquest proceedings but where issues of delay in the course of those active proceedings arose.
+It was such cases that were being discussed in this passage of the judgment and we consider that the interpretation of para 27 [ie para 22 of the revised version] should be confined to cases in which those circumstances are present.
+The court observed at para 23 that the case before it was different: The inquest in this case has not taken place.
+No Coroner has been allocated to hear it and no materials have been provided to the Coroners Service by the police.
+It is impossible to estimate how many years it might take before the inquest might proceed In these circumstances the appeal was allowed.
+In the light of this judgment, it appears that the Court of Appeal intends the guidance given in the present case to be confined to cases where the only outstanding issue is damages and where an inquest can be expected to begin within the near future, if not already under way.
+The court also indicated in para 22 that the appropriateness of the stay should be kept under review, and that it should be lifted if the claim for damages will not otherwise be determined within a reasonable time.
+Discussion
+In considering the guidance given by the Court of Appeal in the present case, as clarified in the case of McCord, it must be borne in mind at the outset that, in cases of the present kind, it is the delay itself which constitutes a breach of the claimants Convention rights and gives rise to a right to bring proceedings under the Human Rights Act.
+The breach does not crystallise only after the inquest has been concluded: the claimant is entitled to bring proceedings as soon as the delay reaches the requisite threshold under article 2.
+Claims arising from such delay are brought under section 7(1)(a) of the Human Rights Act.
+That provision confers a statutory right on any person who claims that a public authority has acted in a way which is incompatible with a Convention right to bring proceedings against the authority, provided that he or she qualifies as a victim of the unlawful act and brings the proceedings within the time limits set by section 7(5).
+The court then has the power to grant appropriate relief under section 8.
+This may take the form of relief designed to end the delay, such as a mandatory order or declaration, or relief designed to compensate for the consequences of delay, in the form of an award of damages.
+In the present proceedings, both a declaration and damages were sought and awarded.
+The same remedies were also sought in the McCord case, although the claim for damages was abandoned in light of the guidance given in the present case.
+No court can take away the right conferred by section 7(1)(a), whether in the exercise of case management powers or otherwise.
+Leaving aside the courts power to control vexatious litigants and abuses of process, which are not here in issue, there can be no question of anyone being prevented from bringing proceedings at a time of their choosing (subject to the limitation provision in section 7(5)) in respect of a claimed violation of their Convention rights.
+Although the court cannot prevent proceedings from being brought by persons who claim that their Convention rights have been violated, it can exercise powers of case management in relation to those proceedings.
+Such powers can include ordering a stay of proceedings in appropriate circumstances.
+In that regard, however, three important aspects of Convention rights must be borne in mind.
+1. Rights that are practical and effective
+First, the European Court has emphasised many times that Convention rights must be applied in a way which renders them practical and effective, not theoretical and illusory: see, for example, Airey v Ireland (1979) 2 EHRR 305, para 24.
+The effectiveness of the right under article 2 to have an investigation into a death begin promptly and proceed with reasonable expedition could be gravely weakened if there were a general practice of staying proceedings seeking to secure the prompt holding of an inquest, typically by obtaining a mandatory order or a declaration.
+Although compensation might be payable at a later stage, the primary object of the Convention, and of the Human Rights Act, is to secure compliance with the Convention so far as possible, rather than to tolerate violations so long as compensation is eventually paid.
+On the other hand, a practice of staying the assessment of damages (as distinct from the consideration of remedies designed to end the delay) until the entirety of the delay can be considered is less likely to undermine the effectiveness of the right, since that is less likely to depend on the point in time at which damages are assessed and awarded.
+Nevertheless, it remains necessary to consider whether that might be the consequence of a stay in the individual case before the court.
+2. Determination within a reasonable time
+Secondly, since the right conferred by section 7(1)(a) of the Human Rights Act is a civil right within the meaning of article 6 of the Convention, a claimant is entitled under that article to have his claim determined within a reasonable time.
+That right under article 6 is distinct from the article 2 right on which the proceedings are based.
+A breach of the article 6 right is itself actionable under section 7(1)(a).
+The staying of proceedings will be unlawful if it results in a breach of the reasonable time guarantee in article 6.
+That would be a real possibility in some cases, if stays until after the completion of an inquest were ordered as a general rule.
+In the McCord case, the Court of Appeal observed that it was impossible to estimate how many years it might take before the inquest might proceed.
+In the proceedings brought by Hugh Jordan successfully challenging the verdict of the second inquest, the Lord Chief Justice remarked that if the existing legacy inquests are to be brought to a conclusion under the present system someone could easily be hearing The proportionality of a restriction on access to the courts some of these cases in 2040: [2014] NICA 76, para 122.
+The state of affairs described in Sir Paul Girvans recent judgment In re Hughes application for Judicial Review is consistent with that assessment.
+Plainly, a stay of that duration, or anything like it, would constitute a breach of article 6. 3.
+Thirdly, since a stay of proceedings prevents a claim from being pursued so long as it remains in place, it engages another aspect of article 6 of the Convention, namely the guarantee of an effective right of access to a court: see, for example, Woodhouse v Consignia plc [2002] EWCA Civ 275; [2002] 1 WLR 2558.
+It must therefore pursue a legitimate aim, and there must be a reasonable relationship of proportionality between the means employed and the aim sought to be achieved: see Tinnelly & Sons Ltd v United Kingdom (1998) 27 EHRR 249, para 72.
+It follows that even in a case where a stay would not render the article 2 right ineffective or breach the reasonable time guarantee in article 6, it is nevertheless necessary to consider whether it would be a proportionate restriction of the right of access to a court.
+As will be explained, that exercise requires consideration of the circumstances of the individual case before the court.
+So far as legitimate aims are concerned, the Court of Appeal mentioned two objectives: that a proliferation of litigation should be avoided, and that the court should be aware of all relevant circumstances when determining claims.
+Both of those aims are clearly legitimate.
+The courts concern about a potential proliferation of litigation was based, as it explained, on uncertainty in the legal profession about the answers to certain questions affecting the limitation of claims: whether a separate violation of the article 2 right to a prompt investigation, for which a separate claim arises, occurs on every occasion when a public authority is responsible for some measure of unjustified delay; and if so, whether such claims become time barred under section 7(5)(a), subject to the courts exercise of its discretion under section 7(5)(b), 12 months after each claim arises.
+How those questions should be answered has seemingly yet to be considered.
+If a suitable case were brought before the court for determination, that uncertainty could be resolved one way or the other.
+Until that occurs, however, the courts concern that uncertainty may result in a proliferation of litigation is reasonable and constitutes an important consideration on one side of the scales.
+In relation to the other legitimate aim, namely that the court should be aware of all relevant circumstances, the point made by the Court of Appeal was that it is only after an inquest has been completed that it is possible to determine whether adequate redress for delay requires an award of damages, and if so against which public authority and in which amount.
+Whether that is so depends on how damages are assessed.
+Hitherto, assessment has not depended on factors which can only be considered after an inquest.
+The possibility of assessing damages on a broadly conventional basis prior to the conclusion of an inquest is demonstrated by several judgments of the European Court in cases emanating from Northern Ireland, including its judgment in the Jordan case.
+That is not to say, however, that there may not be good practical reasons for staying the proceedings, where the question arises of whether it is appropriate to award damages, and if so in what amount.
+Particularly in a situation where the court may have to decide claims against different public bodies in respect of the same or different periods of delay, deferring consideration of these issues until after the conclusion of an inquest may enable the court to consider all relevant periods of delay, and responsibility for them, at one and the same time.
+It is therefore another means of reducing the risk of an undue burden being placed on the courts by a proliferation of claims for damages (and potentially for contribution, depending on how the concept of joint and several liability applies in this context: another question which seemingly has yet to be considered).
+As indicated earlier, this is a relevant and significant factor to be weighed in the balance.
+Whether a stay is proportionate depends on an assessment of the weight of the competing interests at stake in the circumstances of the particular case.
+The cogency of the arguments in favour of a stay will depend on the degree of risk that the proceedings may otherwise result in a proliferation of litigation, if that is the legitimate aim pursued.
+On the other side of the scales, the importance to the claimant of obtaining monetary redress for the violation of his or her Convention rights without avoidable delay has to be considered.
+In most cases the claimant is likely to be the widow, parent or child of the deceased, and may suffer anguish as decades pass without any adequate inquiry into the circumstances of the death, particularly where there are allegations of state involvement in the death (as in the present case), and of collusion and cover up.
+The imposition of delay in the determination of their claim for damages may cause additional distress.
+There may be other factors in individual cases which make the expeditious determination of the claim particularly important.
+The present case, for example, illustrates the importance of expedition where proceedings are brought by claimants who are elderly or infirm.
+In striking an appropriate balance between the different interests at stake, the length of any stay will be of considerable importance.
+There is no doubt that there may be cases in which it is proportionate to impose a stay on a claim for damages in a legacy case, weighing the relevant factors for and against it.
+There is equally no doubt that there may be cases in which, weighing those factors, a stay is not proportionate.
+Since the relevant factors can differ in nature and weight from one case to another, it follows that courts should carry out the necessary balancing exercise in the individual case.
+A virtually automatic rule requiring all such claims to be stayed until after the inquest, regardless of their individual circumstances, would not comply with that requirement, and in addition, as previously explained, would result in breaches of the reasonable time requirement of article 6.
+The present case
+The guidance which the Court of Appeal was understood to have given in paras 21 23 of its judgment in the present case was not consistent with the foregoing principles.
+On its face, it involved no assessment of proportionality or consideration of individual circumstances.
+It was also liable to render the article 2 procedural right ineffective, and to result in breaches of the reasonable time guarantee.
+The clarification provided in the case of McCord has, however, considerably narrowed the apparent scope of that guidance, so as to confine it to cases where the only outstanding issue is damages and where an inquest can be expected to begin within the near future, if not already under way.
+The court also indicated that the appropriateness of the stay should be kept under review, and that it should be lifted if the claim for damages will not otherwise be determined within a reasonable time.
+Guidance to that effect is generally consistent with the principles discussed above, although it remains necessary to allow for the possibility of exceptions in individual cases.
+The foregoing discussion has concerned the general guidance given by the Court of Appeal in the present case, and the reconsideration of that guidance in the case of McCord.
+So far as the present proceedings are concerned, the decision which is challenged was to stay the claim for damages until the inquest had been concluded.
+It has not been argued that the effect of that decision was to render the claimants article 2 right theoretical or illusory, or that there was a breach of the reasonable time requirement imposed by article 6.
+On the other hand, it does not appear from the judgment of the Court of Appeal that it carried out any assessment of the proportionality of the stay which it ordered.
+It is uncertain whether the court would have ordered the stay if such an assessment had been conducted, particularly if Mr Jordans ill health had been drawn to its attention.
+Conclusion
+It is impossible not to feel considerable sympathy for the serious practical difficulties which the courts in Northern Ireland face in dealing with legacy cases, and which prompted the guidance which was given in the present case and clarified in the case of McCord.
+As has been explained, the guidance as originally given was defective on its face, and the appellant was entirely justified in bringing this appeal in order to challenge it.
+The Court of Appeal has, however, recognised that the terms in which it expressed itself have caused difficulty, and it has resolved the problem in its McCord judgment, to which I would only add that it remains necessary to consider whether that general guidance should be applied in the circumstances of an individual case.
+So far as complaint is made about the order made in the present proceedings, this court would not normally question a case management decision.
+The decision in question was however taken without any evident consideration of its proportionality in the particular circumstances of this case.
+In addition, it is uncertain whether the Court of Appeal would have reached the same decision if the question of proportionality had been considered in the light of all the relevant facts, including the then claimants declining health.
+In these circumstances I would allow the appeal.

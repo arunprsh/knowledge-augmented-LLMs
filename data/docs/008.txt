@@ -1,0 +1,156 @@
+Section 15(1) of the Equality Act 2010 (the 2010 Act) provides that A person (A) discriminates against a disabled person (B) if (a) A treats B unfavourably because of something arising in consequence of Bs disability, and (b) A cannot show that the treatment is a proportionate means of achieving a legitimate aim.
+The central issue in this appeal is the meaning of the expression treats unfavourably.
+The facts can be shortly stated by reference to the agreed statement.
+Mr Williams was employed by the second respondent (the University) from 12 June 2000 until he retired for ill health reasons with effect from 30 June 2013, at the age of 38.
+He suffers from Tourettes syndrome and other conditions which satisfy the definition of disability under section 6 of the 2010 Act.
+He had been an active member of the second respondents pension scheme (the Scheme) throughout his employment, and had over 13 years pensionable service at the date of termination.
+For the first ten years of his employment, he had worked full time (35 hours per week).
+Thereafter, he worked anything from 17.5 26 hours per week when he was fit to work.
+By June 2013 his agreed working hours were half of his full time hours (17.5 hours per week) and had been so for nearly two years, even though he was not at work for approximately 11 months.
+It is agreed that each reduction in hours of working arose from his disabilities.
+The variations in his working hours were made at his request as a reasonable adjustment, with the Universitys agreement.
+Between June 2012 and April 2013, he took unpaid leave so that he could undergo specialist brain surgery, which took place in late November 2012.
+He commenced a phased return to work in late April 2013.
+However, in May 2013 he applied for ill health early retirement (IHR) under the Scheme, and his application was successful, the agreed medical view being that he was likely to be permanently incapable of efficiently discharging the duties of his post with the University or in relation to any comparable post.
+He retired with effect from 30 June 2013.
+The Scheme provided for accrual of benefits on a final salary basis up until 1 August 2009, from which time the Scheme was amended so that accrual of benefits on and after that date was on the basis of Career Average Revalued Earnings (CARE).
+Under the IHR provisions of the Scheme, Mr Williams is and was entitled to, and received, the following: i) A lump sum and annuity, payable immediately, based on his accrued benefits without any actuarial reduction for early receipt.
+The annuity and lump sum were calculated on the basis of his actual salary at the relevant times, whether full time or part time; ii) An enhancement to both his lump sum and annuity (the enhanced element), again payable immediately and without any actuarial reduction for early receipt.
+The enhanced element was calculated on the basis of his actual salary at date of retirement and a period of deemed pensionable service, as though he had continued to be employed in active service to his Normal Pension Date (NPD) under the Scheme (age 67).
+The dispute relates solely to the enhanced element.
+Mr Williams contends that the reduced figure, resulting from its calculation by reference to his part time rather than full time salary, constitutes unfavourable treatment because of something arising in consequence of his disabilities, that is his inability to work full time.
+It therefore involves discrimination within the meaning of section 15(1)(a), unless shown under section 15(1)(b) to be a proportionate means of achieving a legitimate aim, or in other words justified.
+This contention was upheld by the Employment Tribunal, but rejected on appeal by the Employment Appeal Tribunal (Langstaff J) [2015] ICR 1197 and by the Court of Appeal (Arden, Briggs and Bean LJJ) [2018] ICR 233.
+It is common ground that if the appeal succeeds, the appeal will have to be remitted to the Employment Tribunal to consider the issue of justification under section 15(1)(b).
+Comparison with the previous law
+It is accepted by both sides that section 15 needs to be considered in the context of the previous law, as interpreted by the House of Lords in Lewisham London Borough Council v Malcolm [2008] UKHL 43; [2008] 1 AC 1399.
+We have been referred to the words of the Solicitor General in a Public Bill Committee on what was then clause 14 of the Equality Bill (Hansard (HC Debates), 16 June 2009, col 275): Like the provision in the 1995 Act, clause 14 is intended to provide that the disabled person demonstrates that they have been subjected to detrimental treatment because of something connected with their disability and, secondly, that the duty holder should be able to justify that treatment.
+However, we have revised the wording from the 1995 Act because we cannot simply carry it forward as the finding in the courts said that we did not achieve the protection that we intended.
+We therefore dropped the requirement for a comparator.
+Similarly, the Explanatory Note to section 15 of the Act states: This section is a new provision.
+The Disability Discrimination Act 1995 provided protection from disability related discrimination but, following the judgment of the House of Lords in the case of London Borough of Lewisham v Malcolm [2008] UKHL 43, those provisions no longer provided the degree of protection from disability related discrimination that is intended for disabled people.
+This section is aimed at re establishing an appropriate balance between enabling a disabled person to make out a case of experiencing a detriment which arises because of his or her disability, and providing an opportunity for an employer or other person to defend the treatment.
+The direct predecessor of section 15 was section 3A of the Disability Discrimination Act 1995: (1) For the purposes of this Part, a person discriminates against a disabled person if (a) for a reason which relates to the disabled persons disability, he treats him less favourably than he treats or would treat others to whom that reason does not or would not apply, and (b) he cannot show that the treatment in question is justified.
+Malcolm itself had been concerned with section 22 of the 1995 Act, directed at disability related discrimination in the management of property, including in that case by eviction.
+Section 24(1) defined discrimination for that purpose in similar terms to section 15.
+It required consideration of whether, on the assumption that the eviction was for a reason related to a persons disability, it involved treating him less favourably than others to whom that reason does not or would not apply.
+In Malcolm a council tenant who suffered from schizophrenia had sublet his flat in breach of the tenancy agreement.
+When the council sought to determine the tenancy, he argued that the reason for his action related to his illness and that the eviction constituted discrimination contrary to section 22.
+It is convenient to refer to the helpful summary of the background and substance of the decision by Elias LJ in Griffiths v Secretary of State for Work and Pensions [2015] EWCA Civ 1265; [2017] ICR 160 (a case directly concerned with reasonable adjustments under section 20 of the 2010 Act).
+As he explained (paras 52 54), one of the issues for the House was how the relevant comparison should be made: Who were the others to whom that reason does not or would not apply? This had been considered in detail by Mummery LJ giving judgment in the Court of Appeal in Clark v Novacold Ltd [1999] ICR 951.
+He illustrated the two competing constructions by taking the example of a blind man who wished to take his guide dog into a restaurant which had a no dogs rule.
+Should the comparison be with an able bodied man who wished to take his dog into the restaurant? If so, there would be no less favourable treatment because all are treated the same.
+The able bodied man too would be refused entry for the same reason, namely that he wished to take his dog into the restaurant.
+Or should the comparison be with an able bodied man who did not need to take a dog into the restaurant and would not therefore be excluded? In that case there would be unfavourable treatment.
+In the context of Malcolm the first approach would require the comparison with an able bodied man who had sublet, and the second with someone who had not sublet.
+The problem with the first analysis was that it effectively rendered disability related discrimination a dead letter and equated it for practical purposes with direct disability discrimination as Lord Brown of Eaton under Heywood recognised in terms.
+The problem with the second analysis was that it effectively did away with the comparison exercise altogether, as all their Lordships accepted.
+It requires a comparison with persons to whom the reason for the treatment does not apply; logically the claimant will always be treated less favourably than such persons.
+The Court of Appeal in Clark v Novacold Ltd had preferred the latter approach on the grounds that it was what Parliament had intended, but in Malcolm their Lordships held, by a majority on this point that the former was the proper comparison.
+So, in the view of the majority, the comparison is a like for like exercise; the comparator must be similarly placed to the disabled claimant in all relevant respects save for the disability.
+This is precisely what is required in direct discrimination cases.
+Although it is not in dispute that the wording of section 15 was intended in broad terms to reverse the ruling in Malcolm, our task is not to try to re construct the pre Malcom law.
+It is to the section itself, interpreted in accordance with ordinary principles, that we must look for the applicable tests in the present case.
+The most obvious feature, in line with the Solicitor Generals explanation, is the removal of any element of comparison.
+Instead, section 15 appears to raise two simple questions of fact: what was the relevant treatment and was it unfavourable to the claimant?
+The judgments below
+The Employment Tribunal (para 32) accepted as correct the case as presented on behalf of Mr Williams.
+Its essence appears from the passage quoted by the tribunal at para 23 of their judgment.
+It was argued that, in line with previous authority on the equivalent term detriment, the expression unfavourable treatment should be given a broad meaning, including any financial or economic disadvantage.
+The submission continued: A simple reasonable and logical analysis of the pension rules leads to the inevitable realisation that a person who retires suddenly following a heart attack or stroke would receive their deemed years of service at their full time salary whilst a disabled employee who before retiring is forced to work part time due [to] an increasing disability only receives their deemed years of service at their part time salary.
+The disabled employee is consequently at a substantial financial disadvantage. (para 23)
+On its face, that formulation appeared to re introduce a form of comparison which the new section was intended to eliminate, but this time by reference to a hypothetical comparison with the treatment of someone with a different form of disability.
+In the EAT Langstaff J (President) held that in this respect the tribunal had been in error (para 30).
+I do not understand that aspect of his reasoning to be under challenge before us.
+As Ms Crasnow QC says (in her speaking note for Mr Williams): Comparing Mr W to others who have different medical histories (stroke/heart attack) is the wrong approach.
+At the beginning of Langstaff Js judgment, he had commented on the effect of the scheme for Mr Williams, which he described as immensely favourable: Under the rules of the pension scheme applicable to him employees were entitled to a pension on retirement at age 67, but not earlier, unless retiring when their ill health was such that they were plainly incapable of continuing in work.
+In the latter case, employees would be entitled not only to the immediate payment of pension without actuarial reduction in respect of the work they had already done (accrued pension) but also to an enhanced pension.
+This was also paid without actuarial reduction for early receipt as if they had continued working until normal retirement age (in the claimants case 67) continuing to receive the salary they had been receiving when they retired.
+This was plainly an immensely favourable arrangement for anyone eligible for it.
+Those eligible for it were necessarily disabled (within the meaning of the Equality Act 2010).
+Any other 38 year old who left the service of the university at that age would have no prospect of receiving the payment of any accrued pension entitlement until they reached what would have been their normal retirement age, nor any prospect of receiving any enhanced pension. (para 1)
+In a section under the heading Unfavourably, he gave his own view of the meaning of the term (paras 27 29).
+He did not think the word could be equated with the word detriment used elsewhere in the Act; nor, as was agreed, did it require a comparison with an identifiable comparator, actual or hypothetical.
+It was to be measured against an objective sense of that which is adverse as compared with that which is beneficial.
+He noted that the same word was used elsewhere in the Act, in provisions which have a longer pedigree, in relation to discrimination on the grounds of pregnancy (section 18(2)).
+In that context it had the sense of placing a hurdle in front of, or creating a particular difficulty for, or disadvantaging a person .
+It was likely to be intended to have much the same sense in section 15.
+It was for a tribunal to recognise when an individual has been treated unfavourably, and it was not possible to be prescriptive.
+However, in his view treatment which is advantageous cannot be said to be unfavourable merely because it is thought it could have been more advantageous, or, put the other way round, because it is insufficiently advantageous.
+The determination of that which is unfavourable involves an assessment in which a broad view is to be taken and which is to be judged by broad experience of life.
+Persons may be said to have been treated unfavourably if they are not in as good a position as others generally would be.
+He cited Malcolm as an obvious example of a life event which would generally be regarded as adverse.
+He also disagreed with the tribunals reasons for rejecting the respondents case on justification (paras 40ff).
+However, he was unable to say that there was necessarily only one result to which a properly directed tribunal could come.
+Accordingly he ordered that the appeal should be remitted to a different panel for a full rehearing (paras 50 51).
+In the Court of Appeal, the leading judgment was given by Bean LJ.
+He adopted a similar approach to that of Langstaff J, although he also considered the application of the competing interpretations to different hypothetical examples.
+For the substance of his reasoning it is sufficient to refer to two passages.
+In the first (paras 42 43) he distinguished decided cases, including Malcolm, in which there had been an act which in itself caused disadvantage: In the leading cases cited to us the treatment complained of has been an act which itself disadvantages the claimant in some way.
+In Clark v Novacold Ltd the claimant was dismissed.
+In the Lewisham London Borough Council case Mr Malcolm was evicted.
+In Shamoon v Chief Constable of the Royal Ulster Constabulary [2003] ICR 337 the claimant chief inspector had part of her duties as a manager (the appraisal of subordinates) removed.
+The House of Lords held that it was not necessary for her to show financial loss in order to establish a detriment; it was enough that she might reasonably feel demeaned by this decision in the eyes of those over whom she had authority.
+Ms Casserley [counsel for Mr Williams] placed the Shamoon case at the forefront of her argument, but I do not consider that it assists her.
+Mr Williams case does not turn on a question of reasonable perception.
+His pension is undoubtedly less advantageous or less favourable than that of a hypothetical comparator suddenly disabled by a heart attack or stroke.
+But it is far more advantageous or favourable than it would be if he had not become permanently incapacitated from his job.
+The Shamoon case is not authority for saying that a disabled person has been subjected to unfavourable treatment within the meaning of section 15 simply because he thinks he should have been treated better.
+Ms Casserleys argument begins by treating unfavourable as not requiring any comparator but in reality it does depend on a comparator, namely another disabled member of the scheme with a different medical history.
+No authority was cited to us to support the view that a disabled person who is treated advantageously in consequence of his disability, but not as advantageously as a person with a different disability or different medical history would have been treated, has a valid claim for discrimination under section 15 subject only to the defence that the treatment was a proportionate means of achieving a legitimate aim.
+If such a claim were valid it would call into question the terms of pension schemes or insurance contracts which confer increased benefits in respect of disability caused by injuries sustained at work, or which make special provision for disability caused by one type of disease (for example cancer).
+The critical question
+In the second (paras 48 49) he rejected what he saw as counsels implicit
+comparison with the treatment of different disability: can be put in this way: whether treatment which confers advantages on a disabled person, but would have conferred greater advantages had his disability arisen more suddenly, amounts to unfavourable treatment within section 15.
+In agreement with the President of the Employment Appeal Tribunal I would hold that it does not.
+He differed from Langstaff J only in respect of the disposal of the appeal, having taken the view, shared as he thought with the EAT, that the undisputed facts of this case cannot amount to unfavourable treatment within section 15 (para 52), the issue of justification did not arise, and accordingly he saw no purpose in remitting to the tribunal.
+Accordingly the court substituted an order simply dismissing Mr Williams claims.
+The submissions in this court
+For Mr Williams, Ms Crasnows submissions, as I understood them, had a somewhat different emphasis from the case below.
+I have already noted her rejection of the comparison (drawn before the tribunal) with a person with a different disability.
+Although her case was developed at considerable length, both in the appellants written case and in a speaking note presented to the court, her central submission can be shortly stated.
+In the words of her speaking note, it was unfavourable to calculate the enhanced element of his pension using his final salary (that is, the lower part time salary) given that he had been working part time: only because of his disabilities.
+Had he not been disabled he would have continued to work full time.
+The same point was expressed slightly more fully in the written case (para 51): It is submitted that if the Court of Appeal had correctly understood the meaning of unfavourable, as advocated by the appellant, it would have been bound to find that Mr Williams was treated unfavourably, suffering detriment.
+The unfavourable treatment was the adoption of his part time salary as the multiplier when calculating the enhanced element of his pension, when at all times he was on a full time contract and his hours had been reduced solely as a temporary reasonable adjustment by way of a phased return.
+The detriment was that he was unable to achieve the full payment under that scheme.
+The two concepts are very similar and here one is an inevitable consequence of the other.
+Her supporting submissions took issue with various aspects of the reasoning of the EAT and the Court of Appeal, including the suggestion of Langstaff J that the word unfavourably must be taken to have a different meaning from the word detriment as used elsewhere in the Act.
+She referred to the guidance given in the Equality and Human Rights Commissions Code of Practice (2011), which she said adopts a more flexible approach.
+Under the heading What is unfavourable treatment?, the Code states: 5.7 For discrimination arising from disability to occur, a disabled person must have been treated unfavourably.
+This means that he or she must have been put at a disadvantage.
+Often, the disadvantage will be obvious and it will be clear that the treatment has been unfavourable; for example, a person may have been refused a job, denied a work opportunity or dismissed their employment.
+But sometimes unfavourable treatment may be less obvious.
+Even if an employer thinks that they are acting in the best interests of a disabled person, they may still treat that person unfavourably. from The reference in that passage to disadvantage took her to an earlier passage dealing with the word disadvantage as it appears elsewhere in the statute (section 19): 4.9 Disadvantage is not defined by the Act.
+It could include denial of an opportunity or choice, deterrence, rejection or exclusion.
+The courts have found that detriment, a similar concept, is something that a reasonable person would complain about so an unjustified sense of grievance would not qualify.
+A disadvantage does not have to be quantifiable and the worker does not have to experience actual loss (economic or otherwise).
+It is enough that the worker can reasonably say that they would have preferred to be treated differently.
+Those passages, Ms Crasnow submitted, show that words such as unfavourably, disadvantage, and detriment are similar in effect.
+The last sentence also supports a test which is not purely objective; regard may be had to what is reasonably seen as unfavourable by the person affected.
+In this connection she relied also on the UN Convention on the Rights of Persons with Disabilities, which was said to require a broad interpretation of discrimination, and in particular to support the need to have regard to the subjective experience of the person concerned, albeit tempered by a reasonableness test.
+For the respondents, Mr Bryant QC generally supported the reasoning of the EAT and the Court of Appeal.
+In particular he adopted Langstaff Js interpretation (paras 28 29) of the word unfavourably: it has the sense of placing a hurdle in front of, or creating a particular difficulty for, or disadvantaging a person The determination of that which is unfavourable involves an assessment in which a broad view is to be taken and which is to be judged by broad experience of life.
+This objective test, he submitted, was to be contrasted with the mixed subjective/objective test held to apply when determining whether an individual has been subjected to a detriment under section 39 of the Act, that is whether the treatment is of such a kind that a reasonable worker would or might take the view that in all the circumstances it was to his detriment? (per Lord Hope in Shamoon v Chief Constable of the Royal Ulster Constabulary [2003] UKHL 11; [2003] ICR 337, para 35).
+However, as he submitted, whichever test is adopted the conclusion is the same.
+Mr Williams had not been treated unfavourably.
+He had not received a lower or lesser pension than would otherwise have been available to him if he had not been disabled.
+If he had not been disabled, and had been able to work full time, the consequence would not have been calculation of his pension on a more favourable basis, but loss of entitlement to any pension at all until his normal retirement date.
+Discussion
+Since I am substantially in agreement with the reasoning of the Court of Appeal, I can express my conclusions shortly, without I hope disrespect to Ms Crasnows carefully developed submissions.
+I agree with her that in most cases (including the present) little is likely to be gained by seeking to draw narrow distinctions between the word unfavourably in section 15 and analogous concepts such as disadvantage or detriment found in other provisions, nor between an objective and a subjective/objective approach.
+While the passages in the Code of Practice to which she draws attention cannot replace the statutory words, they do in my view provide helpful advice as to the relatively low threshold of disadvantage which is sufficient to trigger the requirement to justify under this section.
+It is unnecessary to refer to more remote sources such as the United Nations Conventions.
+Nor do I find it useful to speculate about the application of the section or the Code in hypothetical cases which are not before the court.
+On the other hand, I do not think that the passages in the Code do anything to overcome the central objection to Mr Williams case as now formulated, which can be shortly stated.
+It is necessary first to identify the relevant treatment to which the section is to be applied.
+In this case it was the award of a pension.
+There was nothing intrinsically unfavourable or disadvantageous about that.
+By contrast in Malcolm, as Bean LJ pointed out (para 42), there was no doubt as to the nature of the disadvantage suffered by the claimant.
+No one would dispute that eviction is unfavourable.
+Ms Crasnows formulation, to my mind, depends on an artificial separation between the method of calculation and the award to which it gave rise.
+The only basis on which Mr Williams was entitled to any award at that time was by reason of his disabilities.
+As Mr Bryant says, had he been able to work full time, the consequence would have been, not an enhanced entitlement, but no immediate right to a pension at all.
+It is unnecessary to say whether or not the award of the pension of that amount and in those circumstances was immensely favourable (in Langstaff Js words).
+It is enough that it was not in any sense unfavourable, nor (applying the approach of the Code) could it reasonably have been so regarded.
+For these reasons I would dismiss the appeal.

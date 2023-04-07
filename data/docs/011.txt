@@ -1,0 +1,283 @@
+Supplies of education to students in the United Kingdom are exempt from value added tax (VAT) if they are made by a college of a university within the meaning of Note 1(b) to Item 1, Group 6 of the Value Added Tax Act 1994 (the VAT Act).
+This appeal concerns the criteria to be applied in determining whether an undertaking is such a college.
+In these proceedings the appellant (SEL) contends that its supplies of education to students in the United Kingdom were and are exempt from VAT because it was and remains a college of Middlesex University (MU).
+For this reason, it appealed against assessments raised by the Commissioners for Her Majestys Revenue and Customs (the Commissioners) in respect of its accounting periods 1 May 2009 to 29 February 2012.
+It has also appealed against subsequent assessments, but these have been stayed by agreement with the Commissioners pending the outcome of this appeal.
+SELs appeal was allowed by the First tier Tribunal (the FTT, Judge John Clark and Dr Michael James MBE) by its decision dated 28 February 2014: TC/2011/022521.
+The Commissioners appealed that decision to the Upper Tribunal (the UT, Judge Colin Bishopp and Judge Guy Brannan) which allowed the appeal by its decision dated 25 April 2016: [2016] UKUT 193 (TCC); [2016] STC 1837.
+SEL then appealed to the Court of Appeal.
+The appeal was heard over three days in June 2017.
+The Court of Appeal dismissed the appeal by its decision dated 28 July 2017 (Patten, Black and Sales LJJ): [2017] EWCA Civ 1116; [2017] STC 2166.
+SEL now appeals to this court.
+In broad terms the appeal gives rise to the following questions: first, whether the Court of Appeal adopted the correct approach in determining whether SEL was a college of MU for the purposes of Note 1(b) to Item 1, Group 6 of the VAT Act; and secondly, if it did not, whether, upon application of the correct test, SEL was such a college.
+The relevant facts
+SEL is an English company and a subsidiary of SAE Technology Group BV, a Dutch company.
+Both are part of the SAE group of companies which trades around the world under the name SAE Institute (SAEI).
+SAE is an acronym for School of Audio Engineering and SAEI has for many years provided education in audio and digital media technologies, and as a result has gained a significant reputation in that field.
+SAEI has conducted business in the United Kingdom since 1985, first through SAE Educational Trust Ltd (SETL) and, since 1 May 2009, through SEL.
+From that date SEL has taught in the United Kingdom the higher education courses to which I shall come in a moment.
+MU is a United Kingdom university within the meaning of the VAT Act, Group 6, Item 1, Note 1(b).
+It has never had any financial interest in any SAE group company, and no MU employee has ever been a director of any such company.
+Similarly, no SAE group company has had a representative on MUs governing body or has played any direct part in its governance.
+Nevertheless, the relationship between MU and SAEI has been very close and is a reflection of a series of agreements addressing the nature of that relationship, the validation by MU of SAEI programmes of education and the accreditation of SAE group companies.
+As early as 1998 SAEI and MU agreed a memorandum of cooperation which provided for the teaching by SAE Technology College of Bachelor of Arts (BA) degree courses in Recording and Multimedia Arts at specified campuses.
+These courses were described as validated collaborative programmes of MU.
+Overall responsibility for the courses was retained by MU but their day to day direction was undertaken by employees of an SAEI group company.
+Over the years that followed this memorandum was superseded by other memoranda of cooperation and the validation of BA degree courses in Multimedia, Interactive Animation and Games Programming.
+In 2009 another memorandum of cooperation was agreed which consolidated into a single framework the programmes which had by that time been validated by earlier memoranda.
+It set out the terms on which MU agreed to validate specified courses and how entry requirements were to be set and satisfied.
+In short, admission requirements would be set by SAEI but conform to MUs general requirements; students who met those requirements would be selected by SAEI using procedures agreed by MU; selected students would be enrolled by SAEI for one of MUs qualifications; enrolled students would be considered members of MU and taught by SAEI subject to MUs quality safeguards; and in due course those enrolled students would be assessed by SAEI subject to MUs regulations and, if they completed their programmes of study successfully, would be awarded a degree by MU.
+From time to time SAEI and MU also entered into what have been termed partnership agreements which made more general provision relating to the relationship between them.
+The first such agreement, entered into in 2003, recorded the intention of the parties to work together to develop undergraduate and taught graduate degree courses at SAEI centres in the United Kingdom and around the world.
+It was intended at that time that within five years MU would consider an application from SAEI for MU accreditation which would allow SAEI to validate for itself courses leading to the award of undergraduate degrees by MU.
+In 2009 SAEI and MU entered into another partnership agreement which recorded that within 12 months MU would consider an application from SAEI for such accreditation.
+To this end, it was agreed that senior executives of MU and SAEI would meet three times a year to develop their collaboration on undergraduate and postgraduate courses of study.
+In September 2010 SAEI was accredited by MU to validate, provide, monitor and review courses of study leading to MU BA degrees in Recording Arts, Film Making, Digital Film Animation and Multimedia articles The instrument of accreditation permitted SAEI to conduct MU graduation ceremonies but graduating students could also attend a graduation ceremony at MU if they so wished.
+A memorandum of cooperation confirmed the independent status of SAEI and allowed it to retain its own governing council and academic board and responsibility for its own financial management.
+In July 2011 MU and SAEI entered into what was described as a Special Associate College Agreement (SACA).
+This recorded their successful cooperation over 14 years in the provision of courses of education, including courses leading to MU undergraduate and graduate awards.
+It provided, by clause 2: As a further extension of that special relationship in the context of higher education in the United Kingdom, the University and SAE Education, UK (hereinafter referred to as SAE UK) have agreed a long term partnership, which is detailed below.
+This builds upon the existing status of SAE UK as a Middlesex University Associate College.
+The legal framework
+The origin of the common system for the collection of VAT in the European Union lies in the First Council Directive 67/227/EC of 11 April 1967 on the harmonisation of legislation of member states concerning turnover taxes (the First Directive).
+This recognised the interest of the common market in achieving a harmonisation of legislation concerning turnover taxes so as to eliminate, so far as possible, factors which might distort competition, and it provided, in article 2, that the principle of the common system involved the application to goods and services of a general tax on consumption which was proportional to their price.
+The Second Council Directive 67/228/EEC, also of 11 April 1967, on the harmonisation of legislation concerning turnover taxes and procedures for application of the common system of VAT (the Second Directive) made further provision for harmonisation and recorded in its fifth recital that the introduction of zero rates of tax gave rise to difficulties and it was highly desirable to limit strictly the number of exemptions.
+However, article 10 of the Second Directive exempted from VAT in any member state the supply of goods to places outside the territory of that state and the provision of services relating to such goods or goods in transit, and, of particular relevance to this appeal, also provided that, subject to consultation, any member state could determine the other exemptions it considered necessary.
+The First and Second Directives were followed by the Sixth Council Directive 77/388/EEC of 17 May 1977 on the harmonization of the laws of member states relating to turnover taxes (the Sixth Directive).
+This recited the need for a common system of exemptions and, in Title X, article 13, part A, made express provision for the exemption of certain activities in the public interest, including the supply of services related to education.
+Article 13A(1) provided, so far as material: A. Exemptions for certain activities in the public interest 1.
+Without prejudice to other Community provisions, member states shall exempt the following under conditions which they shall lay down for the purpose of ensuring the correct and straightforward application of such exemptions and of preventing any possible evasion, avoidance or abuse: (i) childrens or young peoples education, school or university education, vocational training or retraining, including the supply of services and of goods closely related thereto, provided by bodies governed by public law having such as their aim or by other organizations defined by the member state concerned as having similar objects.
+Article 13A(2) contained examples of the conditions member states might impose when recognising other organisations having similar objects to those of public bodies.
+It provided, so far as material: 2(a) Member states may make the granting to bodies other than those governed by public law of each exemption provided for in (1) (i) of this article subject in each individual case to one or more of the following conditions: they shall not systematically aim to make a profit, but any profits nevertheless arising shall not be distributed, but shall be assigned to the continuance or improvement of the services supplied, exemption of the services concerned shall not be likely to create distortions of competition such as to place at a disadvantage commercial enterprises liable to value added tax.
+In due course the Sixth Directive was itself recast by Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (the Principal VAT Directive).
+Recital (4) of the Principal VAT Directive reiterates the objective of the legislative scheme as being to harmonise legislation on turnover taxes and eliminate, so far as possible, factors which may distort competition.
+It reads: The attainment of the objective of establishing an internal market presupposes the application in member states of legislation on turnover taxes that does not distort conditions of competition or hinder the free movement of goods and services.
+It is therefore necessary to achieve such harmonisation of legislation on turnover taxes by means of a system of value added tax (VAT), such as will eliminate, as far as possible, factors which may distort conditions of competition, whether at national or Community level.
+Title IX sets out various exemptions, including the exemption concerning the provision of university education first introduced in the Sixth Directive in the manner I have described.
+Article 131 of Chapter 1 of Title IX provides: The exemptions provided for in Chapters 2 to 9 shall apply without prejudice to other Community provisions and in accordance with conditions which the member states shall lay down for the purposes of ensuring the correct and straightforward application of those exemptions and of preventing any possible evasion, avoidance or abuse.
+Chapter 2 of Title IX contains Exemptions for certain activities in the public interest.
+Article 132(1)(i) of this Chapter says that member states shall exempt: the provision of childrens or young peoples education, school or university education, vocational training or retraining, including the supply of services and of goods closely related thereto, by bodies governed by public law having such as their aim or by other organisations recognised by the member state concerned as having similar objects.
+Article 133 contains examples of the conditions member states may impose when recognising other organisations having similar objects to those of public bodies.
+It echoes article 13(2) of the Sixth Directive and reads, so far as relevant: Member states may make the granting to bodies other than those governed by public law of each exemption provided for in points (i) of article 132(1) subject in each individual case to one or more of the following conditions: (a) the bodies in question must not systematically aim to make a profit, and any surpluses nevertheless arising must not be distributed, but must be assigned to the continuance or improvement of the services supplied; (d) the exemptions must not be likely to cause distortion of competition to the disadvantage of commercial enterprises subject to VAT.
+These provisions of the Principal VAT Directive and the general scheme of which they form a part were considered by the Court of Justice of the European Union (the CJEU) in Minister Finansw v MDDP sp z oo Akademia Biznesu, sp komandytowa, (Case C 319/12) [2014] STC 699.
+MDDP, a Polish undertaking, carried on the business of organising for profit specialised training courses and applied to the Polish Minister for Finance for confirmation that it was entitled to deduct input VAT levied on the goods and services it needed for its business.
+The Minister refused to provide that confirmation and so MDDP issued proceedings in which it claimed that its activities should not be exempt from VAT but subject to it, and that Polish law, which provided that such activities were exempt, was incompatible with the Principal VAT Directive.
+A reference by the Polish court to the CJEU asked, in substance, whether articles 132(1), and 133 of the Principal VAT Directive must be interpreted as meaning that educational services provided for commercial purposes not governed by public law were precluded from exemption from VAT.
+In addressing that question, the CJEU explained (at paras 33 to 36) that articles 132(1)(i) and 133 do not preclude educational services provided for commercial purposes by bodies not governed by public law from being exempt from VAT; however, under article 132(1)(i), supplies of educational services are exempt only if they are provided by bodies governed by public law or by other organisations recognised by the member state concerned as having similar objects.
+It followed that the exemption in issue, which applied generally to all supplies of educational services, whatever the aim pursued by the private organisations providing those services, was incompatible with article 132(1)(i).
+The CJEU continued (at paras 37 to 38) that, in so far as article 132(1)(i) does not specify the conditions or procedures for defining those similar objects, it is for the national law of each member state to lay down rules, and that member states have a discretion in that respect; and it is for the national courts to examine whether member states, in imposing such conditions, have observed the limits of their discretion in applying the principles of EU law, in particular the principle of equal treatment, which, in the field of VAT, takes the form of the principle of fiscal neutrality.
+The answer to the referred question necessarily followed, as the CJEU explained at para 39: point (i) of article 132(1), article 133 and article 134, of the VAT Directive must be interpreted as meaning that they do not preclude educational services provided for commercial purposes by bodies not governed by public law from being exempt from VAT.
+However, point (i) of article 132(1) of that directive precludes a general exemption of all supplies of educational services, without consideration of the objects pursued by non public organisations providing those services.
+VAT was introduced to the United Kingdom by the Finance Act 1972 (the FA 1972) which implemented the First and Second Council Directives.
+Parliament chose to exercise the wide discretion then conferred upon member states by exempting the various supplies set out in Schedule 5.
+These included as Group 6, Item 1: The provision of education if it is provided by a school or university; or it is of a kind provided by a school or university (a) (b) and is provided otherwise than for profit.
+Note (3) defined university as including a university college and the college, school or hall of a university.
+The United Kingdom has given effect to the Principal VAT Directive (and before it, the Sixth Directive) in the VAT Act.
+Exempt supplies are set out in Schedule 9.
+Items 1 and 4 of Group 6 of Schedule 9 read, so far as material: 1.
+The provision by an eligible body of (a) education; 4.
+The supply of any goods or services (other than examination services) which are closely related to a supply of a description falling within item 1 (the principal supply) by or to the eligible body making the principal supply provided (a) the goods or services are for the direct use of the pupil, student or trainee (as the case may be) receiving the principal supply; and (b) where the supply is to the eligible body making the principal supply, it is made by another eligible body.
+Note (1) then explains that: (1) For the purposes of this Group an eligible body is (b) a United Kingdom university, and any college, institution, school or hall of such a university; (e) a body which is precluded from distributing and does (i) not distribute any profit it makes; and (ii) applies any profits made from supplies of a description with this Group to the continuance or improvement of such supplies;
+It can be seen that Parliament has not expressly limited the bodies it has
+recognised in Note 1(b) to those which do not make a profit.
+It will also be noted that the phrase any college, institution, school or hall of such a university in Note (1)(b) is similar to the phrase college, school or hall of a university in Schedule 5, Group 6, Item 1, Note (3) of the FA 1972, and this is a matter to which I must return.
+Domestic authorities
+The provisions of the VAT Act to which I have referred have been considered in a number of decisions of the courts in this jurisdiction.
+For the purposes of this appeal, I must refer to three of them for they form an important part of the background to the decisions of the FTT, the UT and the Court of Appeal in this case.
+The first is that of Burton J in Customs and Excise Comrs v School of Finance and Management (London) Ltd [2001] STC 1690.
+The School of Finance and Management London (SFM) delivered a number of courses of study for the University of Lincolnshire and Humberside and claimed to be exempt from VAT as a college of a university under Note (1)(b) to Group 6 of Schedule 9 to the VAT Act.
+The tribunal found that SFMs fundamental purpose was to provide education services leading to the award of a university degree and that it was fairly to be regarded as a college of the university.
+On appeal, the Commissioners contended first, that, having regard to the provisions of the Sixth Directive set out above, Note (1)(b) only encompassed bodies governed by public law having education as their aim; secondly, that SFM was not a college; and thirdly, if SFM was a college, it was not a college of a United Kingdom university.
+The judge rejected all three contentions and dismissed the appeal.
+So far as the third was concerned, the parties put forward a non exhaustive list of 15 relevant factors termed the SFM factors which fell to be considered.
+For their part, the Commissioners relied on eight factors, the first four of which were said to be determinative: (i) the presence of a foundation document establishing the college as part of the university by way of a constitutional link; (ii) an absence of independence on the part of the college; (iii) the financial dependence of the college on the university or the financial interdependence of each on the other; (iv) the absence of distributable profit; (v) an entitlement to public funding; (vi) the presence of permanent links between the college and the university; (vii) the physical proximity of the college to the university; and (viii) an obligation on the college to offer a minimum number of university places.
+SFM accepted that all of these factors were arguably relevant but argued that none was determinative.
+It contended that of more relevance were seven further factors: (ix) the possession by the college of a similar purpose to that of the university; (x) the provision by the college of courses leading to a degree from the university; (xi) the supervision by the university of the colleges courses and the regulation by the university of the quality standards of those courses; (xii) the admission of students of the college as members of the university with university identity cards; (xiii) the submission of students of the college to disciplinary regulations and requirements of the university; (xiv) the entitlement of successful students of the college to receive a degree from the university at a university degree ceremony; and (xv) the description of the college as an associate/affiliated college of the university.
+The Commissioners accepted these were relevant (subject to their submissions as to the determinative nature of the first four of their own features).
+Shortly after Burton J handed down his judgment, the Court of Appeal gave judgment in Customs and Excise Comrs v University of Leicester Students Union [2001] EWCA Civ 1972; [2002] STC 147.
+Here the issue was whether supplies of drinks by the students union of Leicester University were exempt from VAT.
+The Commissioners took the view that they were not.
+By an interim decision on a preliminary issue, the Manchester VAT tribunal held that the union was an integral part of the university and so an eligible body, and it was entitled to an exemption in respect of any supplies which were closely related to the supply of education within the meaning of Item 4 of Group 6 of Schedule 9.
+On appeal, the judge considered that the real question was whether the union was an integral part of the university such that it could properly be said that the soft drinks sold in the union were sold by the university.
+He held it could not, and that, in consequence, the tribunal ought to have held that the soft drinks were not supplied by the eligible body making the principal supply of education within the meaning of Item 4.
+On further appeal to the Court of Appeal, the substantial argument was, as before the judge, whether the union was an integral part of the university and as such an eligible body.
+The Court of Appeal found it was not.
+It was not encompassed by the phrase a United Kingdom university for it was an entity distinct from the university.
+Further, it was not an institution of such a university within the meaning of Note 1(b) because it supplied no education.
+Peter Gibson LJ, with whom Morland J agreed, explained at para 36: 36.
+Note 1(b) on its face refers to five entities, a United Kingdom University, and four entities of such a University.
+The conjunction connecting a United Kingdom University with the four other entities is the word and, not including.
+Further, the four other entities are alternative to each other as can be seen by the conjunction or between school and hall.
+On the ordinary and natural meaning of the words used in note 1(b) I would construe them as covering both a university itself and, in those cases where there are separate entities which are nevertheless parts of that university, any of those separate entities.
+Furthermore, the common characteristic of all those four entities in my opinion is that they are suppliers of education.
+Arden LJ considered that the students union did promote an object of utility within the university community and was potentially an institution of the university.
+But the question for her was whether the term institution had a narrower meaning in the context of Note (1)(b).
+She answered that question in two steps, the first of which was to consider the meaning of the expression of such a university: 55.
+Note 1(b) uses the expression the university and of the university.
+In the latter expression the word of cannot mean belong to or form part of since the former is not the case with regard to Oxbridge colleges (which are presumably intended to be covered) and the latter is included within the expression the university.
+In other words, the expression of the university seems to me to denote a state of affairs whereby the university is in some sense an umbrella organisation which provides education and related services in conjunction with other bodies or wherein the body in question has some form of status under the University statutes, for example to present candidates for matriculation.
+The second was to consider the meaning of the word institution in this context.
+Here she did not agree that a college, institution, school or hall of a university had itself to be a supplier of education.
+For her the key question was whether the body in question had academic links with the university and so recognition from the university, and this the union did not have.
+The third decision is that of the Court of Appeal in Finance and Business Training Ltd v Revenue and Customs Comrs [2016] EWCA Civ 7; [2016] STC 2190.
+Here the question was whether the taxpayer, FBT, a profit making enterprise, was exempt from VAT in respect of the supply of courses leading to the grant of degrees by the University of Wales.
+The FTT decided it was not.
+Although it supplied a university education, FBT also had to show that it was an integrated part of the university, and that it had failed to do.
+In reaching this conclusion, the FTT applied the SFM factors and attached particular weight to the nature of the relationship between FBT and the university, which it found to be short term, commercial and held out as being one of partnership.
+An appeal to the UT was dismissed.
+On further appeal to the Court of Appeal, it was argued by FBT, among other things, that Parliament had failed to set conditions for the education exemption in accordance with EU law and, in particular, the principles of legal certainty and fiscal neutrality.
+Arden LJ (with whom Gloster and Sharp LJJ agreed), rejected that submission.
+She explained that it was up to each member state to set the conditions under which bodies not governed by public law would be entitled to the education exemption, and how it did so was a matter for national law.
+It was therefore open to Parliament to decide which non public bodies would qualify, and it had done so in Note (1)(b).
+However, Parliament was constrained by article 132(1)(i) as to which bodies it could include.
+She continued, at paras 55 to 57: 55.
+In those circumstances, it has taken the view that the body must be one which provides education in like manner to a body governed by public law, that is, there must be a public interest element in its work.
+It has decided to draw the line, in the case of universities to those colleges, halls and schools which are integrated into universities and which are therefore imbued with its objects. 56.
+For FBT to show that its exclusion from this group is a breach of the fiscal neutrality principle would require it to say that it belongs to the same class as those institutions which meet the integration test in Note (1)(b).
+Neither of the tribunals made any findings that would support that conclusion and this court is hearing an appeal only on a point of law. 57.
+FBT contends that Parliament has not met the requirements of the EU law principle of legal certainty by setting out criteria which are to apply to determine when non public bodies seek to enjoy the education exemption.
+The criteria have to be neutral, abstract and defined in advance.
+In my judgment, this is achieved by the combination of note (1)(b) and the SFM factors.
+These factors are neutral, they are abstract and defined in advance.
+By applying them, it is possible to know what supplies and which suppliers qualify for exemption.
+The decisions below
+(a) The First tier Tribunal
+The FTT carried out a multi factorial assessment in order to determine whether SEL was sufficiently integrated with MU to justify the conclusion that it was a college of the university and for that purpose considered each of the 15 SFM factors.
+In carrying out that exercise, it conducted an extensive analysis of the evidence.
+Having done so, it was satisfied that SEL, as the United Kingdom arm of SAEI, had since May 2009 been an Associate College of MU, and a college of MU within the meaning of Note 1(b).
+It set out the factors which it considered carried the greatest weight at para 293: (1) Status of Associated College, combined from September 2010 with status of Accredited Institution. (2) Long term links between SAE Institute and MU.
+Similar purposes to those of a university, namely the provision of higher education of a university standard. (3) Courses leading to a degree from MU, such courses being supervised by MU, which regulated their quality standards. (4) Conferment of degrees by MU, received by SAE students at MU degree ceremonies.
+(b) The Upper Tribunal
+On further appeal by the Commissioners, the UT adopted an approach which differed in some respects from that of the FTT.
+It explained that it is necessary to adopt a multi step evaluation of the relationship between the undertaking and the university.
+It must first be determined whether they had a common understanding of their relationship.
+If they did, the next question is whether they had a common understanding that the undertaking was a college of the university.
+If the answer to that question is also in the affirmative, it must be considered whether the relationship was sufficiently close to justify the conclusion that the undertaking was indeed a college of the university within the meaning of Note 1(b), and it is here that the SFM factors are relevant.
+If the relationship was sufficiently close, the final step is to consider whether the undertaking supplied university level education.
+It was the UTs view that the FTT failed properly to take the first and second steps, and had it done so it would have found that they should be answered in the negative.
+It therefore allowed the Commissioners appeal.
+(c) The Court of Appeal
+The approach of the Court of Appeal differed from those of both the FTT and the UT.
+Patten LJ (with whom Black and Sales LJJ agreed) explained that the test of whether an undertaking is part of a university is considerably more hard edged than earlier decisions had suggested.
+It is necessary for the relevant undertaking to show that it is a part of the university in the sense of being a constituent part with all the rights and privileges for its students which that entails.
+Inherent in this test is the need to demonstrate some legal relationship which establishes and confirms the status of the undertaking.
+It matters not whether this relationship is embodied in a formal foundation or constitutional document or whether it is based upon some other binding agreement.
+But it has to be one which in a real sense makes the undertaking a constituent part of the university.
+It had not been established that SEL was a part of MU in a constitutional or structural sense and so the appeal fell to be dismissed.
+Note 1(b) the correct approach
+The starting point for a consideration of the proper interpretation of Note 1(b) to Schedule 9, Group 6, Item 1 of the VAT Act must be articles 131 to 133 of the Principal VAT Directive.
+These make clear that member states must exempt transactions involving the provision of, among other things, university education by bodies governed by public law having such education as their aim.
+Member states must also exempt transactions by other organisations which they have recognised as having similar objects to those governed by public law and which also have education as their aim.
+In accordance with well established principles, the terms used in articles 131 to 133 to specify exemptions from VAT must be construed strictly.
+Nevertheless, they must also be construed in a manner which is consistent with the objectives which underpin them and not in such a way as to deprive them of their intended effects.
+The general objective of the exemptions in articles 133 to 135 is, I think, readily apparent and, so far as university education is concerned, it is to ensure that access to the higher educational services this necessarily involves is not hindered by the increased costs that would result if those services were subject to VAT.
+This was explained by the CJEU in Commission of the European Communities v Federal Republic of Germany (Case C 287/00) [2002] ECR I 5811; [2002] STC 982, a decision which concerned article 13A(1)(i) of the Sixth Directive, which, as we have seen, is an exemption drawn in very similar terms to those of article 132(1)(i) of the Principal VAT Directive.
+The court said this about the purpose of the Article in considering the concept of services which are closely related to university education, and whether research activities fell within its scope: 47.
+Nevertheless, that concept does not require an especially strict interpretation since the exemption of the supply of services closely related to university education is designed to ensure that access to the benefits of such education is not hindered by the increased costs of providing it that would follow if it, or the supply of services and of goods closely related to it, were subject to VAT (see, by analogy, in relation to article 13(A)(1)(b) of the Sixth Directive, Commission v France (Case C 76/99) [2001] ECR I 249, para 23).
+However, if the undertaking by State universities of research projects for consideration is made subject to VAT, that does not have the effect of increasing the cost of university education.
+That does not mean that all organisations which provide educational services may be granted a tax exemption by member states, however.
+The services must be provided by organisations governed by public law or by other organisations recognised by the member state in issue as having similar objects.
+It is essentially for this combination of reasons that the CJEU held in MDDP that articles 132(1) and 133 of the Principal VAT Directive do not preclude the inclusion of educational services provided by private organisations for commercial purposes in the tax exemption but do preclude a general exemption of all supplies of educational services without consideration of the objects pursued by the private organisations which are providing them.
+In implementing articles 132 and 133 of the Principal VAT Directive, the United Kingdom and other member states therefore had a discretion in deciding which bodies, other than those governed by public law, they would recognise as providing educational services, including university education.
+But that discretion was limited in the manner I have described, and whilst it was open to member states to exempt educational services provided by private bodies for commercial purposes, they could not do so without consideration of the objects those bodies pursued.
+It was also limited in other important respects for, in implementing the Directive, member states were required to respect the general principles of law that form part of the order of the European Union, including the principles of fiscal neutrality, legal certainty and proportionality.
+As I have explained, Parliament has chosen to exercise the discretion conferred upon it by exempting from VAT, so far as relevant, the provision of education by a United Kingdom university and any college of such a university.
+The term university is not defined in the VAT Act.
+However, the conditions under which a body in the United Kingdom is entitled to use the word university in its title are regulated by statute.
+Over 100 bodies are presently entitled to call themselves a university and they vary greatly in character.
+A small but nonetheless significant number of them are private and run for profit.
+Some, such as the University of London, are collegiate federal universities in which, for many purposes, the constituent colleges operate on an independent basis.
+Others, such as the University of Oxford and the University of Cambridge, comprise a kind of federal system of colleges, schools and faculties, in which the colleges are generally financially independent and self governing.
+These are just examples.
+Other universities also comprise or have close relationships with colleges, including the University of the Arts London, the University of the Highlands and Islands and Queens University of Belfast.
+The connection between each of these universities and its respective colleges has its own particular character and is a reflection of the history of the institutions involved.
+It is against the background of the range of possible arrangements between universities and their colleges that the meaning of the phrase college of such a university in Note (1)(b) falls to be determined.
+In my judgment the following points are material.
+First, for its activities to fall within the scope of Item 1(a), any college of a university, as an eligible body, must provide education.
+Secondly and as we have seen, the supply of educational services is exempt only if it is provided by bodies governed by public law or by other bodies recognised by the member state as having similar objects.
+Parliament has exercised the discretion conferred upon it by recognising for this purpose the provision of education by universities, and it has done so regardless of whether those universities are charities or are private and run for profit.
+If, as I believe, the phrase a United Kingdom university in Note 1(b) therefore extends to private universities which are run for profit then in my opinion the same must apply to the expression any college of such a university.
+There can be no justification for treating the scope of the two expressions differently in this respect.
+Further, were it otherwise, private colleges of a university providing higher education services would be obliged to charge VAT on their supplies, rendering them more expensive and so restricting the opportunities of students to access them, contrary to the purpose of the exemption.
+Thirdly, there is in my view nothing in Note 1(b) or the broader context which would justify limiting the scope of the phrase any college of such a university to colleges which are a constituent part of a university in a constitutional or structural sense.
+To the contrary, if satisfaction of such a constituent part test were required, it would effectively exclude commercial providers such as SEL from the exemption for it is a test they will rarely if ever be able to satisfy.
+That, so it seems to me, would be contrary to the principle of fiscal neutrality in the light of the decision by Parliament not to limit the bodies it has recognised in Note 1(b) to those which do not make a profit.
+Fourthly, the United Kingdom must be taken to have recognised that a college (or, for that matter, a school or hall) of a university within the meaning of Note 1(b) has similar objects to those of a university which is governed by public law and which provides education to young people.
+In my opinion this consideration focuses attention on the objects of the body in issue, the nature of the educational services that it supplies, and how integrated those services are with those of the university.
+Put another way, it is necessary to examine the characteristics of those educational services and the context in which they are delivered rather than the precise nature of the legal and constitutional relationship between the body that provides them and its university.
+Of course, I recognise that if a college is a part of a university in a constitutional or structural sense then it is overwhelmingly likely that any educational services it provides will reflect this relationship and so the college may properly be regarded as a college of that university within the meaning of Note 1(b).
+But it does not follow that the converse is also true.
+It is entirely possible that an independent and private body which conducts its business of providing education for profit will be so integrated with a university that its educational activities and objects are indistinguishable from those of a college which is constitutionally part of the university or, indeed, from those of the university itself.
+All of these matters point to the conclusion that the integration test explained in the SFM case and adopted by the FTT is essentially correct.
+However, I think the factors to be considered do need some refinement.
+As I have said, the presence of a foundation or constitutional document or some other legal relationship establishing the college as a constituent part of the university in a constitutional or structural sense will be sufficient to prove that it is a college of the university within the meaning of Note 1(b), save in an exceptional case.
+But that is not a necessary condition.
+In assessing whether a body is a college of a university the following five questions are also likely to be highly relevant: (i) whether they have a common understanding that the body is a college of the university; (ii) whether the body can enrol or matriculate students as students of the university; (iii) whether those students are generally treated as students of the university during the course of their period of study; (iv) whether the body provides courses of study which are approved by the university; and (v) whether the body can in due course present its students for examination for a degree from the university.
+If a body can establish the presence of each of these five features, focused as they are on the objects of the body, the relationship between the students of the body and the university and the degree to which the activities of the body are recognised by and integrated with the university, then in my judgment it is highly likely to be a college of the university within the meaning of Note 1(b).
+Again, I do not suggest that there may not be other cases where the degree of integration of the activities of the body and the university is such that it may properly be described as a college of the university in light of some or most of the factors I have identified and other aspects of the services it supplies.
+All will depend on the particular circumstances of the case.
+However, some of the SFM factors are, in my view, likely to be of much less assistance in light of the matters to which I have referred.
+Here I have in mind: (i) whether the body is independent from the university; (ii) whether the body is financially dependent on the university, or whether the body and the university are financially interdependent; (iii) whether the body generates any distributable profit; (iv) whether the body is entitled to public funding; (v) the presence or absence of permanent links between the body and the university; (vi) the degree of physical proximity between the body and the university; and (vii) whether the body has any an obligation to offer a minimum number of university places.
+I do not suggest that none of these matters will ever have any evidential weight.
+For example, the duration of the relationship between the body and the university and how long it may be expected to last may have some relevance, if only as part of the background, but these and similar matters are unlikely to be determinative.
+In my judgment it follows that the reasoning of Peter Gibson LJ in the University of Leicester Students Union case at para 36 (which I have set out at para 34 above) needs some qualification.
+I accept that the words in those cases where there are separate entities which are nevertheless parts of the university, any of those separate entities in Note 1(b) include a college, institution, school or hall of a university which is separate from the university but which is nevertheless a part of it in a constitutional or structural sense.
+But, for the reasons I have given, I do not accept that the scope of Note 1(b) is limited to such entities, and if that is what Peter Gibson LJ meant by the use of these words, I respectfully disagree with him.
+In my view the correct approach was expressed succinctly by Arden LJ in FBT at para 55, which I have recited above.
+The question is whether the college and the university are so integrated that the entity is imbued with the objects of the university, and that is best answered in the manner I have described.
+Did the Upper Tribunal and the Court of Appeal fall into error?
+The UT did not reject the integration approach or question the value of the SFM factors but introduced the sequential test which I have set out at para 39 above.
+I recognise that if a taxpaying body is a college of a university one would expect to see some recognition of that by the university.
+I also accept the importance of establishing that the university and the body have a common understanding that the body is a college of the university.
+But it seems to me that these are matters which are best addressed in the context of and as part of the general assessment of their relationship, the extent to which their activities are integrated and whether they share the same objects.
+That brings me to the judgment of Patten LJ in the Court of Appeal, with which Black and Sales LJJ agreed.
+It is carefully reasoned and merits great respect.
+His analysis began with the FA 1972.
+He noted, entirely correctly, that it exempted the provision of education by an eligible body and that it defined the term university as including a university college and the college, school or hall of a university.
+He also observed, again correctly, that at the time this exemption came into effect the relevant EU provisions on exemptions were those contained in article 10 of the Second Directive which, as we have seen, gave each member state a broad discretion as to which exemptions to create beyond the supply of goods to places outside that state, and services relating to such goods or goods in transit.
+He concluded, and I agree, that the language of item 1 in the FA 1972 must be taken to represent what Parliament considered at that time should constitute the scope of the exemption for the supply of education by a university.
+Patten LJ turned next to the meaning of the phrase college, school, or hall of a university in the context of United Kingdom universities as they operated in 1972.
+Here, focusing on the universities of Oxford and Cambridge, he observed that their colleges and private halls, though self governing and legally independent, formed an integral part of the structure of their respective universities and that their members made up the universitys teaching staff and students.
+Patten LJ also found support for his approach in the provisions of the Education Reform Act 1988 (the 1988 Act) and the Education (Listed Bodies) (England) Order 2010 (the 2010 Order) made under it.
+The 1988 Act makes it an offence to award a degree that is not a recognised award.
+Under section 214(2), a recognised award includes an award granted or to be granted by a university which is authorised by Royal Charter or Act of Parliament to grant degrees, and any award granted or to be granted by any body for the time being permitted by a university to act on its behalf.
+Any such body falls within the definition of a recognised body in section 216(4).
+Section 216(2) of the 1988 Act requires the Secretary of State to compile and publish by order a list of the names of the bodies which appear to him to fall within section 216(3) which provides, so far as relevant: (3) A body falls within this subsection if it is not a recognised body and it: (b) is a constituent college, school or hall or other institution of a university which is a recognised body.
+The 2010 Order was made pursuant to section 216(2) and, as Patten LJ observed, it lists, among other bodies, all the colleges and halls of the universities of Oxford, Cambridge, Durham and Queens University Belfast, and the Institutes constituting the School of Advanced Study in the University of London.
+I would add that the 2010 Order was revoked and replaced by The Education (Listed Bodies) (England) Order 2013 which came into force on 30 December 2013.
+This expands the list of colleges and halls and includes one college of the University of South Wales and several colleges of the University of the Highlands and Islands.
+It was notable, Patten LJ continued, that the provisions of section 216(3)(b) were all but identical to those of Schedule 5, Group 6, Item 1 of the FA 1972 in defining what was included in a university, and it was unlikely that the similarity between the provisions was accidental.
+He recognised that the purpose of the two sets of provisions was very different but thought that both of them were seeking to identify the constituent parts of a university; and further, that the 1988 Act and the 2010 Order provided a useful illustration of how essentially the same statutory language had come to be interpreted and applied, albeit in the regulation of the granting of degrees.
+Patten LJ turned next to the VAT Act.
+Here he noted what he termed the stylistic and grammatical differences between Note 1(b) of Schedule 9, Group 6, Item 1 of the VAT Act and the definition of a university in Note (3) of Schedule 5, Group 6, Item 1 of the FA 1972 but he could see nothing in these differences or in the Sixth Directive to justify giving what he thought was essentially the same language a much wider meaning.
+He was of the view that there was nothing in the EU legislation which compelled member states to cast the scope of the exemption more widely than, in the case of the United Kingdom, it had previously chosen to do.
+He thought the focus of Note 1(b), and that of Note (3) before it, was on identifying the constituent parts of the university.
+The phrase of a university was common to both statutes and in his opinion this was determinative of the position.
+Patten LJ also considered the decisions in SFM, University of Leicester Students Union and FBT.
+Having done so, he was still of the view that it was necessary for SEL to establish what he understood Peter Gibson LJ to have described in University of Leicester Students Union, namely that it was a part of the university in the sense of being a constituent part with all the rights and privileges for its students and other members which that entailed.
+In my judgment Patten LJ has fallen into error in the following important respects.
+First, in focusing on the colleges of Oxford and Cambridge, all of which form a part of the structure of their respective universities, he has failed to take into account the variety of reasonable and foreseeable arrangements between a university and a college.
+Secondly, the 1988 Act is in my view of no real assistance in construing the provisions of Schedule 9, Group 6 of the VAT Act.
+The 1988 Act does not purport to implement or give effect to any EU legislation, let alone the Sixth Directive or the Principal VAT Directive.
+Further and as Patten LJ himself recognised, the purposes of the 1988 Act and the orders made under it are very different from those of the VAT Act.
+The 1988 Act is concerned with the grant of awards.
+The relevant provisions of the VAT Act, on the other hand, are concerned with the provision of education.
+Thirdly, Patten LJ has in my view failed properly to take into account the difference between the provisions of the First and Second Directives, on the one hand, and those of the Sixth Directive and the Principal VAT Directive, on the other, namely the scope and nature of the discretion they respectively confer on member states to exempt supplies of education from VAT.
+The provisions of the VAT Act are not the same as those of the FA 1972 and, most importantly, must be interpreted in the light of the wording and purpose of the Sixth Directive and now the VAT Directive, the breadth of the discretion conferred on member states by those Directives, and the need for Parliament, in exercising that discretion, to apply the relevant principles of EU law, including the principle of equal treatment.
+Finally, and for the reasons I have given, the judgment of Peter Gibson LJ in University of Leicester Students Union does not provide any sound support for the conclusion Patten LJ reached.
+I have therefore come to the conclusion that the Court of Appeal has fallen into error.
+The correct approach is to ascertain the nature and purpose of the educational activities of the college in issue, and whether those activities are so integrated with those of its university that it may properly be said to have the same objects as that university.
+That exercise may conveniently be carried out in the manner I have described at paras 47 to 56 above.
+The application of the correct approach
+In my judgment the analysis of the evidence carried out by the FTT was careful and comprehensive.
+It found, among other things, that SEL, as the United Kingdom arm of SAEI, had been an Associate College of MU since May 2009 and that the parties had proceeded on that basis; that the links between SAEI and MU were well established and likely to endure; that most of SELs courses were supervised by MU and their quality was regulated by MU; that SELs purposes were similar to those of MU; that SELs students became students of MU and received degrees from MU; and that the activities of SEL were substantially integrated into those of MU.
+It identified the factors upon which it particularly relied in the passage I have set out at para 38 above.
+In my judgment these findings had a sufficient basis in the evidence and there is no proper ground for interfering with them.
+In allowing the appeal, the UT considered that the FTT failed to distinguish between the activities of SAEI and those of SEL.
+It found that the various agreements relied upon by SEL were made between SAEI and MU; that SAEI was not a college of MU and SEL had the same status as SAEI; that MU was initially unaware of SELs existence as a corporate entity and so there was no common understanding between them; and that the FTT failed properly to consider what was meant by the term Associate College.
+In my judgment these are not fair criticisms.
+In May 2009 SEL stepped into the shoes of SETL and from that point was the entity through which the activities of SAEI were conducted in the United Kingdom.
+The factual findings of the FTT were sufficient to justify its conclusion that SELs activities were integrated into those of MU and that it shared the objects of MU.
+In my opinion the FTT was entitled to find that in May 2009 SEL became and thereafter remained a college of MU within the meaning of Schedule 9, Group 6, Item 1, Note (1)(b) of the VAT Act.
+Conclusion
+For the reasons I have given, I would allow the appeal.

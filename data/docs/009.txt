@@ -1,0 +1,191 @@
+Part II of the Landlord and Tenant Act 1954 confers a qualified security of tenure on business tenants.
+A tenant in occupation of the premises under a tenancy for a term of years certain may stay over and request a new tenancy beginning upon its expiry, unless before the tenancy was granted the landlord had served a notice informing the tenant of his rights and the parties had then agreed to exclude the relevant provisions of the Act.
+The tenant may apply to the court under section 24(1) of the Act for an order granting one.
+The court is required to make that order unless the landlord makes out one of seven grounds of opposition specified in section 30(1), in which case it is required to refuse one.
+One of those grounds is that the landlord intends to demolish or reconstruct the premises.
+The question which arises on this appeal is whether it is open to the landlord to oppose the grant of a new tenancy if the works which he says that he intends to carry out have no purpose other than to get rid of the tenant and would not be undertaken if the tenant were to leave voluntarily.
+The directly relevant provisions of the Act are section 30(1)(f) and section 31A. Section 30(1)(f) provides that the landlord may oppose the grant of a new tenancy on the ground that on the termination of the current tenancy the landlord intends to demolish or reconstruct the premises comprised in the holding or a substantial part of those premises or to carry out substantial work of construction on the holding or part thereof and that he could not reasonably do so without obtaining possession of the holding .
+Section 31A (which was inserted by the Law of Property Act 1969, section 7(1)), provides: (1) Where the landlord opposes an application under section 24(1) of this Act on the ground specified in paragraph (f) of section 30(1) of this Act the court shall not hold that the landlord could not reasonably carry out the demolition, reconstruction or work of construction intended without obtaining possession of the holding if (a) the tenant agrees to the inclusion in the terms of the new tenancy of terms giving the landlord access and other facilities for carrying out the work intended and, given that access and those facilities, the landlord could reasonably carry out the work without obtaining possession of the holding and without interfering to a substantial extent or for a substantial time with the use of the holding for the purposes of the business carried on by the tenant; or the tenant is willing to accept a tenancy of an (b) economically separable part of the holding and either paragraph (a) of this section is satisfied with respect to that part or possession of the remainder of the holding would be reasonably sufficient to enable the landlord to carry out the intended work.
+Section 37 provides that where a court is precluded from ordering the grant of a new tenancy on certain grounds, including this one, the tenant is entitled to compensation.
+The premises in issue on this appeal comprise the ground floor and basement of 80, Jermyn Street in the St Jamess area of London.
+The freeholders of the building are the South London and Maudsley NHS Foundation Trust and the landlord is the head lessee.
+The tenant is a textile dealership and consultancy, specialising in antique tapestries and textiles.
+It occupies the ground floor and basement under an underlease for a term of 25 years from 2 January 1989, and uses them as a retail art gallery, showroom and archive.
+The rest of the building is occupied and managed by the landlord as a hotel.
+The local planning authority, Westminster City Council, has designated the St Jamess area as a special policy area, in which it seeks to protect and promote certain uses, namely private members clubs, art galleries and niche retail outlets.
+Pursuant to that policy, the premises occupied by the tenant are recognised as having a specific, sui generis, use for planning purposes, namely mixed use, comprising retail, depository, research centre, archive library, publishing and conservation for historic tapestries, textile art and carpets.
+Any material change of use would require planning consent.
+On 16 March 2015, the tenant served statutory notices requesting the grant of a new tenancy.
+On 15 May 2015, the landlord served a statutory counter notice opposing the grant of a new tenancy under section 30(1)(f) of the Act.
+On 8 June 2015, the tenant applied in the Central London County Court for an order.
+A preliminary issue was directed whether that ground of opposition was made out.
+The facts are unusually stark.
+In its defence, the landlord put forward several successive schemes said to represent the works which it intended to carry out.
+These works were designed (i) to be sufficiently substantial to qualify under ground (f); (ii) to be too substantial and disruptive to be carried out by exercising a right of entry while the tenant remained in possession; and (iii) to avoid the need for planning permission, which would have enabled the tenant to argue that its likely refusal would make the project ineffective.
+In the words of the judge (HHJ Saggerson), the proposed scheme of works was designed with the material intention of undertaking works that would lead to the eviction of the tenant regardless of the works commercial or practical utility and irrespective of the expense.
+The scheme went through three iterations.
+The first scheme involved incorporating the former bar of the hotel into the ground floor of the premises.
+This scheme was shortly abandoned and replaced by a new scheme which involved creating two new retail units incorporating the premises occupied by the tenant and part of the hotel, and carrying out certain associated external works including the installation of a new street door to allow access to one of the units.
+The planning officers of the local authority recommended this scheme for refusal, whereupon it was withdrawn and replaced by a third scheme, which was the one eventually relied upon at the trial of the preliminary issue.
+The third scheme was based on the second, with two significant differences.
+First, it omitted the external works, which would have required planning permission.
+For this reason, the internal wall dividing the two proposed retail units stopped two metres short of the shopfront at ground floor level; and there was no external door to one of the units, so that it could be accessed only through the other.
+Secondly, the new scheme added more extensive internal works, many of which were objectively useless.
+They included the artificial lowering of part of the basement floor slab, in a way which would achieve nothing other than the creation of an impractical stepped floor in one of the units; the repositioning of smoke vents for no reason; and the demolition of an internal wall at ground floor level followed by its immediate replacement with a similar wall in the same place.
+The cost of the scheme was estimated by the landlord at 776,707 excluding VAT, in addition to statutory compensation of 324,000 payable to the tenant.
+It is common ground that the proposed works had no practical utility.
+This was because, although the works themselves required no planning permission, it would be impossible to make any use of them at all without planning permission for change of use, which the landlord did not intend to seek.
+Planning permission would have been required because the scheme involved combining premises permitted for hotel use with premises permitted for sui generis use.
+In addition, one of the retail units was unusable without an entrance from the street.
+In accordance with a common practice in this field, the landlord supported its evidence of intention with a written undertaking to the court to carry out the works if a new tenancy was refused.
+The sole purpose of the works was to obtain vacant possession.
+The landlords evidence was that it was prepared to run the risk that the premises occupied by the tenant would be rendered unusable in order to secure its objective of undertaking [the third scheme] and thereby remove the claimant from the premises.
+The landlord submitted that the works are thoroughly intended because they are a way of obtaining possession.
+That is all there is to it.
+As the landlords principal witness put it, the third scheme was designed purely for the purpose of satisfying ground (f).
+The judge found that the landlord genuinely intended to carry out the works if they were necessary in order to get rid of the tenant, but that it did not intend to carry out the works if it were not necessary to do so for that purpose.
+It would not, for example, have been necessary to carry out the works if the tenant agreed to go voluntarily, or it were to be found possible to carry them out by exercising a right of entry without obtaining vacant possession.
+The landlord gave evidence that in the longer term, it was hoped that the departure of the tenant would facilitate a more ambitious plan of works to add 28 bedrooms to the hotel.
+It was proposed to review the desirability of proceeding with this plan in 2018.
+These further works were not, however, the works relied upon by the landlord for the purpose of satisfying ground (f).
+Schemes like this will not always be economically feasible.
+They depend on the value of vacant possession exceeding the cost of the useless works.
+But in locations such as the west end of London, where property values are high and/or rentals depressed by planning restrictions, they may make economic sense as a means of obtaining vacant possession.
+On that footing, Judge Saggerson found that the landlord genuinely intended to carry out the works and that ground (f) was made out.
+He therefore declined to order a new tenancy.
+On appeal to the High Court, Jay J agreed, but gave permission for a leap frog appeal to this court.
+The justification for the leap frog appeal was that the decision of the courts below was based on a line of authority in the Court of Appeal and the House of Lords to the effect that the operation of the section depended on a two part test.
+The landlord had to prove (i) that it had a genuine intention to carry out qualifying works; and (ii) that it would practically be able to do so.
+It was submitted on behalf of the landlord that the effect of these decisions was that nothing else mattered.
+In particular, the landlords motives, the reasonableness of its intentions, or the objective utility of the works, whether for its own purposes or in the public interest, were all alike irrelevant, except (as the landlord accepted) as material from which the court might infer that the intention to carry them out was not genuine.
+The origin of the two part test proposed by the landlord is the decision of the Court of Appeal in Cunliffe v Goodman [1950] 2 KB 237.This was an appeal in an action for damages for breach of a repairing covenant on the expiry of a lease.
+By section 18(1) of the Landlord and Tenant Act 1927, no such damages were recoverable if it is shown that the premises would at or shortly after the termination of the tenancy have been or be pulled down, or such structural alterations made therein as would render valueless the repairs covered by the covenant.
+The language, purpose and context of the statutory provision under consideration were therefore quite different from those of Part II of the Act of 1954.
+But it had been held in Marquess of Salisbury v Gilmore [1942] 2 KB 38 that the test for the application of section 18(1) depended on the intention of the landlord at the time when the tenancy came to an end, and the judgment of Asquith LJ in Cunliffe has been treated as a general definition of intention.
+He held, at p 253, that it connoted a state of affairs which he decides, so far as in him lies, to bring about, and which, in point of possibility, he has a reasonable prospect of being able to bring about, by his own act of volition.
+On the facts of that case, the landlord failed because it was found that he had no settled intention to carry out the works but was reserving his final decision until further information should become available.
+After the passage of the 1954 Act, a trio of cases addressed the question of intention in the context of ground (f).
+The background to all three cases was similar.
+The landlord wished to occupy the premises himself, but ground (g), which authorised the refusal of a new tenancy in that case, was available only if he had held his interest in the premises for at least five years before the end of the tenants term.
+Landlords who had acquired their interest within the five year period therefore proposed works to redevelop the premises before moving into occupation, in order to bring themselves within ground (f) instead.
+The argument was that the existence of ground (g) implied that ground (f) should not be available to a landlord who intended to occupy the premises himself but failed to satisfy the conditions on which ground (g) was available.
+In Atkinson v Bettison [1955] 1 WLR 1127, the Court of Appeal held that this kind of problem fell to be resolved by determining which was the primary reason for the landlords desire to obtain vacant possession.
+The judge had refused to order a new tenancy because he found that the landlords real purpose was to occupy the premises and that the proposed redevelopment was no more than an ancillary purpose directed to that end.
+The Court of Appeal affirmed his decision.
+Denning LJ (with whom Hodson and Morris LJJ agreed) held that, where there were two purposes, only the primary purpose was relevant.
+In Fisher v Taylors Furnishing Stores Ltd [1956] 2 QB 78 it was held that the landlords intention to demolish and reconstruct satisfied ground (f), notwithstanding that his purpose was to occupy the premises himself without being able to satisfy ground (g).
+Denning LJ, delivering the leading judgment in the Court of Appeal, reinterpreted his earlier judgment in Atkinson v Bettison and resiled from his statement that only the primary purpose was relevant.
+A landlord might have two purposes but, provided that the purpose of demolishing or reconstructing the premises was genuine, it would satisfy ground (f).
+Grounds (f) and (g) were distinct and each of them had to be considered on their own terms separately.
+The true view of the earlier decision, he said (p 84), was that the courts should ensure that landlords whose real purpose was to occupy the premises themselves but failed to satisfy ground (g), did not devise spurious schemes of works in order to obtain possession on ground (f): For this purpose the court must be satisfied that the intention to reconstruct is genuine and not colourable; that it is a firm and settled intention, not likely to be changed; that the reconstruction is of a substantial part of the premises, indeed so substantial that it cannot be thought to be a device to get possession; that the work is so extensive that it is necessary to get possession of the holding in order to do it; and that it is intended to do the work at once and not after a time.
+Unless the court were to insist strictly on these requirements, tenants might be deprived of the protection which Parliament intended them to have.
+It must be remembered that if the landlord, having got possession, honestly changes his mind and does not do any work of reconstruction, the tenant has no remedy.
+Hence the necessity for a firm and settled intention.
+Morris LJ, who had also sat in Atkinson v Bettison, said (p 89): Where, as in section 30(1)(f), proof of an intention is to be supplied, and of an intention related to a particular time, then the genuineness of a declared intention may have to be decided.
+Considerations as to what may be a landlords primary purpose, or his real intention, or his main purpose, or his secondary purpose, or his real reason (to quote phrases which have been used), are only of relevance and assistance in the course of deciding whether the landlord has proved that he genuinely has an intention of doing one of the things specified in section 30(1)(f), and of doing it on the termination of the current tenancy.
+The third case was the decision of the House of Lords in Bettys Cafs Ltd v Phillips Furnishing Stores Ltd [1959] AC 20.
+The decision is authority for two propositions: (i) that the relevant intention of the landlord was his intention at the date of the hearing; and (ii) that grounds (f) and (g) were distinct grounds of opposition, and that accordingly ground (f) should not be read as implicitly excluding cases where the landlord wished to occupy the premises himself.
+However, the tenant also sought to resurrect the argument rejected in Fisher v Taylors Furnishing Stores Ltd that redevelopment must be the landlords primary purpose, and two members of the Appellate Committee, Lord Denning and Lord Morton, commented on that attempt, obiter.
+Lord Denning (p 52) reaffirmed the view which he had expressed in Fisher.
+Lord Morton (pp 44 45) also rejected the tenants argument, but on the more limited ground that it wrongly assumed that grounds (f) and (g) were mutually exclusive categories.
+The speeches throw little light on the broader relevance (if any) of the landlords motives in seeking to redevelop the premises.
+But the House may fairly be said to have implicitly endorsed the approach taken in Fisher rather than that in Atkinson.
+The decision of the Court of Appeal in Housleys Ltd v Bloomer Holt Ltd [1966] 1 WLR 1244 turned on the identity of the relevant premises for the purposes of ground (f).
+Diplock LJ, however, took the opportunity to point out that Bettys Cafs must be regarded as having definitively laid to rest the concept of the primary purpose floated in Atkinson v Bettison.
+He observed (p 1251) that the fallacy in that case lay in the proposition that one had got to look and see what the primary intention or purpose or motive of the landlord was.
+The same point was subsequently made by the Court of Appeal in Turner v Wandsworth Borough Council [1994] 69 P & CR 433, where it was decisive.
+The facts of that case were that the landlord proposed to demolish the premises with a view to leasing them for a short period as a car park and selling them thereafter if market conditions were favourable.
+The judge found that the intention to demolish was genuine but that it was colourable because it was simply a device to be able to sell.
+The Court of Appeal allowed the appeal.
+Staughton LJ, delivering the only reasoned judgment, treated the above cases as authority for the proposition that in general, motive is irrelevant, provided there is a genuine intention to demolish or reconstruct (p 436).
+As Baroness Hale pointed out in Majorstake Ltd v Curtis [2008] AC 787, paras 34 35, it is clear that for the purposes of section 30(1)(f) of the Act of 1954 it is for the landlord to decide what works he wishes to carry out and where.
+It follows that if his intention is genuine, it cannot matter whether it is reasonable, or whether reasonable changes to the scheme would make it consistent with the tenants continued possession of the demised premises: see Decca Navigator Co Ltd v Greater London Council [1974] 1 WLR 748; Blackburn v Hussain [1988] 1 EGLR 77, 79 (Taylor LJ).
+Although the point must be regarded as res integra in this court, I accept the submission of Mr Fetherstonhaugh QC (who appeared for the landlord) that the touchstone of ground (f) is a firm and settled intention to carry out the works.
+The landlords purpose or motive are irrelevant save as material for testing whether such a firm and settled intention exists.
+This is implicit in the abundant case law generated by the Act since Atkinson v Bettison and it is the plain meaning of intention in both ground (f) and ground (g).
+Mr Fetherstonhaugh is also surely right in saying that as a statutory interference with the landlords proprietary rights, the protection conferred by the Act should be carried no further than the statutory language and purpose require.
+It confers no more than a qualified security on the tenant.
+Certain interests of the landlord override whatever security it was intended to confer on the tenant, and one of them is the right to demolish or reconstruct his property in whatever way he chooses at the expiry of the term.
+Nonetheless, I do not think that these considerations avail the landlord on the facts of the present case.
+This appeal does not, as it seems to me, turn on the landlords motive or purpose, nor on the objective reasonableness of its proposals.
+It turns on the nature or quality of the intention that ground (f) requires.
+The entire value of the works proposed by this landlord consists in getting rid of the tenant and not in any benefit to be derived from the reconstruction itself.
+The commercial reality is that the landlord is proposing to spend a sum of money to obtain vacant possession.
+Indeed, in many cases, apart from the statutory compensation, landlords with proposals like these will not even have to spend the money.
+They need only supply the tenant with a schedule of works substantial and disruptive enough to be inconsistent with his continued occupation.
+If the landlords argument is correct, the tenant will have no incentive to go to court just to get an undertaking to carry out the works, from which he could derive no possible benefit.
+He will recognise defeat and leave voluntarily.
+The landlord will then have no need to give an undertaking to the court and no reason to carry out the works.
+The result is that no overriding interest of the landlord will be served which section 30 can be thought to protect.
+The right to obtain vacant possession on the expiry of the existing term, which is all that the landlord is getting for his money, is not in itself an interest protected by section 30.
+On the contrary, in a case where the parties have not agreed to contract out of statutory protection, it is the very interest that Part II of the Act is designed to restrict.
+These considerations are relevant not so much in themselves as because in such a case one would usually infer what in this case the landlord has been honest enough to admit, ie that the landlords intention to carry out the works was conditional.
+It intended to carry them out only conditionally on their being necessary to get the tenant out, and not, for example, if he left voluntarily or if the judge was persuaded that the works could be done by exercising a right of entry.
+Does an intention of this kind engage ground (f)? The courts below thought that it was a sufficient answer to this question that the condition was satisfied at the time of the trial, because it was by then clear that the tenant would not in fact leave voluntarily and that the works could not be done by way of a right of entry while he remained in possession.
+A dictum of Neuberger J in Al Malik Carpets (Private) Ltd v London Buildings (Highgate) Ltd [1999] All ER (D) 971, Transcript p 11, suggests that he too would have regarded it as sufficient, although the point was not directly in issue in that case.
+I respectfully disagree.
+The problem is not the mere conditionality of the landlords intention, but the nature of the condition.
+Section 30(1)(f) of the Act assumes that the landlords intention to demolish or reconstruct the premises is being obstructed by the tenants occupation.
+Hence the requirement that the landlord could not reasonably do so without obtaining possession of the holding.
+Hence also the provision of section 31A that the court shall not hold this requirement to have been satisfied if the works can reasonably be carried out by exercising a right of entry and the tenant is willing to include a right of entry for that purpose in the terms of the new tenancy.
+These provisions show that the landlords intention to demolish or reconstruct the premises must exist independently of the tenants statutory claim to a new tenancy, so that the tenants right of occupation under a new lease would serve to obstruct it.
+The landlords intention to carry out the works cannot therefore be conditional on whether the tenant chooses to assert his claim to a new tenancy and to persist in that claim.
+The acid test is whether the landlord would intend to do the same works if the tenant left voluntarily.
+On the facts found by Judge Saggerson, the tenants possession of the premises did not obstruct the landlords intended works, for if the tenant gave up possession the landlord had no intention of carrying them out.
+Likewise, the landlord did not intend to carry them out if the tenant persuaded the court that the works could reasonably be carried out while it remained in possession.
+In my judgment, a conditional intention of this kind is not the fixed and settled intention that ground (f) requires.
+The answer would be the same if what the landlord proposed was a demolition, conditionally on its being necessary to obtain possession from the court.
+More complex issues would arise if the landlord intended to carry out some substantial part of the proposed works whether or not it was necessary to do so in order to obtain vacant possession from the court, and part of them only if it was necessary in order to gain possession.
+This might arise if, for example, the unconditional part of the landlords plan was insufficiently substantial or disruptive to warrant the refusal of a new tenancy, so that spurious additional works had to be added for the sole purpose of obtaining possession.
+In a situation like that, the answer is likely to depend on the precise facts.
+If, however, it is established that, at the time of the trial, were the tenant hypothetically to leave voluntarily, the landlord would not carry out the spurious additional works, then the tenants claim to a new tenancy would normally fall to be resolved by reference only to the works which the landlord unconditionally intended.
+Just as the landlords motive or purpose, although irrelevant in themselves, may be investigated at trial as evidence for the genuineness of his professed intention to carry out the works, so also they may be relevant as evidence of the conditional character of that intention.
+In both cases, the landlords motive and purpose are being examined only because inferences may be drawn from them about his real intentions.
+Likewise, although the statutory test does not depend on the objective utility of the works, a lack of utility may be evidence from which the conditional character of the landlords intention may be inferred.
+I am not persuaded by Mr Fetherstonhaughs submission that if the law is as I believe it to be, landlords will disguise their intentions more effectively than his clients did.
+It would be unworldly for this court to ignore that possibility.
+But we cannot decide an issue of statutory construction on the assumption that landlords will withhold the truth from the court on an application for a new tenancy.
+We have to proceed on the footing litigants are honest or, if they are not, that they will be found out by the experienced judges who hear these cases.
+This makes it unnecessary for me to deal with the tenants alternative submission that the landlords apparent intention should be disregarded for want of any commercial purpose, by analogy with the approach taken in W T Ramsay Ltd v Inland Revenue Comrs [1982] AC 300 to tax avoidance schemes.
+That submission is not only more radical in its implications but more difficult to reconcile with established authority on the Act of 1954.
+I would allow the appeal and declare that on the facts found the landlord does not intend, within the meaning of section 30(1)(f), to carry out the works specified in the scheme of works relied upon in opposition to the tenants application for a new tenancy.
+LORD BRIGGS: (with whom Lady Black and Lord Kitchin agree)
+I agree with Lord Sumptions conclusion that this appeal should be allowed, and with his reasons for that conclusion.
+I add a few words of my own out of respect for the concern persuasively expressed by the County Court judge, that the forensic assessment, as at the hearing date, of the question whether the landlord intended to do the proposed works if the tenant left voluntarily would be to travel not merely into the realm of the hypothetical, but into the positively counter factual.
+The reasonable expression of such a concern by a judge experienced in this type of litigation should not lightly be disregarded.
+In Bettys Cafs Ltd v Phillips Furnishing Stores Ltd [1959] AC 20 the House of Lords laid down, in unmistakable terms, a rule that the question whether the landlord had the requisite intention to enable the grant of a new tenancy to be resisted under section 30(1)(f) of the Landlord and Tenant Act 1954 had to be determined by reference to the landlords intention as at the time of the hearing, not at any earlier date.
+In that case the company landlord only proved its intention by reference to a board meeting held a week after the hearing started.
+Nothing in these judgments alters that rule in any way.
+But there are potential difficulties in addressing conditionality of intention at the hearing date, which Judge Saggerson regarded as fatal to the submission that this was what section 30(1)(f) should be interpreted as requiring.
+In the real world, as a business tenancy approaches its contractual termination date, a landlord may well be faced with alternative future scenarios: will the tenant leave voluntarily or seek a new tenancy? These alternatives may be discussed in negotiations, or at a mediation, before or even after the tenant begins proceedings for the grant of a new tenancy.
+The landlord may well form alternative intentions to meet both eventualities.
+If the tenant leaves voluntarily the landlord may just carry out a modest refurbishment before occupying the premises for its own business, or selling with vacant possession.
+If the tenant plans to fight for a new tenancy, the landlord may intend to do large scale works, or to demolish premises with significant development value, in order to be able (under the law as understood by the courts below) to oppose the tenants application successfully.
+If the landlord is a company, there may be board minutes in which these alternative intentions are recorded.
+But by the time of the hearing these alternative intentions about what if any works the landlord will do if the tenant leaves voluntarily will usually just be past history.
+The tenant will by then have committed substantial costs, and risked liability for the landlords costs, in pursuing its claim for a new tenancy to a hard fought hearing.
+The prospect of voluntary departure may have receded to a purely theoretical irrelevance, like a cloud the size of a mans hand.
+In such a case the landlord may no longer have any relevant intention in relation to that hypothetical and indeed counter factual possibility.
+In some cases the tenant may from the outset have manifested such a determination to seek a new tenancy at all costs that voluntary departure may never have been a sufficient possibility for the landlord to have given it a moments thought, still less formed an intention about it.
+To the question in cross examination: does your company now intend to carry out these works if the tenant goes voluntarily, the landlords witness might say, with complete honesty, as at the hearing date, that she and her fellow directors dont waste their valuable time discussing irrelevant hypothetical possibilities.
+It is to escape this forensic cul de sac that legitimate recourse may now have to be had to a forensic examination of the landlords purpose or motive, as Lord Sumption suggests.
+As he points out at the beginning of his judgment, the real issue of principle in this case is whether the landlord should be able to resist a new tenancy by reference to intended works of construction if its only purpose in doing them is to get rid of the tenant.
+Of course, as the cases reviewed by Lord Sumption show, a direct invocation of a purpose test is not permitted by the language of section 30(1)(f), because it speaks solely of intention.
+Parliament has chosen to define this ground of opposition by reference to intention, but cannot have intended thereby to enable a landlord to defeat a claim under the Act by asserting and proving an intention to do works purely for the purpose of getting rid of the tenant, such that the works (or the qualifying works) would not be done if the tenant left voluntarily.
+The courts have until now restricted the forensic examination of the landlords purpose or motive to a test of the genuineness of that intention.
+By genuineness I have no doubt that the court meant honesty.
+In practice, that examination has, for very many years, largely been overtaken by the common use of the undertaking to the court to carry out the works if a new tenancy is refused, as a reliable litmus test for genuine intention.
+But neither the undertaking to the court, nor the examination of the genuineness of the landlords intention, will reveal whether the landlords intention is of the disqualifying conditional kind, as this case demonstrates.
+This landlords intention, backed up by a proffered undertaking to the court, was perfectly genuine, and the fact that the avowed purpose of the otherwise useless works was only to get rid of the tenant said nothing at all to detract from its genuineness.
+But the frank admission as to the landlords underlying purpose said all that was necessary to reveal that the intention to do the works was only of that conditional kind, such that the works would not have been done if the tenant had agreed to go voluntarily.
+There is nothing hypothetical or counter factual about testing the type or quality of the landlords intention, as at the time of the hearing, by an analysis of the purpose or motive behind it.
+The disqualifying underlying purpose (just to get rid of the tenant) is a continuing aspect of the landlords then current intention, even if the direct question whether, in other circumstances (the tenant going voluntarily), the landlord would have intended to do the relevant works appears hypothetical and even counter factual.
+Recourse to an examination of motive or purpose does not mean that a desire to remove the tenant will always, or even usually, disqualify the landlord from resisting the grant of a new tenancy under section 30(1)(f).
+An intention to demolish and/or redevelop business premises is very frequently influenced by commercial considerations which include the departure of the tenant.
+The landlord may wish to redevelop the premises so as to be suitable for his own use, or for a sale or re letting to a different type of tenant who would pay a higher rent, and these considerations may transform what would otherwise be the excessive cost of the proposed works into something financially viable.
+The only legitimate purpose of the examination of purpose, beyond testing the genuineness of the landlords intention, will be to enable the court to decide whether the landlord would have done the relevant works if the tenant had left voluntarily.
+This is, as Lord Sumption explains, the acid test of the type or quality of intention under section 30(1)(f).
+I also agree with Lord Sumptions view that the same acid test will have to be applied where the landlord asserts an intention to carry out works which, as a whole, would require the tenant to vacate, but where it is alleged that the landlord would only carry out some lesser scheme, not justifying the refusal of a new tenancy, if the tenant were to leave voluntarily.
+Cases of that kind may be more likely than the stark facts of the present case, and they will probably give rise to factual questions of some nicety, incapable of resolution by the proffer of a simple undertaking to the court, as happens at present.
+This may introduce an element of complexity and expense into proceedings in the County Court which, for many years, have yielded to a simple technique for speedy resolution.
+But I can see no other way of giving effect to what seems to me always to have been the plain intention of Parliament, that a tenants statutory right to a new tenancy should not be circumvented by proposed works which, viewed as a whole, would not have been undertaken by the landlord if the tenant had left voluntarily.

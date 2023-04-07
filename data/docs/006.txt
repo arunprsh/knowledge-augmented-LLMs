@@ -1,0 +1,192 @@
+This appeal raises a short issue as to the requirements for valid service of a completion notice so as to bring a newly completed building within liability for non domestic rates.
+The statutory framework
+Liability for non domestic rates depends on a property being entered as a hereditament in the rating list.
+The completion notice procedure, under section 46A of and Schedule 4A to the Local Government Finance Act 1988, as inserted, (the Act) provides a mechanism whereby a new building, which has not yet been occupied, may be brought into the rating list.
+Subject to any appeal, a validly served completion notice has the effect that the building to which it relates is deemed to have been completed on the date specified in the notice.
+It is then shown in the rating list as a separate hereditament (or hereditaments), and is valued as if it were complete (section 46A(2)).
+Once the building is so shown in the rating list, its owner (or its occupier if it becomes occupied) becomes liable to an assessment for non domestic rates.
+The procedure is set out in Schedule 4A. Paragraph 1(1) of Schedule 4A provides that, if it comes to the notice of a billing authority that the work remaining to be done on a new building in its area can reasonably be expected to be completed within three months, it shall (unless the valuation officer directs otherwise) serve on the owner of the building a notice, known as a completion notice.
+Paragraph 1(2) contains a similar provision in respect of a new building that has been completed.
+The completion notice must (a) specify the building to which it relates and (b) state the day which the billing authority proposes as the completion day (para 2(1)).
+In the case of a building which has yet to be completed, the completion day proposed should be: [s]uch day, not later than three months from and including the day on which the notice is served, as the authority considers is a day by which the building can reasonably be expected to be completed. (para 2(2)) In the case of a building which appears to have been completed, it should be the day on which the notice is served (para 2(3)).
+A person on whom the completion notice is served may appeal to the Valuation Tribunal on the ground that the relevant building has not been or cannot reasonably be expected to be completed by the day stated in the notice (para 4(1)).
+Where an appeal is not withdrawn or dismissed, the completion day shall be such day as the tribunal shall determine (para 4(2)).
+An appeal must be brought within 28 days after the date on which the appellant received the completion notice (Non Domestic Rating (Alteration of Lists and Appeals) (England) Regulations 2009 (SI 2009/2268) regulation 19(1), made under paragraph 8(2)(a) of Schedule 11 to the Act).
+Paragraph 8, which deals with service, provides: Without prejudice to any other mode of service, a completion notice may be served on a person (a) by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to that person at his usual or last known place of abode or, in a case where an address for service has been given by that person, at that address; in the case of an incorporated company or body, (b) by delivering it to the secretary or clerk of the company or body at their registered or principal office or sending it in a prepaid registered letter or by the recorded delivery service addressed to the secretary or clerk of the company or body at that office; or (c) where the name or address of that person cannot be ascertained after reasonable inquiry, by addressing it to him by the description of owner of the building (describing it) to which the notice relates and by affixing it to some conspicuous part of the building.
+General provision for the service of statutory notices by local authorities is also made by section 233 of the Local Government Act 1972.
+In particular it provides: (7) If the name or address of any owner, lessee or occupier of land to or on whom any document mentioned in subsection (1) above is to be given or served cannot after reasonable inquiry be ascertained, the document may be given or served either by leaving it in the hands of a person who is or appears to be resident or employed on the land or by leaving it conspicuously affixed to some building or object on the land.
+As to the date of service, under such statutory provisions, section 7 of the Interpretation Act 1978 provides: Where an Act authorises or requires any document to be served by post (whether the expression serve or the expression give or send or any other expression is used) then, unless the contrary intention appears, the service is deemed to be effected by properly addressing, pre paying and posting a letter containing the document and, unless the contrary is proved, to have been effected at the time at which the letter would be delivered in the ordinary course of post.
+Factual background
+In January 2009 the respondent (UKI) began the redevelopment of a building at 1 Kingsway to provide 130,000 sq ft of office space.
+In February 2012 the appellant council informed UKIs agents that it intended to serve a completion notice specifying a completion date of 1 June 2012.
+It asked the agents to confirm the identity of the owner of the building, but the agents declined to do so without obtaining instructions from their client which were not forthcoming.
+At that time the building was managed by Eco FM (Eco) under a contract with UKI, but Eco had no authority to accept service of documents on its behalf.
+On 5 March 2012, the council delivered a completion notice by hand to the building, specifying 1 June 2012 as the completion date.
+The notice was addressed to the Owner, 1 Kingsway, London WC2B 6AN.
+It was given to a receptionist employed by Eco, who scanned and emailed a copy of the notice to UKI.
+It was received by UKI not later than 12 March 2012.
+On 29 March 2012 an appeal was lodged by UKIs agents against the completion notice, purportedly on behalf of Eco, on the grounds (inter alia) that the service of the notice was invalid.
+On 7 May 2013, the premises were brought into the list with a rateable value of 2,750,000 with effect (as subsequently corrected) from 1 June 2012.
+This was met by a proposal on behalf of UKI that the entry be deleted.
+The proposal was not accepted by the valuation officer and was transmitted to the Valuation Tribunal for determination on appeal.
+The appeals against both the completion notice and the inclusion of the premises in the list were consolidated and heard by the Valuation Tribunal (President Graham Zellick QC), which allowed the appeal.
+That decision was reversed by the Upper Tribunal (Deputy President Martin Rodger QC) [2015] RA 433 but re instated by the Court of Appeal (Gloster, Macur, and King LJJ) [2017] PTSR 1606.
+The Court of Appeal (para 37) recorded as common ground: i) that the state of the premises at the relevant time was such that, but for the deeming effect of a completion notice, the premises could not have been entered in the rating list; ii) that the name and address of UKI as owner of the building could have been ascertained by the council by reasonable inquiry, notwithstanding the fact that UKI had instructed the agents not to divulge its name.
+Accordingly, the council could not rely on the means of service on the premises permitted by paragraph 8(c) of Schedule 4A to the Act, or section 233(7) of the Local Government Act 1972.
+The issue for this court, as identified in the agreed statement of facts and issues, is whether the completion notice was validly served on the date that it was received by UKI, in circumstances where: i) it was not delivered directly to UKI by the council, but passed through the hands of the receptionist employed by Eco, who was not authorised for that purpose by either party; ii) it was received by UKI in electronic rather than paper form.
+Service the authorities
+It is common ground that, by virtue of the opening words of paragraph 8 of Schedule 4A to the Act, the three specific methods there set out do not exclude other methods of service available under the general law.
+There is no serious dispute as to what that entails.
+In Sun Alliance and London Assurance Co Ltd v Hayman [1975] 1 WLR 177, 185 CA (a case under the Landlord and Tenant Act 1954), Lord Salmon said: According to the ordinary and natural use of English words, giving a notice means causing a notice to be received.
+Therefore, any requirement in a statute or a contract for the giving of a notice can be complied with only by causing the notice to be actually received unless the context or some statutory or contractual provision otherwise provides (No distinction is drawn in the cases between serving and giving a notice: see Kinch v Bullard [1999] 1 WLR 423, 426G.) To similar effect in Tadema Holdings Ltd v Ferguson (1999) 32 HLR 866, 873, Peter Gibson LJ said (in a case relating to service of a notice under the Housing Act 1988): Serve is an ordinary English word connoting the delivery of a document to a particular person.
+Specific statutory provisions such as paragraph 8 are designed, not to exclude other methods, but rather to protect the server from the risk of non delivery.
+As was said by Slade LJ in Galinski v McHugh (1988) 57 P & CR 359 (in relation to a similar service provision in the Landlord and Tenant Act 1927 section 23(1)): This is a subsection appearing in an Act which contains a number of provisions requiring the giving of notice by one person to another and correspondingly entitling that other person to receive it.
+In our judgment, the object of its inclusion . is not to protect the person upon whom the right to receive the notice is conferred by other statutory provisions.
+On the contrary, section 23(1) is intended to assist the person who is obliged to serve the notice, by offering him choices of mode of service which will be deemed to be valid service, even if in the event the intended recipient does not in fact receive it. (p 365, original emphasis)
+Indirect service
+More controversial, and relevant in the present case, is whether it matters that the notice reaches the intended recipient, not directly or through an agent authorised for that purpose, but by the action of a third party.
+On this point we were referred to an observation (obiter) of Sir Robert Megarry V C in Townsends Carriers Ltd v Pfizer Ltd (1977) 33 P & CR 361.
+That concerned a break option in a lease exercisable by either party upon the giving of written notice to the other.
+The premises were used by U Ltd, an associated company of the defendant, and correspondence relating to rent demands and other matters had been between that company and WT Ltd, an associated company of the claimant.
+It was held that a notice given by U Ltd to WT Ltd was valid, on the basis of an assumed general agency arising from past conduct, even though neither company was expressly authorised for that purpose.
+The Vice Chancellor also noted but rejected an argument that the relevant clause required the tenant to give notice to the landlord, and that, although the landlord had ultimately received the notice, no notice had ever been given to the landlord as such.
+He said: I do not think that a requirement to give notice is one that excludes the indirect giving of notice.
+The question is whether the notice has been given, not whether it has been given directly.
+If the notice emanates from the giver and reaches the ultimate recipient, I do not think that it matters if it has passed through more hands than one in transit. (p 366)
+Electronic communication
+The other main issue in this appeal is whether it matters that the notice was received by UKI in electronic form.
+We were referred to no direct authority on service of a scanned copy of a notice by email.
+However, Mr Kokelaar for the council relied on two earlier authorities in which delivery of notices by fax was accepted as valid.
+In Hastie & Jenkerson v McMahon [1990] 1 WLR 1575 the Court of Appeal accepted that service of a list of documents by fax was valid service for the purposes of a consent order in civil proceedings under the Rules of the Supreme Court.
+In the leading judgment, Woolf LJ said: . are there any legal reasons why advantage should not be taken of the progress in technology which fax represents to enable documents to be served by fax, assuming that this is not contrary to any of the Rules of the Supreme Court? The purpose of serving a document is to ensure that its contents are available to the recipient and whether the document is served in the conventional way or by fax the result is exactly the same. [Counsel] on behalf of the defendant submits that what is transmitted by fax is not the document but an electronic message.
+However, this submission fails to distinguish between the method of transmission and the result of the transmission by fax.
+What is produced by the transmission of the message by fax, admittedly using the recipients machine and paper, is the document which the other party intended should be served.
+What is required is that a legible copy of the document should be in the possession of the party to be served.
+This fax achieves.
+I therefore conclude that service by fax can be good service subject to any requirement of the order requiring service of a particular document and any requirement of the Rules of the Supreme Court. (pp 1579 1580).
+I emphasise that if a document is served by a means for which neither the rule nor statute provides, there will only be good service if it be proved that the document, in a complete and legible state, has indeed been received by the intended recipient.
+I realise that transmission of documents by fax is a relatively recent development.
+If, in a particular case, what emerges from the recipients fax machine is not, or may not be, complete or is not wholly legible, a court will be justified in concluding that the document has not been properly served. (p 1585) Agreeing, Glidewell LJ added: The third member of the court Lloyd LJ, while not dissenting, expressed some misgivings.
+He would have preferred to wait for consideration of the question by the Supreme Court Procedure Committee.
+As he said, while it is easy enough for courts to give a benevolent construction to the rules to take account of some new contrivance, such as the telex machine or the fax, it is not so easy to see what the repercussions will be, and what other consequential amendments to the rules may be required (p 1586).
+The other authority to which we were referred on this point was PNC Telecom plc v Thomas [2003] BCC 202.
+Sir Andrew Morritt V C held that a letter sent by fax constituted a validly deposited notice to convene an extraordinary general meeting under section 368 of the Companies Act 1985.
+The Vice Chancellor noted that by that time the Electronic Communications Act 2000 (2000 Act) enabled specific modifications to be made to authorise communication by electronic means under existing statutes, including the Companies Act.
+Some such modifications had been made, but not in respect of section 368.
+Counsel before him had been unable to indicate the basis on which some of these provisions had been singled out for amendment but others not (para 14).
+In any event, he did not think that the 2000 Act could be regarded as designed to introduce fax as a permitted means of communication for that had been done on a case by case basis over the preceding 30 years or so (para 16).
+Among other authorities he referred to the words of Woolf LJ set out above.
+He also noted with agreement observations of Laddie J in Inland Revenue Comrs v Conbeer [1996] BCC 189, on the potential advantages of delivery by fax in terms of reliability and speed.
+He saw no reason why fax transmission should not give rise to a valid deposit under section 368, in circumstances where no one had been misled or disadvantaged, and the ultimate result is exactly the same as if it had been transmitted in person or by post (para 22).
+The principal dispute on this part of the case is whether these authorities can be relied on as extending to a copy sent by email, having regard in particular to the provisions made in that respect by the 2000 Act.
+Section 8 empowers Ministers to make regulations to modify primary and secondary legislation for the purpose of authorising or facilitating the use of electronic communications.
+Electronic communication is widely defined as including any form of communication transmitted while in an electronic form (section 15(1)).
+In respect of non domestic rates (and council tax) specific regulations have been made for the use of electronic billing in certain circumstances, and subject to particular restrictions: see the Council Tax and Non Domestic Rating (Electronic Communications) (England) Order 2003 (SI 2003/2604).
+Thus for example provision is made for the service of certain forms of notice to be given to a person by sending the notice by electronic communication to such address as may be notified by that person for that purpose (see article 4).
+No such modification has been made in respect of completion notices.
+The judgments below
+In the Valuation Tribunal (at para 38), the President thought that, even accepting the formulation by Peter Gibson LJ in the Tadema Holdings case (para 15 above), there had been no delivery of the actual notice to the owner.
+In his view intended recipients were entitled to receive the original of any formal notice, in the absence of an expression of willingness to accept electronic service.
+The Upper Tribunal took a different view.
+The Deputy President found it difficult to accept that: in a case where the vital information has successfully been imparted to the person who needs to receive it, and that person has acted on it by exercising the right of appeal, the need for discipline and regularity in the exercise of the statutory power should be sufficiently powerful considerations to require that the recipients liability be determined on the basis that the information had never been received. (para 46) Unlike the President he did not see that this approach offended any public interest consideration.
+Referring to the dicta in the Townsends Carriers case, he said: If the mode of service selected by the billing authority achieves its objective I find it very difficult to see why the public interest or the interests of justice to which the President referred should render service legally effective in some cases but ineffective in others.
+In my judgment a document which arrives in the hands of the intended recipient by an unorthodox route has still been served (para 47) In sending on the notice to UKI, the receptionist had been doing no more than one would expect of a responsible employee of a company engaged to manage the building (para 48).
+He dealt more shortly with the issue of electronic communication, saying simply that, there being no dispute that the electronic copy had been received, he could see no justification for distinguishing between notices in different forms (para 49).
+The Court of Appeals conclusion turned principally on what they understood to be the natural or normal usage of the statutory language.
+As Gloster LJ said; The relevant statutory requirements of section 46A of and paragraph 1 of Schedule 4A to the 1988 Act for present purposes are: (a) that the billing authority (b) shall serve the required completion notice (c) on the owner of the building.
+For the billing authority merely to leave the notice with a third party, not authorised to accept service of the notice on the owners behalf, or, indeed, to effect service on the authoritys behalf, in the hope, or with the intention, that the notice will somehow be brought to the attention of the owner, and where a copy of the notice or its contents are in fact subsequently communicated to the owner by the third party, does not, on any natural or normal usage of the words serve and on, constitute service on the owner by the authority.
+In other words, the concept of service on the owner by the authority in paragraph 1 of Schedule 4A to the 1988 Act cannot be construed as including effectively all methods of communication or transmission, which ultimately result in the information in the notice (or the notice itself) being brought to the attention of, or delivered to, the owner, in circumstances where the information in the document, or the document itself, has been communicated to the owner by a third party who is not authorised either to accept, or effect, service . (para 44)
+She also attached weight to the statutory context: it is a taxing statute which imposes rating liability on a property owner on an assumed basis.
+The timetable for a taxpayer to raise an appeal against the completion notice is strict and is based upon the date upon which it received the completion notice.
+In those circumstances there are obvious policy considerations which point to a need for certainty and precision as to the date of service (para 49)
+On the question of indirect service she did not think that the observations of Sir Robert Megarry V C could be treated as of general application: It is clear from subsequent cases that Megarry V Cs dictum has not been generally applied to justify an expansion of the concept of service to embrace all situations where ultimately the person on whom the relevant notice or document ought to be served has come to know of the contents of the notice, irrespective of whether he or his authorised agent have actually been served.
+Thus, for example, in Fagan v Knowsley Metropolitan Borough Council (1985) 50 P & CR 363 this court rejected the application of the dictum in circumstances where what was relevant was the mandatory statutory code for service under section 30 of the Compulsory Purchase Act 1965.
+The fact that the service provisions were mandatory in that case does not detract from UKIs submission that what has to be considered in each case is what are the necessary requirements for service under the relevant statutory scheme.
+Likewise, a number of cases have emphasised the well established principle that service on a solicitor who does not have authority to accept service of the particular notice on behalf of his client is not valid service on that party.
+Glen International Ltd v Triplerose Ltd [2007] L & TR 28; [2007] EWCA Civ 388 makes clear that the Townsends case can be distinguished as being a decision on the particular facts (see para 22) rather than laying down any generally applicable principle.
+In the Glen International Ltd, the Court of Appeal did not go on to consider whether the solicitors had passed a copy of the notice to their client.
+But it is implicit in that judgment that onward transmission would not have rendered ineffective service effective. (paras 51 52) On the issue of electronic communication, while inclining to a different view from that of the Upper Tribunal, she preferred to leave the matter undetermined in the absence of more detailed submissions on the statutory regime (para 54).
+The submissions in this court
+For the council, Mr Kokelaar adopts the reasoning of the Upper Tribunal, as supported by the authorities to which I have referred.
+In summary, he submits, the words serve and service in Schedule 4A should be given their ordinary meaning, that is delivery of a document to a particular person.
+Under general principles, a notice (under statute or contract) is regarded as having been served if it has been received by the intended recipient.
+In this case the notice was received by UKI and served its statutory purpose of communicating to UKI the completion date proposed by the council, and it was acted upon by UKI.
+As in Townsends Carriers the fact that it passed through the hands of the receptionist did not invalidate service.
+Alternatively, the receptionist must be taken as having been impliedly authorised to pass it on to UKI.
+In relation to service by email, the reasoning of the authorities on service by fax is indistinguishable.
+There is nothing in Schedule 4A, or in the 2000 Act, to exclude service of a completion notice by electronic means, where the ultimate result is exactly the same as if a hard copy had been transmitted in person or by post.
+For UKI Mr Kolinsky QC supports the reasoning of Gloster LJ in the Court of Appeal.
+In particular he adopts her three stage analysis of the relevant provision, arguing that the council failed at the first stage, that is the requirement for service on the owner by the billing authority.
+Whatever method is adopted, it must be the authority itself (acting through its officers) which effects the service.
+Service through a third party, which is neither the owners agent nor duly authorised to act on the authoritys behalf, is not service on the owner by the authority.
+Further, Mr Kolinsky submits that the involvement of the Eco receptionist broke the necessary chain of causation.
+Mr Kokelaars suggestion that the receptionist had implied authority to act for the council was misplaced, having regard to the detailed statutory scheme governing delegation of local authority functions.
+It would have been different if for example the council had used a process server under its contractual control to carry out personal service.
+Use of such a method might be authorised as incidental to the authoritys functions under section 111(1) of the Local Government Act 1972, without involving any unlawful delegation.
+He relies on statements by the Court of Appeal as to the permissible use of contractors or agents under that section, in Crdit Suisse v Allerdale Borough Council [1997] QB 306, 359G per Hobhouse LJ.
+Mr Kolinsky also repeats Gloster LJs emphasis on the need for certainty in a taxing statute.
+In that context he relies on paragraph 2(3) of Schedule 4A to the Act where (in relation to a completed building) the authority is required to specify the date of service as the date from which liability is to begin.
+There can be no such certainty if the council has no control over the process by which the notice reaches the recipient.
+On the issue of electronic communication, he points to the fact that ministerial intervention was considered necessary to authorise the use of such communication in some aspects of the non domestic rating scheme, while no such intervention was made in respect of completion notices.
+This carefully drawn scheme would be otiose if there existed some common law rule permitting the use of electronic service as a generality.
+Further the limitation of electronic service to cases where the ratepayer had assented by providing an address for electronic service would make no sense if the authority were able to serve without the ratepayers consent.
+Discussion
+The method of attempted service adopted by the council was far from ideal.
+As already noted, the purpose of specific provisions such as paragraph 8 is to provide reliable methods of service and to minimise the risk to the council of non delivery.
+Given that, as is now accepted, the name and address of the owner could have been discovered by reasonable inquiry, it is not clear why this was not done.
+We have had no satisfactory explanation for this failure, nor indeed for the failure to take corrective action when the objection to service was raised.
+Nothing in this judgment should be taken as detracting from the good sense of the Presidents observation (Valuation Tribunal, para 43): In practice, billing authorities would be well advised to secure the protection afforded by paragraph 8 and not serve outside those provisions unless confident that the circumstances are such that good service will be effected.
+However, the two legal issues on which the judges below disagreed are of some general importance and merit consideration by this court.
+Hence the grant of permission to appeal.
+Indirect service
+The difference between the Upper Tribunal and the Court of Appeal comes down to a narrow point.
+The Upper Tribunal thought that, since the notice issued by the council reached the hands of the intended recipient, it mattered not that the route was unorthodox.
+Gloster LJ thought that this approach failed to give effect to the concept of service on the owner by the authority (emphasis added).
+For my part I would accept that the means by which the notice arrives at its destination is not wholly immaterial.
+In itself the reference to the billing authority is simply to identify the body responsible for service; it says nothing about how that is to be done.
+The real issue, as I see it, adopting the words of Lord Salmon in the Sun Alliance case, is whether the authority caused the notice to be received by UKI.
+In other words there must be a sufficient causal connection between the authoritys actions and the receipt of the notice by the recipient.
+Mr Kolinsky appeared implicitly to accept that analysis, but he submitted that the chain of causation was broken by the interposition of a third party in the form of the Eco receptionist.
+He challenged Mr Kokelaars suggestion that the receptionist was given implied authority to serve the notice, at least in any formal sense.
+To that extent I would agree with him; but it is unnecessary and unrealistic in my view to introduce concepts of agency or statutory delegation into this simple sequence of events.
+As the Deputy President accepted, the Eco receptionist, on receiving from the council officer a hand delivered notice addressed to the Owner, did no more than would reasonably be expected of a responsible employee in that position: that is, pass on the notice to the person to whom it was addressed.
+It was the natural consequence of the councils actions.
+Mr Kolinsky objected that the receptionist was not under the control of the council, as would have been for example a process server acting under contract.
+However, causation does not necessarily depend on control.
+Mr Kokelaar countered with the example of a notice correctly addressed, but mistakenly delivered to a neighbouring address and then passed on by the occupant to the intended recipient.
+Like him I see no reason why that should not be treated as effective service under ordinary principles of causation, even though the friendly neighbour was not under the control of either party.
+This approach to indirect service is consistent with that of Sir Robert Megarry V C in the Townsends Carriers case.
+I would agree with Gloster LJ (see para 29 above) that his words cannot be read as intended to embrace all situations where ultimately the intended recipient has come to know of the contents of the notice.
+There needs to be actual receipt of the notice, and a sufficient causal link with the actions of the council.
+Of the cases to which she referred, Fagan v Knowsley Metropolitan Borough Council provides no assistance, because, as she acknowledged, it was concerned with a mandatory statutory code.
+More pertinent perhaps is her reference to cases relating to service of notice on solicitors.
+As she says, service of a notice on a solicitor who does not have his clients authority to accept service of the particular notice is not in itself valid service.
+She cited Glen International which concerned service of a notice by the landlord in relation to leasehold enfranchisement.
+It is true that, having found that the tenants solicitor on whom the notice was served had no authority to accept it, the court did not go on to inquire whether the notice was in fact passed on to the tenant.
+It is also true, as Gloster LJ noted, that Townsends Carriers case was referred to as a decision on the particular facts, but that seems to have been on the agency issue.
+There is no indication that the case was used to support an argument based on indirect service; nor indeed that there was any evidence that the solicitor had passed on the actual notice, nor any reasonable expectation that he would do so.
+That situation is readily distinguishable in my view from the purely mechanical role played by the receptionist in this case.
+A further argument against the Upper Tribunals approach was the potential uncertainty it leaves as to the date of service.
+As Mr Kolinsky points out, it may be important not only for both parties, but also for the valuation officer, to be able to identify the date of service with precision.
+Thus, in respect of a building which appears to have been completed, the date of service must be identified in the notice (paragraph 2(3)), and, subject to appeal, is treated as the completion day so triggering liability to rates.
+In respect of a building yet to be completed the proposed completion day must be not later than three months from and including the date of service (Schedule 4A, paragraph 2(2)).
+The difficulty with this argument, in my view, is that some uncertainty in this respect is inherent in the legislation, in which neither the methods of service, nor the dates of service in different circumstances, are exhaustively defined.
+The simple answer for the authority may be that, where the date of service is critical, it is able to choose a statutory method which eliminates or minimises the risk of the notice being rendered invalid by failure to specify the correct date of service.
+If it chooses a non statutory method it must bear that risk.
+The risk of prejudice to the owner is limited, since outside the statutory grounds service depends on actual receipt by the intended recipient, and the time for appeal is also related to receipt.
+Electronic communication
+In spite of the misgivings expressed by Lloyd LJ in the Hastie case, it does not appear that the reasoning of the majority has been questioned in any subsequent cases, before or since the enactment of the 2000 Act.
+Notably it was applied in the PNC Telecom case notwithstanding the recognition that modifications had been made under the 2000 Act to other parts of the Companies Act 1985.
+Although those cases were concerned specifically with fax transmission of a copy of the relevant notice, no good reason has been suggested for distinguishing that from transmission by email as in this case.
+Given that this was the state of the general law immediately preceding the enactment of the 2000 Act, Parliament must be taken to have legislated against that background.
+Mr Kolinsky would need to point to some provision of that Act which expressly or impliedly restricts the previous law, or overall inconsistency sufficient to overcome the general presumption that Parliament does not intend to change the common law (see Bennion on Statutory Interpretation sections 25.6, 25.8).
+In my view he was unable to do so.
+Nor did he refer to any authority to support such a submission.
+It is not enough that the new law may overlap in certain respects with the general law.
+The purpose of the 2000 Act, as stated in its long title, was to make provision to facilitate the use of electronic communications .
+There is nothing to indicate an intention to cut down the existing law.
+Against the background of the detailed scheme established by or under the 2000 Act, it may seem anomalous that the same result may be achieved in some cases by more informal means.
+However, the purpose of the Act and Orders made under it is to provide a clear and certain basis for the routine use of such methods by authorities.
+That purpose is not undermined by a conclusion that under general principles, and on the particular facts of this case, the notice was successfully served.
+Conclusion
+For these reasons, in respectful disagreement with the Court of Appeal, I would allow the appeal and restore the order of the Upper Tribunal.

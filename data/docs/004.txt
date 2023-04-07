@@ -1,0 +1,375 @@
+This appeal concerns the correct treatment for income tax purposes of the respondents (Mr Derrys) claim for share loss relief under section 132 of the Income Tax Act 2007 (ITA).
+The claimed loss arose in this way.
+On 22 March 2010 (tax year 2009/10) Mr Derry bought 500,000 shares, at a cost of 500,000, in a company called Media Pro Four Ltd. On 4 November 2010 (tax year 2010/11) he sold them to the Island House Private Charitable Trust for 85,500, thereby realising a capital loss of 414,500.
+In his return for 2009/10, submitted by his accountants on 24 January 2011, he claimed share loss relief for that amount against his income for that year under ITA section 132, with the aim of reducing to that extent his taxable income for that year.
+The appellant (the Revenue) has identified the claim as a case of possible tax avoidance, but whether that is so is not an issue presently before us.
+The appeal raises two questions.
+The first relates to the effect in law of such a claim to set the relief against the income for the previous year (the loss relief issue).
+The second relates to the effect of the inclusion of such a claim (even if erroneous) within Mr Derrys return for the previous year, in circumstances where the Revenue have failed to institute a timeous enquiry into the return under Taxes Management Act 1970 as amended (TMA) section 9A (the tax return issue).
+The first is an issue of pure statutory interpretation, depending on the interaction of the certain provisions of the ITA and of the TMA.
+The second raises issues as to the correct understanding and effect of Mr Derrys return, in the light of the law and practice relating to the self assessment regime, having regard in particular to the guidance given by this court in Revenue and Customs Comrs v Cotter [2013] UKSC 69; [2013] 1 WLR 3514 (Cotter).
+The procedural background is as follows.
+In December 2011, Mr Derrys accountants submitted his tax return for 2010/11 online, which (consistently with the position as stated in his 2009/10 return) said of the loss of 414,500: This loss relief has already been claimed and relief obtained in 2009/10.
+Nothing turns on the detail of this return.
+The Revenue responded by three steps: i) On 4 January 2012, the Revenue gave notice of their intention to open an enquiry into the claim for share loss relief for 2009/10.
+This notice was issued under TMA Schedule lA, on the footing that the claim had been made outside of a return by virtue of paragraph 2(3) of Schedule 1B.
+That enquiry remains open.
+However, if, as Mr Derry submits, Schedule 1B had no application and the claim was properly made within the return for 2009/10, then (as is common ground) the enquiry under Schedule 1A had no statutory basis. ii) On 16 February 2012, the Revenue gave notice of their intention to open an enquiry under TMA section 9A into the return for 2010/11.
+The accompanying letter indicated that it would be necessary to look at all the arrangements surrounding the claim, an area of concern being that the claimed losses might have arisen from a marketed scheme of arrangements with the purpose of avoiding tax.
+That enquiry also remains open. iii) On 21 February 2014, the Revenue issued a demand under TMA section 60 for tax allegedly due for the tax year 2009/10 in the sum of 166,044.26 with interest.
+On 6 June 2014, this was replaced by a demand for 95,546.36 with interest.
+On 21 May 2014, Mr Derry began the present judicial review proceedings, which were treated by agreement as relating to the replacement demand of 6 June 2014.
+He failed on both issues before the Upper Tribunal but succeeded on the second issue before the Court of Appeal (and therefore succeeded overall).
+The Revenue appeal on that issue with the permission of this court; Mr Derry resists the appeal on that issue but seeks to uphold the decision in any event on Issue 1.
+The statutory framework
+The Tax Law Rewrite project
+As noted above, the relevant provisions are contained in the ITA and the TMA.
+In considering the interpretation of the ITA it is necessary in my view to have in mind its genesis as part of the Tax Law Rewrite project.
+The main purpose of that project, as stated in the ITA Explanatory Notes (paras 5 and 7) was to rewrite the income tax legislation that has not so far been rewritten so as to make it clearer and easier to use The Act does not generally change the meaning of the law when rewriting it.
+The minor changes which it does make are within the remit of the Tax Law Rewrite project and the Parliamentary process for the Act.
+In the main, such minor changes are intended to clarify existing provisions, make them consistent or bring the law into line with established practice.
+For a useful description and evaluation of the project, see David Salter The tax law rewrite in the United Kingdom: plus change plus cest la meme chose? [2010] BTR 671.
+I would also refer to the explanation of the drafting approach for the project, given by Stephen Timms MP, then Financial Secretary to the Treasury, in 2009 in the course of opening the Second Reading Committee debate on the second Corporation Tax Bill: The project now has a well established approach to rewriting legislation, developed with the help of people whom it has consulted over a number of years.
+It restructures legislation to bring related provisions together and to provide more logical ordering.
+It also helps users by providing navigational aids, such as signposts, to make relevant parts of the legislation easier to find, and it has introductory provisions to set the scene.
+It unpacks dense source legislation by using shorter sentences and, where possible, it harmonises definitions.
+It uses modern language and helps the reader with aids such as formulae, tables and method statements, when appropriate. (Hansard, HC, col 3, Second Reading Committee, Corporation Tax Bill, 2008 2009 (January 15, 2009) (HC General Committee Debates, Session 2008 09) cited by David Salter op cit p 680.)
+In Eclipse Film Partners (No 35) LLP v Comrs of Her Majestys Revenue and Customs [2013] UKUT 639 (TCC); [2014] STC 1114 Sales J, likened the correct approach to statutory interpretation to that appropriate to a consolidation statute (as explained by the House of Lords in Farrell v Alexander [1977] AC 59): When construing a consolidating statute, which is intended to operate as a coherent code or scheme governing some subject matter, the principal inference as to the intention of Parliament is that it should be construed as a single integrated body of law, without any need for reference back to the same provisions as they appeared in earlier legislative versions.
+An important part of the objective of a consolidating statute or a project like the Tax Law Rewrite Project is to gather disparate provisions into a single, easily accessible code.
+That objective would be undermined if, in order to interpret the consolidating legislation, there was a constant need to refer back to the previous disparate provisions and construe them (para 97)
+I would respectfully endorse this guidance, which should be read with Lady Ardens comments (paras 84 90) on the relevance of prior case law.
+At the same time I would emphasise that the task should be approached from the standpoint that the resulting statutes are intended to be relatively easy to use, not just by professionals but also by the reasonably informed taxpayer, and that the signposts are there for a purpose, in particular to give clear pointers to each stage of the taxpayers journey to fiscal enlightenment.
+Income Tax Act 2007
+The ITA clearly reflects these principles (as will be readily apparent from a comparison with its immediate predecessor, the Income and Corporation Taxes Act 1988 ICTA 1988).
+It starts in section 2 with an Overview of the Act, designed to give specific guidance as to what follows.
+Thus, the reader is told that the Act has 17 Parts, the effect of each of which is then summarised with references to the corresponding chapters.
+Relevant in the present context are Part 2, which contains basic provisions about income tax, including (a) provision about the annual nature of income tax (Chapter 1) and (c) the calculation of income tax liability (Chapter 3); and Part 4 which is about loss relief including relief for (d) losses on disposal of shares (Chapter 6) .
+In Part 2, section 4 establishes income tax as an annual tax, charged for a tax year running from 6 April to 5 April in the following year.
+Chapter 3, headed Calculation of Income Tax Liability provides in section 23 a step by step guide to the process: 23.
+The calculation of income tax liability To find the liability of a person (the taxpayer) to income tax for a tax year, take the following steps.
+Step 1 Identify the amounts of income on which the taxpayer is charged to income tax for the tax year.
+The sum of those amounts is total income.
+Each of those amounts is a component of total income.
+Step 2 Deduct from the components the amount of any relief under a provision listed in relation to the taxpayer in section 24 to which the taxpayer is entitled for the tax year.
+See sections 24A and 25 for further provision about the deduction of those reliefs.
+The sum of the amounts of the components left after this step is net income.
+Steps 3 to 7 (not relevant to the present dispute) set out further steps in the calculation process, leading to the conclusion: The result is the taxpayers liability to income tax for the tax year.
+As Henderson LJ noted (para 50) the introduction of the statutory concept of net income under Step 2 was an innovation, bringing about (in his words): a welcome degree of precision and clarity in place of the previous non statutory concept of net statutory income representing total income less allowable deductions.
+In the present case Step 2 would have pointed a taxpayer in Mr Derrys position to sections 24 and 25 for guidance on the reliefs there mentioned, including (under section 24(1)(a)) Chapter 6 of Part 4 (share loss relief).
+Section 25(2) would have told him to deduct such reliefs in the way which will result in the greatest reduction in his tax liability.
+Moving on, as directed, to Part 4 (Loss relief), he would have found in section 59 an Overview of that Part, including a reference to losses on a disposal of certain shares (see Chapter 6) (section 59(1)(d)); and (in case he had forgotten) reminding him that this Part needs to be read with Chapter 3 of Part 2 (calculation of income tax liability) (section 59(2)).
+Section 131 is the first of a group of sections under Chapter 6, dealing with Share loss relief against general income.
+An individual is eligible for share loss relief if he incurs an allowable loss for capital gains tax purposes on the disposal of any qualifying shares in any tax year, defined as the year of the loss.
+Qualifying shares include shares in a qualifying trading company, the conditions for which are set out in sections 134 to 143.
+Section 132 provides: Entitlement to claim (1) An individual who is eligible for share loss relief may make a claim for the loss to be deducted in calculating the individuals net income (a) (b) (c) for the year of the loss, for the previous tax year, or for both tax years. (See Step 2 of the calculation in section 23.) If the claim is made in relation to both tax years, the (2) claim must specify the year for which a deduction is to be made first. (3) Otherwise the claim must specify either the year of the loss or the previous tax year. (4) The claim must be made on or before the first anniversary of the normal self assessment filing date for the year of the loss.
+Notable here again is the specific reference back to Step 2 in the calculation of liability under section 23.
+Section 133 (headed How the relief works) provides: (1) This subsection explains how the deductions are to be made.
+Step 1 Deduct the loss in calculating the individuals net income for the specified tax year The reference to net income again takes the reader back to section 23 where that concept is defined.
+At this point, in relation to the first issue, I note Ms McCarthy QCs submission, for Mr Derry, that the provisions of the ITA so far considered give clear and conclusive guidance as to the treatment of his claim to share loss relief for the purposes of assessing his liability for the tax year 2009/10, which is not overridden by anything elsewhere in the ITA or in the TMA.
+On the other side, for the Revenue Mr Nawbatt QC submits that this is only part of the story.
+He refers to ITA section 1020(2) which, as he says, would have pointed the taxpayer in the direction of TMA in these terms: For further information about claims and elections, see TMA 1970 (in particular section 42(2), (10) and (11) and Schedule 1A).
+Although there is no specific reference to TMA Schedule 1B, that as he submits is to be taken as encompassed in the general reference to the TMA itself.
+He also relies by way of analogy on more specific references to the TMA in other chapters of Part 4.
+They are in Chapter 2 (Trade losses) and Chapter 5 (Employment loss relief).
+The legislative pattern in each case is very similar to the provisions relating to share loss relief, but in each case, there appear (respectively in section 60(2) and section 128(7)) the following words: This Chapter is subject to paragraph 2 of Schedule 1B to TMA 1970 (claims for loss relief involving two or more years).
+There is no equivalent reservation in the sections relating to share loss relief.
+However, Mr Nawbatt submits that the analogy indicates the appropriate relationship between the loss relief provisions and the TMA; and that, even without such a specific reference, section 1020 is sufficient to point the taxpayer in that direction; or alternatively that the terms of Schedule 1B are sufficiently clear in themselves to make such a signpost unnecessary.
+The TMA, as its title implies, is concerned principally with the management of the tax rather than fixing liability.
+Although it dates back to 1970, it has been subject to substantial amendment since then, in particular in connection with the introduction of self assessment (under the Finance Act 1994) with effect from the year 1996 1997.
+The following provisions are those in force in the relevant tax year, that is 2009/10.
+I refer first to those relating to tax returns and self assessment, which are relevant principally to the second issue.
+Section 8(1) empowers an officer of HMRC to give a notice requiring a person chargeable to income tax and capital gains tax for a year of assessment to make and deliver, on or before the date specified in subsection (1A), a return containing the information required by the notice, supported by such accounts and other relevant material as may reasonably be so required.
+The date so specified (for present purposes) is 31 January next following the year of assessment.
+By subsection (1AA)(a): the amounts in which a person is chargeable to income tax and capital gains tax are net amounts, that is to say, amounts which take into account any relief or allowance a claim for which is included in the return; By subsection (1AA)(b) the amount payable by way of income tax is the difference between the chargeable amount and the aggregate amount of any income tax deducted at source and certain tax credits.
+Subsection (1H) requires the Commissioners to prescribe what constitutes an electronic return. (See also section 113 which provides generally for any returns to be in such form as the Board prescribe.)
+Section 9(1) provides that, subject to immaterial exceptions, every return under section 8: shall include a self assessment, that is to say (a) an assessment of the amounts in which, on the basis of the information contained in the return and taking into account any relief or allowance a claim for which is included in the return, the person making the return is chargeable to income tax and capital gains tax for the year of assessment; and (b) way of income tax an assessment of the amount payable by him by Section 9A enables an officer of the Board to give notice of his intention to enquire into a return under section 8 within the time allowed, that is 12 months from the date of delivery for returns delivered on or before the date specified in the previous section.
+By subsection (4)(a), an enquiry may extend to anything contained (or required to be contained) in the return, including any claim included in the return.
+Returning to the first (loss relief) issue, section 42 (headed Procedure for making claims etc) provides: (1) Where any provision of the Taxes Acts provides for relief to be given, or any other thing to be done, on the making of a claim, this section shall, unless otherwise provided, have effect in relation to the claim. (2) where notice has been given under section 8 of this Act, a claim shall not at any time be made otherwise than by being included in a return under that section if it could, at that or any subsequent time, be made by being so included. (11) Schedule 1A to this Act shall apply as respects any claim or election which is made otherwise than by being included in a (a) return under section 8 of this Act, (11A) Schedule 1B to this Act shall have effect as respects certain claims for relief involving two or more years of assessment.
+Thus subsections (11) and (11A) take the reader on to Schedules 1A and 1B.
+The latter is most directly relevant to the first issue.
+Schedule 1A (headed Claims etc not included in returns) provides for any such claim to be made in such form as the Board may determine (paragraph 2(3)), and provides power to enquire into the claim within a specified period (paragraph 5).
+The Board is required to give effect to a claim as soon as practicable by discharge or repayment of tax (paragraph 4(1)), save that, if an enquiry has been opened into the claim, this obligation is postponed until the enquiry is completed, subject to power before then to give effect to all or part of the claim on a provisional basis (paragraph 4(3)).
+Schedule 1B (headed Claims for relief involving two or more years) provides in paragraph 2 (headed Loss relief): (1) This paragraph applies where a person makes a claim requiring relief for a loss incurred or treated as incurred, or a payment made, in one year of assessment (the later year) to be given in an earlier year of assessment (the earlier year). (2) Section 42(2) of this Act shall not apply in relation to the claim. (3) The claim shall relate to the later year. (4) Subject to sub paragraph (5) below, the claim shall be for an amount equal to the difference between the amount in which the person is chargeable to (a) tax for the earlier year (amount A); and (b) the amount in which he would be so chargeable on the assumption that effect could be, and were, given to the claim in relation to that year (amount B). (6) Effect shall be given to the claim in relation to the later year, whether by repayment or set off, or otherwise.
+The loss relief issue
+The issue in short is whether, having exercised his right (under section 132) to claim the relevant loss relief in the previous year (2009/10), Mr Derry was correct to deduct that loss in calculating his net income and consequent tax liability for that year (under section 23); or whether, as the Revenue contend, that right was in effect overridden by TMA Schedule 1B, with the result that the loss, though claimed in year 2009/10, was to be treated as relating to the following year.
+The decisions below
+Both the Upper Tribunal and Court of Appeal decided this issue in favour of the Revenue.
+It is not possible to do justice to their reasoning without relatively full reference to the leading judgment of Henderson LJ in the Court of Appeal (agreed by the other members of the court), which in turn refers with general approval to that of Morgan J in the Upper Tribunal.
+It also provides a useful summary of the respective contentions of the parties, which have been substantially repeated in this court.
+Having set out the relevant provisions of the TMA, Henderson LJ observed (paras 26 28) that the terms of paragraph 2 of Schedule 1B, read in isolation, were apt to apply to a claim for loss relief under section 131, and as such would have the same consequences as explained (in respect of employment loss relief) by Lord Hodge in Cotter.
+He identified the critical issue as being whether the omission from Chapter 6 of a provision equivalent to section 60(2) or section 128(7) reflects a legislative intention that Schedule 1B should not apply to Chapter 6, even though (as I have already pointed out) the language of paragraph 2 of Schedule 1B would be entirely apt to apply to Chapter 6 in the same way as it applies to Chapters 2 and 5. (para 35)
+He recorded (paras 37ff) that Morgan J had begun by observing that TMA section 42 applied unless otherwise provided and asking whether there was anything to disapply the section in respect of Mr Derrys claim under section 132.
+He had answered that question in the negative, noting also that neither side had put forward any persuasive reason for the difference of treatment between claims under Chapters 2 and 5 as compared to Chapter 6.
+He had described the specific references in the former to Schedule 1B as signposts; but he did not regard the lack of a similar signpost in Chapter 6 as clear enough to be otherwise provided for the purposes of section 42(1).
+He had also concluded that there was no inconsistency between the detailed provisions of sections 132 and 133 of ITA 2007, taken together with the operation of section 23 and paragraph 2 of Schedule 1B. Henderson LJ regarded this observation as clearly correct, adding that it (was) not challenged by Mr Derry. (The latter understanding appears to have been mistaken, having regard to an extract we were shown by Ms McCarthy from Mr Derrys Replacement Skeleton Argument in the Court of Appeal.)
+Morgan J had also considered and rejected an argument for Mr Derry based on the reference in section 42(11A) to its application only to certain claims.
+Again, Henderson LJ agreed commenting: The structure of Schedule 1B is that it applies to certain specified claims for relief involving two or more years.
+The provisions relating to loss relief are contained in paragraph 2.
+The remaining paragraphs deal with entirely separate claims, for example relief for fluctuating profits of farming etc in paragraph 3, and the carry back of post cessation receipts in paragraph 5.
+It is therefore entirely natural for the provision in the body of TMA 1970 which gives effect to Schedule 1B to say that it shall have effect as respects certain claims for relief involving two or more years of assessment, that is to say the various claims for relief which are dealt with in the Schedule.
+Much clearer language would in my judgment have been needed if Parliament had intended to stipulate that the provisions contained in Schedule 1B were to apply only to claims expressly identified elsewhere in the Taxes Acts as ones to which Schedule 1B applied.
+Another way of making the same point is to say that the subject matter of Schedule 1B is to be ascertained by looking at its provisions, which are given effect (but not circumscribed) by section 42(11A). (para 42)
+Turning to the submissions in the Court of Appeal, he noted Ms McCarthys reliance on Lord Dunedins well known enumeration of the three stages in the imposition of a tax that is, declaration of liability, assessment, and methods of recovery (Whitney v Inland Revenue Comrs [1926] AC 37, 52).
+The first (in Lord Dunedins words) was the part of the statute which determines what persons in respect of what property are liable.
+Liability does not depend on assessment.
+That, ex hypothesi, has already been fixed.
+She submitted that Mr Derrys liability was fixed by the provisions of Chapter 6 and could not be overridden by provisions relating to the assessment stage, other than by clear words as found in Chapters 2 and 5 of ITA Part 4.
+Henderson LJ disagreed (para 49).
+Lord Dunedins classic statement was of little assistance in respect of the present UK tax system which is vastly more complex than it was a century ago: one cannot always expect today to find that provisions relating to the imposition and calculation of liability are unaffected by provisions relating to the machinery of assessment.
+The language of Schedule 1B paragraph 2 was clearly apt to cover Mr Derrys claim, and the absence of an express signpost in Chapter 6 was not a sufficiently strong counter indication.
+He also rejected (para 50) an argument that sections 132 133 constituted a more specific statutory regime, enacted later than Schedule 1B, and should therefore take precedence.
+Finally, he agreed with the Upper Tribunal that there was nothing in the legislative history which cast useful light on the question (paras 51 52).
+He noted Ms McCarthys submission that the inclusion of signposts in respect of trade loss relief and employment loss relief may have been connected with the treatment of the predecessor provision (section 380 of ICTA 1988) by the Court of Appeal in Blackburn v Keeling [2003] EWCA Civ 1221.
+But the reason for the absence in sections 132 133 of a similar cross reference remained obscure; the possibility that it was simply an oversight certainly cannot be excluded.
+Comment on Issue 1
+With respect to the carefully developed reasoning of the judges below, they seem to me not only to have paid too little regard to the legislative purpose and scheme of the ITA, but also to have started from the wrong point.
+It is notable that the introductory paragraphs of Henderson LJs judgment make only passing reference to the opening sections of the ITA discussed above, and in particular to section 23, by which (on its face) Mr Derrys liability for the relevant tax year 2009/10 was fixed.
+Instead, his reasoning on this part of the case starts from the proposition that the words of TMA Schedule 1B paragraph 2 read in isolation are apt to cover Mr Derrys claim, and only then refers to the governing provisions of the ITA, asking whether the omission of a specific signpost in ITA Chapter 6 reflects a legislative intention that it should not apply (paras 26, 35).
+While it may be true, as Henderson LJ said, that modern tax legislation in general is much more complex than at the time of Lord Dunedins classic statement, the purpose of the tax law rewrite was to restore a measure of simplicity and coherence to the principal tax statutes.
+In any event, one does not need high judicial authority to make the obvious point that the first step in the imposition of a tax is to establish (in Lord Dunedins words) what persons in respect of what property are liable.
+Taken together section 23 and sections 131 132 appear to constitute a clear and self contained code for the treatment of a claim to share loss relief such as that of Mr Derry.
+Sections 132 133 in terms give him an entitlement to make the claim, to specify the tax year to which it is to be applied, and to do so by deducting it in the calculation of his net income for the purpose of section 23.
+For good measure section 132(1) provides a specific signpost to Step 2 in section 23.
+That section in turn makes clear that the result of that, and the other steps there set out, is his tax liability for the tax year in question.
+Having taken such care to walk the taxpayer through the process of giving effect to his entitlement as part of his tax liability for the year specified by him, it would seem extraordinary for that to be taken away, without any direct reference or signpost, by a provision in a relatively obscure Schedule of another statute concerned principally, not with liability, but with management of the tax.
+Section 1020 makes no specific reference to Schedule 1B, and in any event refers only to information in general terms, rather than anything likely to affect the substance of liability.
+By contrast sections 60(2) and 128(7) are more than mere signposts, as the judges below characterised them.
+The words subject to are substantive in effect, imposing a qualification on the right otherwise conferred by those provisions.
+Applying ordinary principles of interpretation, the absence of similar words in section 132 would naturally be taken as indicating that this right is not subject to the same qualification.
+Turning to the TMA, it is true that words of Schedule 1B taken on their own would be apt to apply to a claim under sections 132 133.
+However, I do not regard that as enough to displace the clear provisions of the ITA in respect of liability.
+I do not see this as turning so much on whether one set of provisions is more specific than the other, but rather on the fact that the ITA is in principle the governing statute in respect of tax liability, and as such should take precedence in the absence of any indication to the contrary.
+Further, unlike the judges below, I see a significant inconsistency between the two sets of provisions: the first gives the taxpayer an unqualified right to claim a deduction in the previous year; the second in effect removes that right by treating it as relating to the current year.
+I also see force in Ms McCarthys reliance on the reference in section 42(11A) to certain claims for relief involving two or more years.
+As she says, this may be read as implying that not all such claims are covered, and that one needs to look elsewhere to identify which. (I do not forget that in Cotter para 14, Lord Hodge proceeded on the basis that section 42(11A) had the same effect in respect of employment loss relief as the specific provision in section 128(7), but the point was not in issue and does not seem to have been subject to argument.)
+The only countervailing consideration, to my mind, is the lack of any obvious explanation, in the statutory history or otherwise, of the different treatment of this form of loss relief.
+In a post hearing note Mr Nawbatt gave a detailed account of the treatment of the various forms of loss relief under the previous legislation.
+This shows, as is common ground, that the pre 2007 law did not draw any material distinction between share loss relief (section 574 ICTA 1988), and trade and employment loss relief (section 380 ICTA 1988).
+Mr Nawbatt was also able to point to some indications in the ITA Explanatory Notes (eg in respect of section 1025, which is not directly relevant to the present case) that the authors of the notes may have assumed that share loss relief would be subject to TMA Schedule 1B, in the same way as the other forms of relief.
+However, taken at their highest, these indications are far from providing a basis for departing from the ordinary principles of statutory interpretation, absent any suggestion that they produce a result which is absurd or unworkable.
+Indeed, for the taxpayers liability to be determined by reference to legal archaeology of this kind would negate the whole purpose of the tax law rewrite.
+It is neither necessary nor appropriate for the court to speculate as to Parliaments intentions to justify a departure from the natural interpretation of the statutory language.
+For these reasons, in respectful disagreement with the Upper Tribunal and the Court of Appeal, I would hold that Mr Derry was entitled to make his claim to share loss relief in the year 2009/10.
+The tax return issue
+The view I have reached on the first issue makes it strictly unnecessary to reach a conclusion on the second issue.
+So much was conceded by Mr Nawbatt for the Revenue in response to a question from the court early in the hearing but see para 65 below.
+Consistently with that concession, if (as I have decided) Mr Derry succeeds on Issue 1, then the claim properly formed part of Mr Derrys return for the year 2009/10, and that it could only be challenged by a notice served within time under TMA section 9A.
+However, the second issue is of some difficulty and of general importance.
+It may be helpful therefore for us to express some views on the respective submissions.
+This issue has to be approached on the assumption that Mr Derry was wrong on the first issue, and that the inclusion of the loss relief claim in the assessment of his liability for 2009/10 was in error.
+Before further considering this issue, it is necessary to refer in more detail to the factual background.
+The sequence of events
+On 24 January 2011 Mr Derrys accountants filed his 2009/10 self assessment tax return (the 2010 return).
+The Additional Information pages (Ai3 and Ai4) were completed as follows.
+In Boxes 3 and 4 (headed Trading Losses) he put 414,500.00 as the amount for which he was claiming relief, and 2009/10 as the tax year for which it was claimed.
+Box 19 (which was a blank space for additional information) contained the following entry: Box 3 of page Ai3 shows capital losses realised on disposal of subscriber shares in an unlisted trading company in year ended 5 April 2011.
+These losses have been carried back to year ended 5 April 2010 and relief claimed under section 131, section 132 ITA 2007.
+He also calculated his own tax and completed the tax calculation summary pages (pages TC1 and 2) in the 2009 10 return as follows.
+On page TCl (headed self assessment), in Box 1 (total tax due before any payments on account), the figure of 95,546.36 appeared automatically as a result of entries made elsewhere on the form.
+Page TC2 (headed adjustments to tax due) stated You may need to make an adjustment to increase or decrease your tax for 2009 10 because you are . carrying back to 2009 10 certain losses from 2010 11 .
+In Box 15 (Any 2010/11 repayment you are claiming now) Mr Derry inserted the figure of 165,800; and in Box 16 (Any other information) the words: The reduction in tax payable in Box 15 of page TC2 relates to the loss carry back claim arising from the carry back of losses of GBP 414,500 as set out on page Ai3.
+The corresponding reduction in tax payable in the year ended 5 April 2010 following this loss carry back claim is GBP 165, 800 being GBP 414,500 at 40%.
+Mr Derry had already suffered tax deducted at source of 102,233.64 on his income for 2009/10 (made up principally of employment income of 497,120).
+What followed was described by Henderson LJ: 10. the effect of his claim for loss relief carried back from 2010/11 was to generate a significant repayment of tax due to him.
+This was quantified in his personal tax computation, generated by the 2010 Return, as a refund due to him of 70,253.64. 11.
+On 18 October 2011, HMRC repaid a sum of 70,487.90 to Mr Derry.
+It is unclear why HMRC refunded this slightly higher amount, but the payment was clearly intended to include the amount claimed by Mr Derry, albeit HMRC now say that the payment was made in error because full checks had yet to be completed in relation to the loss relief claim.
+The legal effect of these entries is a matter of dispute.
+In the first place the Revenue do not accept that the personal tax computation is properly to be characterised as generated by the 2010 Return (in Henderson LJs words).
+They accept that Mr Derry self assessed his own tax liability for 2009/10, but their position is that his self assessed liability was in the sum of (plus) 95,546.36, given in Box 1 on page TC1, not the figure after taking account of loss relief.
+The reference to the loss relief claim was to be treated as additional information in respect of a free standing credit or FSC (a non statutory term: see Upper Tribunal para 61), but not as directly relevant to his liability for the year 2009/10.
+The judgments below
+On this issue there was a difference between the Upper Tribunal and the Court of Appeal.
+Morgan J agreed with the Revenues interpretation: I consider that the tax return should be construed against the background of the relevant legal provisions.
+Under Chapter 6 of Part 4 of ITA, Mr Derry is able to make a claim in relation to such capital losses against the income in the year 2010 2011 and also the year 2009 2010 but such a claim relates to the year 2010 2011 and does not reduce the tax payable for the year 2009 2010.
+Against that background, I consider that the presence of the claim for capital losses does not displace the clear assessment to tax in the sum of 95,546.36. (UT para 52)
+Henderson LJ disagreed with this reasoning (CA para 60).
+It failed to recognise the distinction between the claim itself, which could only be given effect in 2010/11, and the self assessment which Mr Derry performed, albeit on an erroneous basis, for 2009/10; and also failed to give effect to the adjustment made and explained in Boxes 15 and 16 on page TC2.
+Further it was inconsistent with parts of Lord Hodges reasoning in Cotter.
+He also rejected as an impossible contention the submission for HMRC that the entry in Box 15 should not be construed as forming part of the calculation of liability to tax for 2009/10: The purpose of the tax calculation is to calculate the tax due for the year of assessment.
+The rubric above boxes 13 to 15 refers to the need to make an adjustment to increase or decrease your tax for 2009 10, because of claims (inter alia) to carry back to 2009/10 certain losses from 2010/11.
+In this context, although the wording of Box 15 itself (Any 2010 11 repayment you are claiming now) is on any view rather imprecise, it can only sensibly be understood as referring to a carry back of losses from 2010/11 in reduction of the tax actually due for 2009/10.
+This is what Mr Derry purported to do, and this was the basis on which he calculated the repayment of tax due to him (para 63)
+Cotter
+At this stage it is necessary to refer in more detail to the leading judgment of Lord Hodge in Cotter itself.
+Mr Cotter had claimed to carry back to the previous year (2007/08) loss relief allegedly sustained in 2008/09.
+He had originally submitted his return for 2007/08 without a claim for loss relief and had left it to the Revenue to calculate the tax due.
+That had led to a calculation of his tax liability for the year based on the return as it then stood.
+He later entered into a tax avoidance scheme intended to eliminate that liability, for which purpose his accountants submitted a provisional 2007/08 loss relief claim and proposed amendments to his 2007/08 self assessment form relying on his loss relief claim.
+The Revenue opened an enquiry into the claim under Schedule 1A, and in the meantime refused to give effect to the claim.
+In due course they instituted county court proceedings for the tax due.
+In his defence Mr Cotter challenged the jurisdiction of the court, on the grounds that he had made an effective claim for relief in his tax return for 2007/08 which could only be challenged by an enquiry under section 9A, and in relation to which the First tier Tribunal had exclusive jurisdiction.
+The proceedings were transferred on this issue to the Chancery Division of the High Court, which rejected his defence.
+Although his appeal to the Court of Appeal was successful, their decision was reversed by the Supreme Court (the single judgment being given by Lord Hodge).
+It was held that by virtue of Schedule 1B his claim, though referred to in his amended 2007/08 tax return, must be treated as relating to the following tax year, and not therefore as part of the return in the relevant sense, that being limited to the information required to establish his liability for the year in question.
+More directly relevant to the present case, however, is a passage in Lord Hodges judgment commenting (obiter) on the position if Mr Cotter had made the calculation of liability himself, rather than leaving it to HMRC to do so.
+In order to set this passage in the context of Lord Hodges discussion of the interaction of the relevant provisions and the tax return form, it is appropriate to quote the relevant paragraphs in full: 24.
+Where, as in this case, the taxpayer has included information in his tax return but has left it to the revenue to calculate the tax which he is due to pay, I think that the revenue is entitled to treat as irrelevant to that calculation information and claims, which clearly do not as a matter of law affect the tax chargeable and payable in the relevant year of assessment.
+It is clear from section 8(1) and 8(1AA) of the 1970 Act that the purpose of a tax return is to establish the amounts of income tax and capital gains tax chargeable for a year of assessment and the amount of income tax payable for that year.
+The revenues calculation of the tax due is made on behalf of the taxpayer and is treated as the taxpayers self assessment: section 9(3)(3A) of the 1970 Act 25.
+The tax return form contains other requests, such as information about student loan repayments (page TR2), the transfer of the unused part of a taxpayers blind persons allowance (page TR3) or claims for losses in the following tax year (Box 3 on page Ai3) which do not affect the income tax chargeable in the tax year which the return form addresses.
+The word return may have a wider meaning in other contexts within the 1970 Act.
+But, in my view, in the context of sections 8(1), 9, 9A and 42(11)(a) of the 1970 Act, a return refers to the information in the tax return form which is submitted for the purpose of establishing the amounts in which a person is chargeable to income tax and capital gains tax for the relevant year of assessment and the amount payable by him by way of income tax for that year: section 8(1) [of] the 1970 Act, as substituted firstly by section 178(1) of the Finance Act 1994 and then further amended by section 121(1) of the Finance Act 1996 and by section 114 of and Schedule 27 to the Finance Act 2007. 26.
+In this case, the figures in Box 14 on page CG1 and in Box 3 on page Ai3 were supplemented by the explanations which Mr Cotter gave of his claim in the boxes requesting any other information and additional information in the tax return.
+Those explanations alerted the revenue to the nature of the claim for relief.
+It concluded, correctly, that the claim under section 128 of the 2007 Act in respect of losses incurred in 2008/2009 did not alter the tax chargeable or payable in relation to 2007/2008.
+The revenue was accordingly entitled and indeed obliged to use Schedule 1A of the 1970 Act as the vehicle for its enquiry into the claim: section 42(11)(a). 27.
+Matters would have been different if the taxpayer had calculated his liability to income and capital gains tax by requesting and completing the tax calculation summary pages of the tax return.
+In such circumstances the revenue would have his assessment that, as a result of the claim, specific sums or no sums were due as the tax chargeable and payable for 2007/2008.
+Such information and self assessment would in my view fall within a return under section 9A of the 1970 Act as it would be the taxpayers assessment of his liability in respect of the relevant tax year.
+The revenue could not go behind the taxpayers self assessment without either amending the tax return (section 9ZB of the 1970 Act ) or instituting an enquiry under section 9A of the 1970 Act.
+It follows that a taxpayer may be able to delay the 28. payment of tax by claims which turn out to be unfounded if he completes the assessment by calculating the tax which he is due to pay.
+Accordingly, the revenues interpretation of the expression return may not save it from tax avoidance schemes.
+But what persuades me that the revenue is right in its interpretation of return is that income tax is an annual tax and that disputes about matters which are not relevant to a taxpayers liability in a particular year should not postpone the finality of that years assessment.
+While recognising that the last two paragraphs were not binding, Henderson LJ regarded them as following logically from Lord Hodges earlier analysis.
+He saw a clear distinction between the inclusion in the return of information which is irrelevant in law to the taxpayers liability for that year (even if included by implicit invitation of the Revenue), and the taxpayers self assessment of the tax which he is due to pay: a taxpayers self assessment is a different matter.
+Plainly, errors of many different kinds may be made in such an assessment, and they may include errors about the availability of a relief.
+If the Revenue is dissatisfied with the taxpayers self assessment, its remedy is either to amend the return or to open an enquiry into it under section 9A of TMA 1970. , such an enquiry may extend to anything contained (or required to be contained) in the return.
+The boxes on page TC2 for adjustments to tax due must in my view be regarded as containing information required to be contained in the return, where the taxpayer elects to perform his own self assessment, because such adjustments form an integral part of the calculation of the tax due to be paid by him for the year in accordance with sections 23 and 24 of ITA 2007.
+It follows that the information contained in those boxes cannot be regarded as extraneous to the return.
+As I understand it, this is the essential point which Lord Hodge was making in Cotter at para 27, and if I may respectfully say so, I agree with it. (para 57) The Revenues difficulty in the present case arose simply from their failure to take the obvious step of opening an enquiry into the 2010 return within the statutory time limit.
+The submissions in the appeal
+Ms McCarthy generally supported the reasoning of the Court of Appeal on this issue, and relied in particular on Lord Hodges observations in paras 27 28 as directly applicable to Mr Derrys claim.
+For the Revenue, Mr Nawbatt submitted that the obiter observations in Cotter cannot be taken as suggesting that reliefs may be forced into year 1 where they do not in law relate to year 1.
+Lord Hodges observations should not be taken as intended to create a situation where a taxpayer can erroneously (or perhaps deliberately) make a claim as part of his self assessment exercise and expect to benefit from the error unless noticed and acted upon by the Revenue.
+The Court of Appeals reasoning in the present case, he submitted, turned on a misunderstanding of the correct meaning of self assessment, which relates solely to the action required to establish the amounts in which a person is chargeable to tax for the year, as reflected in the total tax figure given in the self assessment Box.
+It is wrong to regard other parts of the Tax Calculation Summary pages as part of that exercise if, as explained in Cotter (para 25) they do not affect the assessment of income tax chargeable for the year.
+Mr Deans evidence
+At this point I should refer to the witness statement of Mr Graham Dean, a Senior Investigator with the Revenue, which was admitted before the Upper Tribunal and referred to by Morgan J on other matters (see UT paras 47, 59ff).
+Mr Deans evidence was not mentioned by the Court of Appeal.
+Nor was it included in the original papers for this court or referred to in the written submissions; it was only produced at the request of the court.
+He speaks with experience as an Inspector of Taxes for more than 25 years, and particular experience of leading investigations into share loss relief avoidance.
+Mr Dean explains the procedures governing the submission of tax returns online, by use either of the Revenues own software, or software provided by other suppliers complying with the Revenues technical specifications and designed to produce the same computations (paras 5 6).
+He comments on the significance of different parts of the return: As well as the mandatory information relating to income and gains and the self assessment for the year in question (as required under sections 8 and 9), the tax return also provides spaces to allow the taxpayer, if he wishes, to provide other information or to make claims not related to the year in question.
+These are provided for administrative convenience and customer service but, being optional, are not subject to the consistency checks described above.
+One such matter is the ability to submit an early claim to relieve trading or capital losses arising in the immediately following tax year (year 2) by reference to income for the current year (year 1) or an earlier year.
+If the taxpayer wishes to make such a claim effective, he would also need to compute the amount of the tax repayment that he considers will arise from the claim and enter this in the box labelled Any [year 2] payment you are reclaiming now within the section headed adjustments to tax due.
+As these claims are not part of the year 1 return and do not affect the self assessment for that year, they are frequently referred to as stand alone claims. (paras 12 13) He explains that such a year 2 repayment claim is shown on the taxpayers self assessment statement of account as a Free Standing Credit or FSC.
+This, he says, simply records what the taxpayer has claimed.
+It does not represent HMRCs approval of the claim.
+Referring to Box 15 on page TC2, he says that is not part of the return, so it is not subject to any of the automated tax consistency checks (para 16).
+Commenting on Mr Derrys own return, and the entry in Box 15, he says that the effect of entering the figure of 165,800 in this box was to automatically generate an FSC of the same amount ; and that, when it was set against the balancing payment of 95,546.36 due on 31 January 2011, the computer automatically allocated the FSC against that liability first showing the balance as a repayment pending of 70,253.64 (paras 25, 28).
+Although he has been unable to ascertain the precise circumstances of the repayment made to Mr Derry before the conclusion of the enquiry, his own view, given the size of the claim and the fact that the company in question had not been identified, was that it had been made if not in error, then prematurely (para 31).
+Finally, he mentions the operational problems caused for the Revenue by the Court of Appeals decision in Cotter.
+But notes without further comment that the Revenues appeal was allowed by the Supreme Court.
+It does not appear that any similar evidence was before the court in Cotter.
+There was some uncertainty at the end of the hearing about the precise status of Mr Deans evidence, or the extent to which it was relied on in support of the Revenues submissions.
+Although we invited further submissions on certain questions apparently arising from it, I do not think the evidence itself is critical to our consideration of this issue.
+It is of some interest in explaining, not only the background to the present appeal, but more generally aspects of the Revenues approach to the self assessment process, and the workings of its internal systems.
+However, as Ms McCarthy rightly submits, neither the Revenues internal management systems, nor Mr Deans subjective understanding of them, can ultimately be determinative of the issue before us.
+That must turn on the correct interpretation of the law, and an objective reading of the tax return within its statutory framework.
+It may be, as Lady Arden suggests, that the relevant statutory framework should be taken as including the terms in which the relevant return forms, paper or electronic, are prescribed by the Revenue (under sections 8(1H) and 113 of the 1970 Act).
+That may in turn raise a question whether, in respect of the on line forms, those prescribed terms include, or are to be taken as including, the automatic adjustments built into the Revenues software, including the calculation in Box 1.
+Mr Deans evidence provides no direct assistance on the point, and neither party based any submissions on it.
+On the limited material before us, it is difficult to draw any firm conclusions.
+Post hearing submissions on Cotter
+One point on which we asked for clarification was the Revenues position on Lord Hodges obiter comments in Cotter, and in particular whether it mattered that the return in that case was in paper form rather than on line as in the present case.
+I quote Mr Nawbatts response: The material difference between submitting a paper return (including the tax calculation pages) and an on line return is that because the tax calculation pages on the paper return are completed manually it is physically possible for the taxpayer to enter into Box 1 TC1 a figure that is not the sum of the relevant boxes that feed into the self assessment for the year.
+As explained in Rouse 2 [R (Rouse) v HMRC [2014] STC 230], at para 14, if HMRC wanted to enquire into that Box 1 figure it would have to open a section 9A enquiry Mr Cotters case involved a paper return and had he requested the tax calculation pages he would have completed the Box 1 TC1 calculation manually rather than leaving it to HMRC to carry out the calculation.
+It is HMRCs position that Lord Hodges obiter comments in para 27 were addressing a hypothetical scenario in which Mr Cotters manual calculation of the Box 1 figure had involved the deduction of the year 2 loss relief, ie the figure Mr Cotter had manually inserted into Box 1 had been arrived at after deducting the year 2 relief .
+This interpretation, he submitted, is supported by Lord Hodges reference to Mr Cotter having calculated his liability to income tax by completing the tax calculation summary pages, giving the Revenue his assessment that specific sums or no sums were due as the tax chargeable for that year.
+The equivalent pages of the on line form used by Mr Derry did not permit such a specific calculation.
+To establish his claim he would have needed to complete the capital gains pages on the year 1 return, which it is said would have fed into the figure in Box 1.
+Ms McCarthy rejected this narrow view of Lord Hodges comments, and also the Revenues attempt to distinguish between the different parts of the Tax Calculation Summary.
+As she points out, Box 1 includes a reference to student loan repayment, which as Lord Hodge accepted (para 25) is extraneous to the chargeable income tax of the year.
+On the other hand, the Revenue accept that some other parts of the summary (Boxes 11 and 12: Blind persons surplus allowance and married couples surplus allowance) do feed into the tax for the current year.
+As Ms McCarthy submits, it is impossible to draw any clear distinction based simply on the printed entries in the form itself.
+She rejects as absurd the novel suggestion that, in order to claim a relief relevant to his income tax liability, he should have to fill in a part of the return dealing with capital gains.
+Comment on Issue 2
+Ms McCarthys submission, like the Court of Appeals reasoning, appears consistent with the natural reading of the statutory provisions.
+Section 9 requires the taxpayer to make a self assessment of the chargeable amount of tax on the basis of the information contained in the return and taking into account any relief a claim for which is included in the return (emphasis added).
+On its face, this implies that the return is treated as including the relief as claimed by the taxpayer in his return, whether or not the claim ultimately proves well founded.
+The Revenues case rests on the assertion that the process of self assessment is defined by the figure which appears in Box 1 under that title, and that other claims, including in particular in Box 15, are irrelevant in so far as they do not feed into the self assessment for the current year.
+Although, as already noted (para 40 above), Mr Nawbatt had conceded that this issue would not arise if Mr Derry succeeded on the first issue, his post hearing submission appeared to go back on that.
+Mr Nawbatt has not in terms sought permission to withdraw his concession and I agree with Ms McCarthy that it is much too late for him to do so.
+But in any event, the submission seems to me misconceived.
+It implies that, by prescribing an on line form which makes it impossible to make the necessary adjustment to the self assessment figure, the Revenue can deprive a taxpayer of a relief to which he is lawfully entitled and to which a claim has been clearly included on the face of his return.
+That cannot be right.
+It may be, as Mr Dean seems to be saying, that it would have bypassed the Revenues automated tax consistency checks.
+However, that is not the fault or the concern of the taxpayer.
+Whether the same would apply if the taxpayer had no such lawful entitlement raises more difficult issues.
+As already noted (para 52 above), the Court of Appeal proceeded on the basis that, even if the claim was made in error in that year, it would still be part of the self assessment.
+As Henderson LJ said: Plainly, errors of many different kinds may be made in such an assessment, and they may include errors about the availability of a relief.
+If the Revenue is dissatisfied with the taxpayers self assessment, its remedy is either to amend the return or to open an enquiry into it under section 9A of TMA 1970 (para 57) As he saw it, the Revenues difficulty was of their own making, in that they had failed to take the obvious step of opening a timely enquiry into the 2010 Return, so enabling them to challenge the repayment of tax claimed by Mr Derry at the same time as pursuing enquiries into the claim itself and into his 2011 return (para 58).
+Ms McCarthy in substance adopts the same reasoning.
+The fact that the taxpayers self assessment may be erroneous in some respect does not impact on the procedural means available to the Revenue to challenge it.
+Mr Nawbatt on the other side submits that, if the inclusion of the claim for that year was invalid in law, it could not be relied on to create an immunity from challenge which would not otherwise be available.
+I am not satisfied that these issues have been fully explored in argument before us, which has concentrated on the entitlement to relief rather than the means of enforcement.
+As has been seen, there remain unresolved uncertainties as to the correct interpretation of the entries in the on line form and their treatment by the Revenue.
+In addition, we heard little discussion of the relationship of the enquiries respectively under section 9A and Schedule 1A paragraph 5.
+Apart from timing, I did not understand it to be suggested that there was any material difference between the processes.
+While it may be prudent for the Revenue to institute an enquiry under the former section, if there is any doubt about what is properly to be treated as part of the return, it does not necessarily follow that the Revenue is thereafter bound by the contents of the return for all purposes.
+If it later emerges that a claim was wrongly included in the return for that year (for example, because it should have been treated as subject to TMA Schedule 1B), it may at least be arguable that the Revenue should not be precluded at that later stage from opening an enquiry on the correct basis.
+These are potentially important issues.
+Since we do not have to decide them in the context of the present case, I would prefer to leave them open for further consideration in an appropriate case with the benefit of full examination of the relevant law and practice.
+Conclusion
+For the reasons given under Issue 1 I would dismiss the Revenues appeal, and confirm the order of the Court of Appeal.
+Finally, I repeat Lord Hodges concluding comment in Cotter: 36 The revenues submission, which I have accepted, that some entries in a tax return form are not part of the tax return for the purposes of, among others, section 9 and 9A of the 1970 Act, may create avoidable uncertainty to taxpayers and their advisers.
+But that uncertainty could be removed if the return form which the revenue prescribes (section 113 the 1970 Act) were to make clear which boxes requesting information were not relevant to the calculation of tax due in the particular year of assessment.
+In particular, the revenue could make this clear where the form provides for the intimation of stand alone claims which relate to another tax year.
+We were not told what action, if any, has been taken in response to this advice.
+The uncertainties revealed by the submissions in the present case have underlined its importance.
+There is an urgent need for clarification, not only of the precise legal status of the different parts of the return, but also of any relevant differences between the paper and electronic versions of the return, and their practical consequences.
+LADY ARDEN:
+I am most grateful to Lord Carnwath for his judgment.
+I agree that this appeal should be dismissed as a result of Issue 1, subject to the observations on interpreting consolidation statutes made below.
+But on the second issue I have respectfully reached a different conclusion and so I will take that issue first.
+In summary on Issue 2, I would provisionally express the view that in consequence of this courts decision in Revenue and Customs Comrs v Cotter [2013] 1 WLR 3514 and the evidence of Mr Graham Dean on behalf of HMRC, which Lord Carnwath summarises at paras 57 58 above, the erroneous entry of a loss relief claim which a taxpayer was not entitled to make in that year (not this case) in Box 15 of the prescribed online tax return does not make that tax return form a tax return for enquiry purposes.
+That (provisionally) means that in those circumstances HMRC would be right to open an enquiry into the claim and not the return.
+Because this appeal is principally about which enquiry HMRC must open, I will take Issue 2 first.
+Issue 2: would making an erroneous claim for relief in an online tax return make that claim part of the tax return?
+Issue 2 arises where a taxpayer has a claim for relief which relates to two years and Taxes Management Act 1970 (TMA), Schedule 1B applies to it (a year 2 related claim).
+Under TMA, section 9(1) he must include in his return an assessment of the amount for which he is liable to pay tax taking in to account any relief or claim included in the return (see paras 22 and 64 above) (the tax calculation pages).
+Suppose that the taxpayer submits a return online for the year and claims in it relief for a loss which relates to the following year.
+His return will contain Box 15 (described by Lord Carnwath at para 43 above).
+Will his entry of a claim in Box 15 form part of that return for the purposes of the enquiry provisions of the TMA so that if HMRC wish to open an enquiry into that claim for relief they must open an enquiry into the return and not the claim? There needs to be a clear answer to this question to avoid unnecessary service of numerous precautionary enquiry notices.
+The relevant part of the tax calculation pages of the tax return is Box 1, which set out the total tax due, and Boxes 13 15 and the narrative above all three boxes, namely Boxes 13 15.
+Lord Carnwath has described Box 15 and that narrative in para 43 above.
+Box 13 is for increase in tax due because of adjustments in an earlier year and Box 14 is for decrease in tax due because of adjustments in an earlier year.
+HMRC has filed the evidence of Mr Dean.
+According to Mr Dean, once the information in the tax return (apart from the tax calculation pages) has been completed, the software presents a tax calculation from that information.
+Mr Dean further explains that, when a claim is inserted into Box 15, the tax payable by the individual and shown in Box 1 is unaffected.
+Using my own words, there is no reconciliation or adjustment between Box 15 and Box 1: the figure for the tax due for the year covered by the return remains exactly the same.
+What Box 15 on Mr Deans evidence enables the taxpayer to do is to make an early claim for the relief and to adjust his liability for tax for the following year in accordance with HMRCs understanding of the law.
+There is a dispute between the parties as to the extent to which Mr Deans evidence forms part of the evidence in these proceedings but the Upper Tribunal noted that it was accepted by both parties save in relation to a point which is no longer material (see [2016] STC 334, para 46).
+In those circumstances I propose to deal with the issue on the basis of Mr Deans evidence, but on a provisional basis only because this matter needs to be argued between HMRC and a taxpayer who is interested to argue otherwise.
+I agree with Lord Carnwath that it is not open to HMRC to argue that the online form prevented Mr Derry from making an adjustment to his calculation of the tax due if that is what he is entitled to do.
+They can, however, raise that argument against taxpayers with year 2 related claims.
+It is pertinent here to note that HMRC must not simply prescribe a separate form of tax return for use online they must also prescribe what constitutes an electronic return: see Taxes Management Act, section 8(1H), as amended by the Finance Act 2007.
+This power is conferred by primary legislation and therefore sections 9(1) and 8(1H) must be read harmoniously together.
+The form is in fact available for use only through HMRCs online services or with third party software approved by HMRC.
+It seems reasonable to infer that the automatic calculations and inhibitors on reconciliations built into the software and, it may be assumed, HMRCs online return form constitute part of the prescribed return and are included in what constitutes the return, but this point has not been the subject of argument.
+Again provisionally, there is no reason as it seems to me why the online form should not preclude an adjustment which would produce a result which was incompatible with the Taxes Acts.
+The objective in designing a tax return form, including an online form, is to help the taxpayer file a tax return which properly shows his liability, no more and no less.
+Indeed, Lord Hodge in Cotter specifically envisaged that HMRC could take steps to prevent a taxpayer making claims in the online form which he was not entitled to make: see para 24 set out by Lord Carnwath at para 51 above.
+It is now necessary to go back to Cotter.
+As I see it, Cotter teaches us that there is a difference, for the purposes of the TMA sections 8(1), 9, 9A and 42(11)(a) at least, between a tax return and a tax return form.
+This may be seen from paras 25 and 36 of Lord Hodges judgment in Cotter, cited by Lord Carnwath at paras 51 and 52 above.
+This court there held that, if an item does not fall to be taken into account for the purpose of calculating the tax payable by the taxpayer submitting the form, it is to be left out of account and does not constitute part of the return for the purposes mentioned.
+Mr Dean supplies the evidence as to how the relevant item in this case (the entry in Box 15) is treated in the online form, and that is only to notify HMRC of the claim and not to affect the tax payable.
+The Court of Appeal reached the conclusion that the claim made by Mr Derry was relevant to the calculation of the tax due (see para 47 above) but they took no account of the Mr Deans evidence.
+However, if that evidence is accepted, it would seem to me provisionally to follow that that their conclusion was wrong and that the effect described by Lord Hodge in para 27 of Cotter (para 51 above) would apply only in this case to a paper return in which the taxpayer performed his calculation of tax due taking the claim into account.
+It follows that the Court of Appeal would be in error in applying Lord Hodges reasoning to an online return (see per Henderson LJ cited at para 52 above).
+If that is correct, then as I see it (as I have said) provisionally, unless the ratio in Cotter is to be in some way qualified for online tax return forms (which is not suggested), the relief claimed through Box 15 would not form part of the statutory return even if the true interpretation of Box 15 is that it is permitting an adjustment to the tax.
+I do not consider that a taxpayer would necessarily have been misled by this since he would see that his entry had no effect on the figure in Box 1.
+On that basis, HMRC would not have to open an enquiry into the return where the taxpayer had filled in Box 15 with an erroneous claim as opposed to an enquiry into the claim.
+I would provisionally so hold for the reasons that I have given.
+Issue 1: approach to interpretation of tax rewrite statutes
+On Issue 1, while agreeing with all that Lord Carnwath has said, I add some observations about the approach to interpretation of the ITA and consolidation statutes in general to provide the context in which the passage from the judgment of Sales J approved by this court should be applied.
+In deciding how the court should interpret a statute, the type of statute as set out in the statutes preamble is a relevant consideration.
+In the case of the Income Tax Act 2007 (ITA), the preamble provides that the Act is to restate, with minor changes, certain enactments relating to income tax; and for connected purposes.
+So, ITA is not a pure or straight consolidation Act.
+However, as the Explanatory Notes cited by Lord Carnwath confirm, it is not (except for the minor changes) intended to change the law.
+That is a matter which the courts must in my judgment respect when interpreting the new legislation.
+In this regard it is of some significance in interpreting consolidation statutes that they receive less Parliamentary scrutiny than other primary legislation.
+The respect to which I have referred for giving effect to Parliaments intention where it is possible to do so is often expressed in terms of a presumption, in relation to consolidating statutes, that Parliament did not intend to change the law.
+It would often be laborious for a court to investigate what provisions had been consolidated in any particular provision of a consolidating statute.
+It would be wrong in general for it to do so.
+The process of drafting a consolidation statute requires specialist techniques and skills and can be very complex.
+But the position is different in relation to prior case law.
+The restraint required by the House of Lords in Farrell v Alexander [1977] AC 59 relates to legislative history, and not to relevant antecedent case law.
+Moreover, in practice, even where a statute is a consolidation statute, courts often look at previous case law on provisions that are consolidated to assist them interpret the new provision where there is any doubt or simply to confirm the view that they have formed.
+This is good sense in the interest of the consistency of the law, the fulfilment of Parliaments presumed intention and the efficient use of judicial resources.
+There is a further issue, yet to be resolved, as to the application of the doctrine of precedent where there is a previous binding decision on the same provision in the earlier enactment: see the discussion in Bentine v Bentine [2016] Ch 489.
+Reference back to the earlier case law does not undo the good work done by the consolidation, or run counter to it, since Parliament is likely to have had the previous case law in mind in any event when enacting the consolidating statute without any pre consolidation amendment.
+I agree that HMRCs appeal should be dismissed.

@@ -1,0 +1,108 @@
+By this appeal Mr and Mrs Hancock seek to show that the redemption of the loan notes, issued to them in connection with the sale of their shares in their company, Blubeckers Ltd, fell outside the charge to capital gains tax (CGT) by virtue of the exemption in section 115 of the Taxation of Chargeable Gains Act 1992 (TCGA) for disposals of qualifying corporate bonds (QCBs).
+QCBs are essentially sterling only bonds (see TCGA, section 117).
+The noteworthy feature for present purposes of the redemption process was that, following the reorganisation, some of the loan notes issued as consideration were converted into QCBs.
+TCGA confers rollover relief on the disposal of securities as part of a reorganisation, ie it brings securities issued as consideration into charge for CGT purposes but defers the tax until their subsequent realisation.
+This is less favourable to the taxpayer than the exemption in TCGA, section 115.
+The roll over provisions constitute a carve out from the exemption in TCGA, section 115.
+They extend to certain conversions involving QCBs.
+The appellants seek to fall outside that carve out (and thus within the exemption in TCGA, section 115).
+The Court of Appeal (Lewison, Kitchin and Floyd LJJ) rejected the appellants claim: [2017] 1 WLR 4717.
+They considered that, although the wording of the carve out could be read literally in favour of the taxpayers, that result would be contrary to Parliaments intention.
+Therefore, the appellants claim for relief failed.
+Instead, they were entitled to rollover relief deferring tax to redemption.
+The legislative and factual framework in more detail
+For CGT purposes, there must be a relevant disposal of a relevant asset by persons chargeable to tax resulting in a gain which is chargeable for capital gains tax purposes.
+In this case, the appellants undoubtedly made a gain when they exchanged their shares in Blubeckers Ltd for redeemable loan notes (with a provision for an earn out under which further loan notes would, as in the event happened, be issued, dependent on the performance of the business).
+This transaction was a reorganisation under TCGA, section 126.
+Rollover relief was available under TCGA, section 127.
+The appellants structured the disposal of their Blubeckers shares in three stages.
+Stage 1 was the exchange of Blubeckers shares for Lionheart notes, which, being convertible into foreign currency, were not QCBs.
+At Stage 2, the terms of some of those notes were varied so that they became QCBs.
+At Stage 3, both sets of notes (QCBs and non QCBs) were, together and without distinction, converted into one series of secured discounted loan notes (SLNs), which were QCBs.
+The SLNs were subsequently redeemed for cash.
+It is said to be the result of the completion of Stages 2 and 3 that the appellants are not chargeable to CGT.
+The exact nominal amount of loan notes converted into QCBs does not matter in that, on the appellants argument, it was sufficient if the QCB element of the conversion was the smallest denomination (say 1).
+Rollover relief is available for reorganisations resulting in the issue of securities such as shares.
+TCGA, section 132, as amended by section 88(2) of the Finance Act 1997, by extending that relief to a conversion of securities, following a reorganisation, in or out of a QCB, equates the relief for such a conversion with that available for a reorganisation of share capital: 132(1) Sections 127 to 131 shall apply with any necessary adaptations in relation to the conversion of securities as they apply in relation to a reorganisation (that is to say, a reorganisation or reduction of a companys share capital). (3) For the purposes of this section and section 133 (a) conversion of securities includes any of the following, whether effected by a transaction or occurring in consequence of the operation of the terms of any security or of any debenture which is not a security, that is to say a conversion of securities of a company (i) into shares in the company, and (ia) a conversion of a security which is not a qualifying corporate bond into a security of the same company which is such a bond, and (ib) a conversion of a qualifying corporate bond into a security which is a security of the same company but is not such a bond, and (ii) a conversion at the option of the holder of the securities converted as an alternative to the redemption of those securities for cash, and (iii) any exchange of securities effected in pursuance of any enactment (including an enactment passed after this Act) which provides for the compulsory acquisition of any shares or securities and the issue of securities or other securities instead, (b) security includes any loan stock or similar security whether of the Government of the United Kingdom or of any other government, or of any public or local authority in the United Kingdom or elsewhere, or of any company, and whether secured or unsecured.
+The purpose of TCGA, sections 127 to 131, referred to in the opening line of section 132, is to provide that there is no disposal of shares at the time of the reorganisation, and for further matters, such as the allocation of the consideration between different classes of security, part disposals, unpaid calls and indexation.
+The key points to note in these provisions, which it is not necessary to set out, are (1) that a conversion as defined is to receive the same relief as a reorganisation, ie rollover relief, even if it involves QCBs whose disposal is otherwise outside the charge to CGT; and (2) that emphasis is given to the aggregation of the securities into a single asset: section 127 provides that both the original holding, taken as a single asset, which the holder disposes of under the reorganisation, and the consideration securities, also taken as a single asset, are treated as the same asset with the same acquisition date as the original holding.
+We are not concerned with sections 133 or 134.
+To ensure that the conversion of, or into, QCBs on a reorganisation is within the charge to CGT on the same basis as the issue of other securities on a reorganisation, ie on the basis that the holder is entitled to rollover relief, section 116(1) provides that the disposal will result in rollover relief where sections 127 to 130 would apply, and (these are the critical words which this court must construe): (b) [Limb A] either the original shares would consist of or include a qualifying corporate bond and the new holding would not, or [Limb B] the original shares would not and the new holding would consist of or include such a bond; (words in square brackets added)
+Floyd LJ, giving the first judgment in the Court of Appeal, called the first possible scenario in section 116(1)(b), Limb A, and the alternative scenario, Limb B. I will do the same.
+The effect of section 116(1)(b) is that, where the new holding following conversion includes QCBs, Limb A cannot apply.
+The question here is whether Limb B applies: the appellants contend that Limb B also cannot apply because the (aggregate) original holding prior to conversion included QCBs.
+The reasoning of the Upper Tribunal and the Court of Appeal
+The Upper Tribunal, allowing an appeal from the First tier Tribunal, held that the conversion of securities at the third stage comprised separate transactions in relation to each share converted.
+As the First tier Tribunal had pointed out, the relief under section 116 for QCBs had been intended to promote the market in sterling bonds and so the interpretation favoured by the appellants would go well beyond that objective.
+The Upper Tribunal also noted that in TCGA, section 132 Parliament had defined conversion in relation to transactions involving QCBs separately in relation to each security (see para 4 above).
+The Upper Tribunal also rejected HMRCs argument based on WT Ramsay Ltd v Inland Revenue Comrs [1982] AC 300, but we are not concerned with that as HMRC has not appealed against that ruling.
+The appellants appealed to the Court of Appeal.
+They repeated their argument that Stage 3 constituted a single conversion of the loan notes (including QCBs) into QCBs, and so neither limb of TCGA, section 116(1)(b) applied.
+HMRC responded that Stage 3 was not one transaction but two: the first transaction (the conversion of the non QCBs into QCBs) fell within Limb A and the second (the conversion of the QCBs into SLNs, which were also QCBs) was outside section 116(1)(b), but (as appears from para 12 of Floyd LJs judgment) the appellants accepted that the variation of the terms of these loan notes at Stage 2 was a conversion which carried rollover relief so that, when those bonds were redeemed, a charge to CGT on the held over gain on these bonds was triggered.
+Seeking guidance as to the correct approach on statutory interpretation Floyd LJ (at para 45 of his judgment) cited, among other authorities, a passage from the judgment of Neuberger J in Jenks v Dickinson [1997] STC 853, concerning QCBs and the predecessor of TCGA.
+That case raised the issue whether a provision which extended the meaning of QCBs with retrospective effect relieved the taxpayer of an intervening accrued tax charge on the sale of shares into which the securities which had retrospectively become QCBs had been converted.
+Neuberger J held that it did not.
+In the passage cited by Floyd LJ, Neuberger J held that the taxpayers construction was: contradictory to the evident purpose of the relevant statutory provisions, viewed as a whole, viz that capital gains made on [QCBs] should be exempt from tax, whereas capital gains made on shares should be subject to tax.
+In the circumstances, principle, common sense, and authority show that the court is entitled, and indeed bound, to . adopt some other possible meaning if it exists (to quote Lord Reid: see [Luke v Inland Revenue Comrs] [1963] AC 557, 579).
+Floyd LJ pointed out that section 132 did not give as an example of a (single) conversion a conversion of different classes of bonds (para 65).
+The process of applying sections 127 to 131 as required by the opening words of section 132 allowed for necessary adaptations (para 63), and so there could be aggregation of securities for the purposes of some conversions but not others.
+The effect of the appellants argument would be that the non QCBs would escape the charge to CGT.
+This was contradictory to the evident purpose of the statutory scheme.
+The conversion of the two classes of loan notes could and should therefore be treated separately (para 68).
+The words or include (providing the option of a single conversion) did not mean that there could be such a conversion (para 69).
+The statutory fiction in section 127 had to be restricted to avoid an unintended result (para 70).
+The additional words or include were an isolated drafting anomaly: the appellants argument would produce an even greater anomaly (para 71).
+The wording of section 116(3) and (4) which use the word constitute was consistent with the conclusion that mixed conversions were not within section 116(1)(b) (para 73).
+Lewison LJ agreed.
+He gave additional reasons.
+He placed greater weight on the purposive approach holding that necessary adaptations could include adaptations necessary to give effect to the policy of the statutory scheme (para 82).
+He too applied Jenks (para 84) and Luke v Inland Revenue Comrs (para 88).
+This enabled him to disregard the words or include in section 116 in the circumstances of this case.
+Kitchin LJ agreed with both judgments.
+Submissions on this appeal
+Mr Michael Sherry, for the appellants, repeats the arguments on interpretation that were considered by the Court of Appeal in their judgment.
+He compares section 116 with section 135, which I have not mentioned above as it deals with another form of reorganisation to which Parliament has also directed that sections 127 to 131 should apply with necessary adaptations, so that the fact that it may favour the single asset approach would not be determinative in relation to section 116.
+A new factor on which he relies is the absence of any statutory provision for apportioning consideration where, as here, the QCBs and non QCBs have been converted together without any allocation of the price.
+But that is a matter of mechanics and no doubt the allocation could be established by evidence.
+Mr Sherry emphasises the principle against taxation without clear words (the clear words principle), which can be found in the speech of Lord Wilberforce in Ramsay [1982] AC 300, 323: A subject is only to be taxed upon clear words, not upon intendment or upon the equity of an Act.
+Any taxing Act of Parliament is to be construed in accordance with this principle.
+What are clear words is to be ascertained upon normal principles: these do not confine the courts to literal interpretation.
+There may, indeed should, be considered the context and scheme of the relevant Act as a whole, and its purpose may, indeed should, be regarded: see Inland Revenue Comrs v Wesleyan and General Assurance Society (1946) 30 TC 11, 16 per Lord Greene MR and: Mangin v Inland Revenue Comr [1971] AC 739, 746 per Lord Donovan.
+The relevant Act in these cases is the Finance Act 1965, the purpose of which is to impose a tax on gains less allowable losses, arising from disposals.
+So, submits Mr Sherry, it goes too far to treat the transaction in issue as two conversions.
+There was here a single conversion and that was the legal nature of what has happened.
+But the answer to his reliance on the passage set out above from the speech of Lord Wilberforce in Ramsay is that the clear words principle is not infringed if, fairly and properly construed, no doubt remains as to the meaning of section 116(1)(b).
+Moreover, there is no question of re characterising the parties transaction.
+It is simply a matter of deciding what is a conversion for the purposes of the statutory scheme.
+Mr Michael Gibbon QC, for HMRC, submits that the Court of Appeals interpretation is principled and uses a conventional approach.
+The statutory scheme as so construed is fair to taxpayers generally and coherent.
+Discussion
+It is common ground that, if the conversion at Stage 3 involved separate conversions of the QCBs and the non QCBs, the appeal must fail.
+The question whether there was a single conversion or two separate conversions must be a question of applying the provisions of TCGA to the facts.
+The answer is not mandated in the appellants favour by the fact that they utilised a single transaction.
+Plainly, section 116(1)(b) contemplates the possibility of a single transaction which involves a pre conversion holding of both QCBs and non QCBs, and this, coupled with the fact that the Court of Appeals interpretation renders the words or include appearing in section 116(1)(b) otiose are powerful arguments in support of the appellants construction.
+However, the appellants interpretation result would be inexplicable in terms of the policy expressed in these provisions, which is to enable all relevant reorganisations to benefit from the same rollover relief.
+Taxpayers could avoid those provisions with extreme ease if the appellants are right.
+There would be nothing to prevent them from using the occasion of a minimal conversion (say 1 nominal QCB) following a reorganisation and obtaining relief from CGT which was plainly contrary to and inconsistent with that which was intended to apply to a conversion connected to a reorganisation.
+In reality, by looking to the fiscal policy behind the scheme, both Floyd and Lewison LJJ applied a purposive approach.
+I need not say more about the purposive approach in general, save that Lewison LJ seemed to draw a distinction between the policy of TCGA in its entirety and that part of the Act which deals with corporate reorganisations (para 82).
+This is not easy to follow as the policy of the Act does not materially add to the policy of the relevant sections for present purposes.
+Floyd and Lewison LJJ did not give any meaning to the words or include in section 116(1)(b), but as I see it this was appropriate because in section 132(3), as the Upper Tribunal pointed out, it is clear that the intention of Parliament was that each security converted into a QCB should be viewed as a separate conversion (which amounts to the same thing as regarding the conversion in this case as consisting of two conversions, one of QCBs and one of non QCBs).
+Moreover, it is not an objection that section 127 contemplates a single asset (see para 5 above), because Parliament has required sections 127 to 131 to be applied with necessary adaptations.
+In those circumstances the clear words principle is observed in the present case.
+Floyd and Lewison LJJ also relied on the principle in Luke v Inland Revenue Comrs [1963] AC 557.
+This enables the court, when interpreting a statute, to adopt (my words) a strained interpretation in place of one which would be contrary to the clear intention of Parliament.
+This principle in Luke can apply even to a tax statute.
+The clear words principle relied on by Mr Sherry does not, as Lord Wilberforce pointed out, confine the courts to a literal interpretation.
+However, the circumstances in which the principle in Luke can be applied must be limited, for example, to those where there is not simply some inconsistency with evident Parliamentary intention but some clear contradiction with it.
+Moreover, the intention of Parliament must be clearly found on the wording of the legislation.
+The particular issue in Luke illustrates the nature of this principle: on the ordinary meaning of the Income Tax Act 1952, section 161, enacted to prevent tax avoidance by employers meeting expenses for their employees, a director became liable to be taxed as part of his remuneration on the cost of repairs executed by his employer on a house which he had leased from his employer at a fair rent when the repairs were those for which the landlord would normally be responsible (and had agreed to be responsible).
+This was clearly an unreasonable result, and the intention to produce such a result could not be imputed to Parliament.
+The House by a majority of 3:2 held that the expenditure was within an exemption for expenditure by a company on additions to its own assets, although this provision had to be read in a somewhat broad brush way to produce that result.
+At p 578, Lord Reid called it any port in a storm.
+The principle was used in that case to prevent the unreasonable imposition of a tax charge.
+In this case it is invoked in like circumstances in favour of HMRC to prevent the imputation to Parliament of an intention to produce an irrational result.
+It has not been argued that it can only apply in favour of the taxpayer and in Jenks (above, para 10) Neuberger J applied it to the disbenefit of the taxpayer.
+Nothing in this judgment detracts from the principle in Luke but in my judgment, it is unnecessary to consider its application in this case because, as explained in para 23 above, the construction of the relevant provisions is clear without resort to it.
+In summary, using Lewison LJs mixed but vivid metaphor ([2017] 1 WLR 4717, para 89), on the true interpretation of TCGA section 116(1)(b), the potential gain within the non QCBs was frozen on conversion and did not disappear in a puff of smoke.
+I would dismiss this appeal.
