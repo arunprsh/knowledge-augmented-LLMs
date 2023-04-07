@@ -27,6 +27,7 @@ domain_index = config['domain']['index']
 URL = f'{domain_endpoint}/{domain_index}/_search'
 
 # --------------------------------- STREAMLIT APP --------------------------------- 
+
 st.subheader('Legal Question & Answering')
 
 # Receive user input from the chat UI
