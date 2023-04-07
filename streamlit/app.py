@@ -74,20 +74,19 @@ if st.button('Submit', type='primary'):
         res_box.write("Sorry! I couldn't find an answer to your question")
 
     for hit in hits:
-        confidence = hit['_score']
+        score = hit['_score']
         passage = hit['_source']['passage']
         doc_id = hit['_source']['doc_id']
         passage_id = hit['_source']['passage_id']
-        # country = hit['_source']['country']
         qa_prompt = f'Context: {passage}\nQuestion: {prompt}\nAnswer:'
 
         report = []
         res_box = st.empty()
         
-        response = cohere_client.generate(prompt=qa_prompt,
-                                       max_tokens=64,
-                                       temperature=0.5,
-                                       return_likelihoods='GENERATION')
+        response = cohere_client.generate(prompt=qa_prompt, 
+                                          max_tokens=64, 
+                                          temperature=0.5, 
+                                          return_likelihoods='GENERATION')
         
         answer = response.generations[0].text.strip().replace('\n', '')
         answer = clean_text(answer)
@@ -96,6 +95,6 @@ if st.button('Submit', type='primary'):
             res_box.markdown(f'**Answer:**\n*{answer}*')
 
         res_box = st.empty()
-        res_box.markdown(f'**Reference**:\n*Document = {doc_id} | Passage = {passage_id} | Score = {confidence}*')
+        res_box.markdown(f'**Reference**:\n*Document = {doc_id} | Passage = {passage_id} | Score = {score}*')
         res_box = st.empty()
         st.markdown('----')
